@@ -1,0 +1,52 @@
+name: Scanner favorita HT
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: segnali-ht-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 65
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Scansione in loop (ogni 4 minuti per ~55 minuti)
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        PYTHONUNBUFFERED: "1"
+      run: |
+        git config user.name "segnali-ht-bot"
+        git config user.email "segnali-ht-bot@users.noreply.github.com"
+        end=$(( $(date +%s) + 55*60 ))
+        while [ $(date +%s) -lt $end ]; do
+          start=$(date +%s)
+          git pull --rebase -X theirs origin main || true
+          python scanner/scan.py || echo "scansione fallita, riprovo al giro dopo"
+          git add live/data/signals.json live/data/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "live: aggiorna segnali $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push origin HEAD:main && break
+              sleep 5
+            done
+          fi
+          left=$(( 240 - ($(date +%s) - start) ))
+          [ $left -gt 0 ] && sleep $left
+        done
