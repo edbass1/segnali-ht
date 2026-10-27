@@ -211,12 +211,15 @@ class TestParsers(unittest.TestCase):
          "url":"https://www.betexplorer.com/football/italy/serie-a/sassuolo-lazio/QgHKnTUq/"}
         </script>
         <a href="/football/italy/serie-a/as-roma-cagliari/UNVlhk7M/" class="in-match"><span><strong>AS Roma</strong></span> - <span>Cagliari</span></a>
+        <a href="/football/spain/laliga/celta-vigo-betis/b9rGF2t9/" class="in-match"><span>Celta Vigo</span> - <span>Betis</span></a>
         '''
         events = scan.parse_betexplorer_events(page)
         ev = scan.pick_be_event(events, "Sassuolo", "Lazio", "2026-10-27T17:30:00.000Z")
         self.assertEqual(ev["id"], "QgHKnTUq")
         ev2 = scan.pick_be_event(events, "Roma", "Cagliari", "2026-10-27T19:45:00Z")
         self.assertEqual(ev2["id"], "UNVlhk7M")
+        ev3 = scan.pick_be_event(events, "Celta Vigo", "Real Betis", "2026-10-25T14:15:00Z")
+        self.assertEqual(ev3["id"], "b9rGF2t9")
 
     def test_h2h_prefers_betfair_then_fallback(self):
         def book(key, home_p, draw_p, away_p, home="Roma", away="Cagliari"):

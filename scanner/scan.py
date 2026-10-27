@@ -117,7 +117,8 @@ _BE_CELL = re.compile(
     r'data-odd="([0-9]+(?:[.,][0-9]+)?)".{0,220}?data-pos="([012])".{0,160}?data-bookie="([^"]+)"',
     re.S)
 _BE_LINK = re.compile(
-    r'href="([^"]*/([A-Za-z0-9]+)/)"[^>]*class="in-match"[^>]*>\s*<span><strong>([^<]*)</strong></span>\s*-\s*<span>([^<]*)</span>')
+    r'href="([^"]*/([A-Za-z0-9]+)/)"[^>]*class="in-match"[^>]*>\s*'
+    r'<span>(?:<strong>)?([^<]+)(?:</strong>)?</span>\s*-\s*<span>(?:<strong>)?([^<]+)(?:</strong>)?</span>')
 
 _STOP = {
     "fc", "cf", "sk", "ac", "as", "sc", "fk", "cd", "ud", "sd", "rc", "rcd", "afc", "ss", "us", "ssc", "vfb", "vfl",
@@ -1384,8 +1385,14 @@ def test_mode(mid=None, send=False, use_odds=False):
         log("condizione 0-0 all'intervallo: NO")
     else:
         log("condizione 0-0 all'intervallo: SI")
-    if not would:
-        log("non sarebbe un segnale con i dati disponibili (manca 0-0, lega, o filtri primo tempo / prematch)")
+    if not ok:
+        log(f"non sarebbe un segnale: campionato escluso ({why})")
+    elif not teams_ok(home, away):
+        log("non sarebbe un segnale: squadra riserve/giovanile/femminile")
+    elif not score_00:
+        log("non sarebbe un segnale: all'intervallo non era 0-0")
+    elif gate["status"] == "reject":
+        log("non sarebbe un segnale: " + "; ".join(gate["reasons"]))
     elif not use_odds:
         log("filtri statistici/prematch superati: in produzione qui partira 1 chiamata The Odds API")
     if decision and decision.get("send"):
