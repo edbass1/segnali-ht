@@ -311,6 +311,16 @@
    "home_name": "Criciúma",
    "away_name": "Ponte Preta",
    "league_id": 8814
+  },
+  "5103687": {
+   "home": 1.81,
+   "draw": 3.4,
+   "away": 4.2,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793379636,
+   "home_name": "Corinthians",
+   "away_name": "Mirassol",
+   "league_id": 268
   }
  },
  "odds_check": {},
@@ -349,8 +359,8 @@
  },
  "live_count": 14,
  "candidates_last": 0,
- "last_scan": "2026-10-30 17:56",
- "requests_last": 28,
- "last_write": "2026-10-30 17:56",
- "last_write_ts": 1793379404
+ "last_scan": "2026-10-30 18:00",
+ "requests_last": 23,
+ "last_write": "2026-10-30 18:00",
+ "last_write_ts": 1793379636
 }
