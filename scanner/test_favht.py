@@ -38,8 +38,12 @@ class TestWindow(unittest.TestCase):
         self.assertEqual(phase, "HT")
 
     def test_second_half_edge(self):
-        ok50, _ = scan.in_window(status("50\u200e’\u200e", max_time=90, base=90, second="27.10.2026 18:34:12"))
-        ok51, _ = scan.in_window(status("51'", max_time=90, base=90, second="x"))
+        ok70, _ = scan.in_window(status("70\u200e’\u200e", max_time=90, base=90, second="27.10.2026 18:34:12"))
+        ok71, _ = scan.in_window(status("71'", max_time=90, base=90, second="x"))
+        self.assertTrue(ok70)
+        self.assertFalse(ok71)
+        ok50, _ = scan.in_window(status("50'", max_time=90, base=90, second="x"), max_minute=50)
+        ok51, _ = scan.in_window(status("51'", max_time=90, base=90, second="x"), max_minute=50)
         self.assertTrue(ok50)
         self.assertFalse(ok51)
 
@@ -119,7 +123,7 @@ class TestFilters(unittest.TestCase):
         self.assertEqual(ok["live_price"], 1.70)
         low = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(1.54, 4.0, 6.0))
         self.assertFalse(low["send"])
-        self.assertTrue(low["final"])
+        self.assertFalse(low["final"])
         high = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(1.86, 3.4, 4.8))
         self.assertFalse(high["send"])
         edges = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(1.55, 3.8, 6.0))
@@ -269,10 +273,10 @@ class TestMessage(unittest.TestCase):
     def test_full_message(self):
         text = scan.build_message(self.info(stats=stats((5, 1), (64, 36), (24, 10), xg=(0.7, 0.2))))
         for bit in (
-            "FAVORITA HT 0-0", "Inter - Fiorentina", "Serie A", "Intervallo", "0 - 0",
+            "FAVORITA 0-0 LIVE", "Inter - Fiorentina", "Serie A", "Intervallo", "0 - 0",
             "PERCHÉ la giocata", "salita", "COSA giocare", "Punta la favorita",
             "Esito Finale / Match Odds", "Quota minima consigliata", "1% del capitale",
-            "COME e QUANDO uscire", "Green up", "1,25", "Stop loss", "70'-75'",
+            "COME e QUANDO uscire", "Green up", "1,25", "Stop loss", "55'", "60'",
             "rosso", "pressione", "GIOCATA ALTERNATIVA (facoltativa)", "Over 0,5",
             "non va sommata allo stake", "Nessun altro messaggio",
         ):
@@ -301,7 +305,8 @@ class TestMessage(unittest.TestCase):
         self.assertEqual(rec["odds"]["live"]["favourite"], 1.72)
         state, signals = {}, []
         scan.reseed_sent(state, [rec])
-        self.assertIn("5749714", state["sent"])
+        self.assertIn("5749714:favht", state["sent"])
+        self.assertNotIn("5749714", state["sent"])
         scan.reseed_sent(state, [rec])
         self.assertEqual(len(state["sent"]), 1)
 
@@ -317,6 +322,188 @@ class TestQuotaState(unittest.TestCase):
         self.assertFalse(scan.quota_low({"odds_api": {"remaining": "60"}}))
         self.assertTrue(scan.quota_low({"odds_api": {"remaining": "59"}}))
         self.assertFalse(scan.quota_low({"odds_api": {"remaining": None}}))
+
+
+def lay_stats(**kw):
+    base = stats((8, 2), (64, 36), (28, 10), xg=(1.1, 0.3))
+    base.update(kw)
+    return base
+
+
+class TestScaleAndExit(unittest.TestCase):
+    def test_sot_grows_after_ht(self):
+        self.assertTrue(scan.dominates(stats((3, 1), (58, 42), (16, 10)), "home", minute=45)[0])
+        self.assertFalse(scan.dominates(stats((4, 1), (64, 36), (24, 10)), "home", minute=70)[0])
+        self.assertTrue(scan.dominates(stats((5, 1), (64, 36), (24, 10)), "home", minute=70)[0])
+        self.assertFalse(scan.dominates(stats((5, 2), (64, 36), (24, 10)), "home", minute=70)[0])
+
+    def test_live_band_rises(self):
+        self.assertEqual(tuple(round(x, 2) for x in scan.fav_live_band(45)), (1.55, 1.85))
+        self.assertEqual(tuple(round(x, 2) for x in scan.fav_live_band(60)), (1.85, 2.30))
+        self.assertEqual(tuple(round(x, 2) for x in scan.fav_live_band(70)), (2.05, 2.60))
+        early = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(1.90, 3.4, 4.5), minute=45)
+        self.assertFalse(early["send"])
+        later = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(1.90, 3.4, 4.5), minute=60)
+        self.assertTrue(later["send"])
+        late_high = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(2.61, 3.2, 2.7), minute=70)
+        self.assertFalse(late_high["send"])
+        late_ok = scan.assess(strong(), pre(1.40, 4.5, 6.0), live(2.20, 3.2, 3.4), minute=70)
+        self.assertTrue(late_ok["send"])
+
+    def test_exit_follows_entry(self):
+        self.assertEqual(scan.exit_window(45), (55, 60))
+        self.assertEqual(scan.exit_window(62), (72, 77))
+        self.assertEqual(scan.exit_window(68), (78, 80))
+        self.assertEqual(scan.exit_window(70), (80, 80))
+        text = scan.build_message(self._late())
+        self.assertIn("Sei entrato al 65'", text)
+        self.assertIn("75'", text)
+        self.assertIn("80'", text)
+        self.assertIn("Fino a questo minuto", text)
+        self.assertIn("Prossimo gol della favorita", text)
+
+    def _late(self):
+        return {
+            "match_id": 1, "home": "Inter", "away": "Fiorentina",
+            "league": "Serie A", "country": "ITA", "league_id": 55,
+            "phase": "2T", "phase_label": "65'", "minute": 65, "entry_minute": 65,
+            "score": "0 - 0", "stats_scope": "match",
+            "favourite_side": "home", "favourite_team": "Inter", "opponent": "Fiorentina",
+            "prematch_price": 1.40, "prematch_home": 1.40, "prematch_draw": 4.6, "prematch_away": 7.5,
+            "prematch_source": "fotmob:Bet365",
+            "live_price": 2.10, "live_home": 2.10, "live_draw": 3.1, "live_away": 4.2,
+            "live_book": "Betfair", "live_quota_nd": False,
+            "stats": stats((6, 2), (62, 38), (22, 10), xg=(0.9, 0.3)),
+            "time": "2026-10-27 19:20",
+        }
+
+    def test_tick_and_stake(self):
+        self.assertEqual(scan.one_tick_above(1.80), 1.81)
+        self.assertEqual(scan.one_tick_above(2.00), 2.02)
+        self.assertEqual(scan.one_tick_above(2.30), 2.32)
+        self.assertEqual(scan.one_tick_above(3.00), 3.05)
+        self.assertAlmostEqual(scan.lay_stake_pct(2.30, 1), 1 / 1.30)
+
+    def test_odds_recheck_gap(self):
+        state = {"odds_check": {"9:favht": {"minute": 46, "price": 1.9}}}
+        self.assertTrue(scan.odds_too_soon(state, 9, "favht", 50))
+        self.assertFalse(scan.odds_too_soon(state, 9, "favht", 56))
+
+
+class TestLay(unittest.TestCase):
+    def test_viking_bayern_shape(self):
+        # Viking (casa) conduce 2-0, Bayern (ospite) favorita a 1,14 e domina i numeri.
+        bayern = stats((2, 8), (36, 64), (10, 28), xg=(0.3, 1.1))
+        gate = scan.lay_gate(bayern, pre(6.5, 5.0, 1.14), (2, 0), minute=45)
+        self.assertEqual(gate["status"], "need_live")
+        self.assertEqual(gate["favourite"], "away")
+        self.assertEqual(gate["underdog"], "home")
+        self.assertEqual(gate["lead"], 2)
+        sent = scan.assess_lay(bayern, pre(6.5, 5.0, 1.14), (2, 0), live(2.30, 3.6, 1.55))
+        self.assertTrue(sent["send"])
+        self.assertEqual(sent["live_price"], 2.30)
+        self.assertTrue(sent["lay_estimated"])
+        self.assertEqual(sent["lay_price"], 2.32)
+        book = live(2.30, 3.6, 1.55)
+        book.update({"lay_home": 2.34, "lay_away": 1.56, "lay_draw": 3.7})
+        priced = scan.assess_lay(bayern, pre(6.5, 5.0, 1.14), (2, 0), book)
+        self.assertFalse(priced["lay_estimated"])
+        self.assertEqual(priced["lay_price"], 2.34)
+
+    def test_score_and_price_rules(self):
+        st = lay_stats()
+        self.assertEqual(scan.lay_gate(st, pre(1.40, 4.5, 7.0), (0, 1))["status"], "need_live")
+        two = scan.lay_gate(st, pre(1.40, 4.5, 7.0), (0, 2))
+        self.assertEqual(two["status"], "reject")
+        self.assertFalse(two["final"])
+        short = scan.lay_gate(st, pre(1.20, 6.0, 10.0), (0, 2))
+        self.assertEqual(short["status"], "need_live")
+        long = scan.lay_gate(st, pre(1.50, 4.2, 6.0), (0, 1))
+        self.assertEqual(long["status"], "reject")
+        self.assertTrue(long["final"])
+        self.assertEqual(scan.lay_gate(st, pre(1.30, 5, 8), (0, 0))["status"], "reject")
+        self.assertEqual(scan.lay_gate(st, pre(1.20, 6, 9), (0, 3))["status"], "reject")
+        self.assertFalse(scan.lay_gate(st, None, (0, 1))["final"])
+        red = scan.lay_gate(lay_stats(red=(1, 0)), pre(1.30, 5, 8), (0, 1))
+        self.assertTrue(red["final"])
+        low = scan.assess_lay(st, pre(1.30, 5, 8), (0, 1), live(4.2, 3.8, 1.79))
+        self.assertFalse(low["send"])
+        high = scan.assess_lay(st, pre(1.30, 5, 8), (0, 1), live(4.2, 3.4, 3.01))
+        self.assertFalse(high["send"])
+        edge = scan.assess_lay(st, pre(1.30, 5, 8), (0, 1), live(4.0, 3.5, 1.80))
+        self.assertTrue(edge["send"])
+        top = scan.assess_lay(st, pre(1.30, 5, 8), (0, 1), live(2.4, 3.4, 3.00))
+        self.assertTrue(top["send"])
+        blind = scan.assess_lay(st, pre(1.30, 5, 8), (0, 1), None, quota_blocked=True)
+        self.assertFalse(blind["send"])
+
+    def test_lay_dominance_thresholds(self):
+        self.assertFalse(scan.dominates(stats((4, 2), (64, 36), (20, 10)), "home", profile="lay")[0])
+        self.assertFalse(scan.dominates(stats((6, 1), (59, 41), (24, 10)), "home", profile="lay")[0])
+        self.assertFalse(scan.dominates(stats((6, 1), (64, 36), (19, 10)), "home", profile="lay")[0])
+        self.assertTrue(scan.dominates(stats((6, 1), (60, 40), (20, 10)), "home", profile="lay")[0])
+        self.assertFalse(scan.dominates(stats((5, 1), (64, 36), (24, 10)), "home", minute=70, profile="lay")[0])
+
+    def test_lay_message_and_record(self):
+        info = {
+            "strategy": "lay_sfav", "match_id": 99,
+            "home": "Viking", "away": "Bayern", "league": "Eliteserien", "country": "NOR",
+            "league_id": 59, "phase": "HT", "phase_label": "Intervallo", "entry_minute": 45,
+            "score": "2 - 0", "stats_scope": "ht",
+            "favourite_side": "away", "favourite_team": "Bayern", "opponent": "Viking",
+            "underdog_side": "home", "underdog_team": "Viking", "lead": 2,
+            "prematch_price": 1.14, "prematch_home": 6.50, "prematch_draw": 5.00, "prematch_away": 1.14,
+            "prematch_source": "betexplorer:bet365.us",
+            "live_price": 2.30, "live_home": 2.30, "live_draw": 3.60, "live_away": 1.55,
+            "live_book": "Betfair", "live_quota_nd": False,
+            "lay_price": 2.30, "lay_estimated": False, "liability_pct": 1, "stake_pct": 1 / 1.30,
+            "stats": stats((2, 8), (36, 64), (10, 28), xg=(0.3, 1.1)), "time": "2026-10-27 18:50",
+        }
+        text = scan.build_lay_message(info)
+        for bit in (
+            "BANCA LA SFAVORITA", "BANCA la sfavorita", "Viking", "Bayern", "Match Odds",
+            "Responsabilità fissa", "1% del capitale", "Stake = responsabilità / (quota lay − 1)",
+            "0,77", "PERCHÉ la giocata", "dimezza il gap", "Stop se la sfavorita segna ancora",
+            "80'", "GIOCATA ALTERNATIVA (facoltativa)", "Over 2,5", "DNB",
+            "non va sommata allo stake", "Nessun altro messaggio",
+        ):
+            self.assertIn(bit, text, bit)
+        self.assertNotIn("edbass1/segnali", text)
+        self.assertNotIn("un tick", text)
+        est = dict(info)
+        est["lay_estimated"] = True
+        est["lay_price"] = 2.32
+        self.assertIn("un tick", scan.build_lay_message(est))
+        rec = scan.signal_record(info)
+        json.dumps(rec)
+        self.assertEqual(rec["strategy"], "lay_sfav")
+        self.assertEqual(rec["id"], "99-lay_sfav")
+        state = {}
+        fav = {"matchId": 99, "strategy": "favht", "ts": 1, "time": "t"}
+        scan.reseed_sent(state, [rec, fav, rec])
+        self.assertEqual(set(state["sent"]), {"99:lay_sfav", "99:favht"})
+        legacy = {"sent": {"99": {"t": 1}}, "done": {"99": {"t": 2, "r": "x"}}}
+        scan.normalize_state_keys(legacy)
+        self.assertIn("99:favht", legacy["sent"])
+        self.assertNotIn("99", legacy["sent"])
+        self.assertIn("99:favht", legacy["done"])
+
+    def test_h2h_lay_parsed_from_same_book(self):
+        payload = {"bookmakers": [{
+            "key": "betfair_ex_eu",
+            "markets": [
+                {"key": "h2h", "outcomes": [
+                    {"name": "Viking", "price": 2.30}, {"name": "Draw", "price": 3.6}, {"name": "Bayern", "price": 1.55},
+                ]},
+                {"key": "h2h_lay", "outcomes": [
+                    {"name": "Viking", "price": 2.34}, {"name": "Draw", "price": 3.7}, {"name": "Bayern", "price": 1.56},
+                ]},
+            ],
+        }]}
+        got = scan.parse_event_odds(payload, "Viking", "Bayern Munich")
+        self.assertEqual(got["home"], 2.30)
+        self.assertEqual(got["lay_home"], 2.34)
+        self.assertEqual(got["book_key"], "betfair_ex_eu")
 
 
 if __name__ == "__main__":
