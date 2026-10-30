@@ -626,6 +626,46 @@
    "unavailable": true,
    "ts": 1793400968,
    "source": "none"
+  },
+  "5803644": {
+   "home": 3.75,
+   "draw": 3.5,
+   "away": 1.87,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793401442,
+   "home_name": "Fagiano Okayama FC",
+   "away_name": "FC Tokyo",
+   "league_id": 223
+  },
+  "5803641": {
+   "home": 2.4,
+   "draw": 3.3,
+   "away": 2.8,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793401443,
+   "home_name": "Kyoto Sanga FC",
+   "away_name": "Shimizu S-Pulse",
+   "league_id": 223
+  },
+  "5803643": {
+   "home": 7.5,
+   "draw": 4.75,
+   "away": 1.33,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793401443,
+   "home_name": "Mito Hollyhock",
+   "away_name": "Sanfrecce Hiroshima",
+   "league_id": 223
+  },
+  "6503832": {
+   "home": 2.5,
+   "draw": 3.4,
+   "away": 2.5,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793401444,
+   "home_name": "Jeonbuk Hyundai Motors FC",
+   "away_name": "Daejeon Hana Citizen",
+   "league_id": 9080
   }
  },
  "odds_check": {},
@@ -662,12 +702,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
+ "live_count": 10,
  "candidates_last": 2,
- "last_scan": "2026-10-30 23:56",
- "requests_last": 41,
- "last_write": "2026-10-30 23:56",
- "last_write_ts": 1793400968,
+ "last_scan": "2026-10-31 00:04",
+ "requests_last": 38,
+ "last_write": "2026-10-31 00:04",
+ "last_write_ts": 1793401445,
  "odds_api": {
   "remaining": "487",
   "used": "13",
