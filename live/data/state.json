@@ -215,6 +215,11 @@
    "t": 1793392556,
    "r": "prematch favorita 1,95 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5811799:favht": {
+   "t": 1793393032,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -574,9 +579,9 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 46,
- "candidates_last": 5,
- "last_scan": "2026-10-30 21:35",
- "requests_last": 47,
- "last_write": "2026-10-30 21:35",
- "last_write_ts": 1793392556
+ "candidates_last": 1,
+ "last_scan": "2026-10-30 21:43",
+ "requests_last": 43,
+ "last_write": "2026-10-30 21:43",
+ "last_write_ts": 1793393032
 }
