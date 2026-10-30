@@ -621,6 +621,11 @@
    "ts": 1793400743,
    "event_id": "SzKs2SKM",
    "league_id": 273
+  },
+  "1000019614": {
+   "unavailable": true,
+   "ts": 1793400968,
+   "source": "none"
   }
  },
  "odds_check": {},
@@ -657,12 +662,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 10,
- "candidates_last": 4,
- "last_scan": "2026-10-30 23:52",
- "requests_last": 62,
- "last_write": "2026-10-30 23:52",
- "last_write_ts": 1793400743,
+ "live_count": 9,
+ "candidates_last": 2,
+ "last_scan": "2026-10-30 23:56",
+ "requests_last": 41,
+ "last_write": "2026-10-30 23:56",
+ "last_write_ts": 1793400968,
  "odds_api": {
   "remaining": "487",
   "used": "13",
