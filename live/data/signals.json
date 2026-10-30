@@ -1,1 +1,64 @@
-[]
+[
+ {
+  "id": "5868120-favht",
+  "strategy": "favht",
+  "matchId": 5868120,
+  "time": "2026-10-30 22:11",
+  "ts": 1793394720,
+  "league": "LaLiga",
+  "country": "ESP",
+  "leagueId": 87,
+  "home": "Villarreal",
+  "away": "Espanyol",
+  "favourite": "home",
+  "favouriteTeam": "Villarreal",
+  "phase": "55'",
+  "minute": 55,
+  "score": "0 - 0",
+  "url": "https://www.fotmob.com/match/5868120",
+  "odds": {
+   "prematch": {
+    "home": 1.36,
+    "draw": 5.0,
+    "away": 7.0,
+    "favourite": 1.36,
+    "source": "fotmob:Paddy Power_UK"
+   },
+   "live": {
+    "home": 1.79,
+    "draw": 3.2,
+    "away": 7.2,
+    "favourite": 1.79,
+    "book": "Betfair",
+    "min": 1.75,
+    "max": 2.15
+   },
+   "live_note": null
+  },
+  "stats": {
+   "sot": [
+    4.0,
+    1.0
+   ],
+   "poss": [
+    63.0,
+    37.0
+   ],
+   "box": [
+    15.0,
+    5.0
+   ],
+   "xg": [
+    0.41,
+    0.07
+   ],
+   "red": [
+    0.0,
+    0.0
+   ],
+   "box_ratio": 3.0,
+   "favourite_index": 0,
+   "scope": "match"
+  }
+ }
+]

@@ -1,5 +1,11 @@
 {
- "sent": {},
+ "sent": {
+  "5868120:favht": {
+   "t": 1793394720,
+   "time": "2026-10-30 22:12",
+   "strategy": "favht"
+  }
+ },
  "done": {
   "5804022:favht": {
    "t": 1793382436,
@@ -608,10 +614,16 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 33,
+ "live_count": 32,
  "candidates_last": 3,
- "last_scan": "2026-10-30 22:07",
+ "last_scan": "2026-10-30 22:12",
  "requests_last": 50,
- "last_write": "2026-10-30 22:07",
- "last_write_ts": 1793394474
+ "last_write": "2026-10-30 22:12",
+ "last_write_ts": 1793394720,
+ "odds_api": {
+  "remaining": "487",
+  "used": "13",
+  "last_cost": "1",
+  "time": "2026-10-30 22:11"
+ }
 }
