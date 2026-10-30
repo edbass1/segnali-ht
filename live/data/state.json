@@ -220,6 +220,11 @@
    "t": 1793393032,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "5802974:favht": {
+   "t": 1793393511,
+   "r": "prematch 2,63 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -578,10 +583,10 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 46,
- "candidates_last": 1,
- "last_scan": "2026-10-30 21:43",
- "requests_last": 43,
- "last_write": "2026-10-30 21:43",
- "last_write_ts": 1793393032
+ "live_count": 45,
+ "candidates_last": 3,
+ "last_scan": "2026-10-30 21:51",
+ "requests_last": 45,
+ "last_write": "2026-10-30 21:51",
+ "last_write_ts": 1793393511
 }
