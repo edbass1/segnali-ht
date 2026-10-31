@@ -1661,6 +1661,36 @@
    "unavailable": true,
    "ts": 1793439206,
    "source": "none"
+  },
+  "5846011": {
+   "home": 2.15,
+   "draw": 3.5,
+   "away": 2.9,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793440886,
+   "home_name": "Altach",
+   "away_name": "Ried",
+   "league_id": 38
+  },
+  "5904791": {
+   "home": 1.33,
+   "draw": 4.75,
+   "away": 6.5,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793440887,
+   "home_name": "Fenerbahçe",
+   "away_name": "Göztepe",
+   "league_id": 71
+  },
+  "5125669": {
+   "home": 1.53,
+   "draw": 3.9,
+   "away": 5.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793440888,
+   "home_name": "Falkenbergs FF",
+   "away_name": "Sandvikens IF",
+   "league_id": 168
   }
  },
  "odds_check": {
@@ -1703,12 +1733,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 13,
+ "live_count": 16,
  "candidates_last": 1,
- "last_scan": "2026-10-31 10:33",
- "requests_last": 11,
- "last_write": "2026-10-31 10:33",
- "last_write_ts": 1793439207,
+ "last_scan": "2026-10-31 11:01",
+ "requests_last": 5,
+ "last_write": "2026-10-31 11:01",
+ "last_write_ts": 1793440888,
  "odds_api": {
   "remaining": "484",
   "used": "16",
