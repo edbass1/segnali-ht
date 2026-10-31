@@ -306,6 +306,11 @@
    "t": 1793410587,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "1000019612:lay_sfav": {
+   "t": 1793410826,
+   "r": "prematch favorita 1,69 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -736,6 +741,15 @@
    "home_name": "Gwangju FC",
    "away_name": "Gimcheon Sangmu",
    "league_id": 9080
+  },
+  "1000019612": {
+   "home": 1.69,
+   "draw": 3.5,
+   "away": 5.25,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793410826,
+   "event_id": "UHe2Cnk1",
+   "league_id": 112
   }
  },
  "odds_check": {},
@@ -774,10 +788,10 @@
  },
  "live_count": 21,
  "candidates_last": 1,
- "last_scan": "2026-10-31 02:36",
+ "last_scan": "2026-10-31 02:40",
  "requests_last": 25,
- "last_write": "2026-10-31 02:36",
- "last_write_ts": 1793410587,
+ "last_write": "2026-10-31 02:40",
+ "last_write_ts": 1793410826,
  "odds_api": {
   "remaining": "487",
   "used": "13",
