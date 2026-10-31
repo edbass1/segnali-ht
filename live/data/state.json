@@ -3195,6 +3195,46 @@
    "home_name": "Yokohama F.Marinos",
    "away_name": "Kawasaki Frontale",
    "league_id": 223
+  },
+  "5803638": {
+   "home": 3.0,
+   "draw": 3.25,
+   "away": 2.3,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793487853,
+   "home_name": "JEF United Chiba",
+   "away_name": "Avispa Fukuoka",
+   "league_id": 223
+  },
+  "5803646": {
+   "home": 2.4,
+   "draw": 3.2,
+   "away": 2.88,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793487854,
+   "home_name": "V-Varen Nagasaki",
+   "away_name": "Tokyo Verdy",
+   "league_id": 223
+  },
+  "6503833": {
+   "home": 2.15,
+   "draw": 3.35,
+   "away": 3.1,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793487855,
+   "home_name": "Ulsan HD FC",
+   "away_name": "Gangwon FC",
+   "league_id": 9080
+  },
+  "6503949": {
+   "home": 2.63,
+   "draw": 3.2,
+   "away": 2.63,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793487855,
+   "home_name": "Pohang Steelers",
+   "away_name": "Jeju SK",
+   "league_id": 9080
   }
  },
  "odds_check": {
@@ -3237,12 +3277,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 20,
- "candidates_last": 1,
- "last_scan": "2026-10-31 23:36",
- "requests_last": 33,
- "last_write": "2026-10-31 23:36",
- "last_write_ts": 1793486163,
+ "live_count": 15,
+ "candidates_last": 0,
+ "last_scan": "2026-11-01 00:04",
+ "requests_last": 36,
+ "last_write": "2026-11-01 00:04",
+ "last_write_ts": 1793487855,
  "odds_api": {
   "remaining": "484",
   "used": "16",
