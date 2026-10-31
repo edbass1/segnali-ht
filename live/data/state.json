@@ -1361,6 +1361,21 @@
    "t": 1793479430,
    "r": "prematch favorita 1,53 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5781788:favht": {
+   "t": 1793479674,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5781788:lay_sfav": {
+   "t": 1793479674,
+   "r": "prematch favorita 2,45 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "1000019606:favht": {
+   "t": 1793479681,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -3071,6 +3086,11 @@
    "home_name": "Colorado Rapids",
    "away_name": "Chicago Fire FC",
    "league_id": 130
+  },
+  "1000019606": {
+   "unavailable": true,
+   "ts": 1793479681,
+   "source": "none"
   }
  },
  "odds_check": {
@@ -3114,11 +3134,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 36,
- "candidates_last": 1,
- "last_scan": "2026-10-31 21:43",
- "requests_last": 33,
- "last_write": "2026-10-31 21:43",
- "last_write_ts": 1793479430,
+ "candidates_last": 2,
+ "last_scan": "2026-10-31 21:48",
+ "requests_last": 40,
+ "last_write": "2026-10-31 21:48",
+ "last_write_ts": 1793479681,
  "odds_api": {
   "remaining": "484",
   "used": "16",
