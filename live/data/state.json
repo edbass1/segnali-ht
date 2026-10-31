@@ -2116,6 +2116,46 @@
    "home_name": "Luzern",
    "away_name": "Sion",
    "league_id": 69
+  },
+  "5802981": {
+   "home": 2.2,
+   "draw": 3.3,
+   "away": 3.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793454378,
+   "home_name": "Troyes",
+   "away_name": "Le Mans",
+   "league_id": 53
+  },
+  "5749730": {
+   "home": 3.6,
+   "draw": 3.5,
+   "away": 2.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793454379,
+   "home_name": "Milan",
+   "away_name": "Inter",
+   "league_id": 55
+  },
+  "5811791": {
+   "home": 1.53,
+   "draw": 4.2,
+   "away": 4.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793454379,
+   "home_name": "Anderlecht",
+   "away_name": "Westerlo",
+   "league_id": 40
+  },
+  "5811792": {
+   "home": 5.75,
+   "draw": 4.5,
+   "away": 1.5,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793454380,
+   "home_name": "SK Beveren",
+   "away_name": "Union St.Gilloise",
+   "league_id": 40
   }
  },
  "odds_check": {
@@ -2159,11 +2199,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 141,
- "candidates_last": 1,
- "last_scan": "2026-10-31 14:42",
- "requests_last": 2,
- "last_write": "2026-10-31 14:42",
- "last_write_ts": 1793454138,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 14:46",
+ "requests_last": 5,
+ "last_write": "2026-10-31 14:46",
+ "last_write_ts": 1793454380,
  "odds_api": {
   "remaining": "484",
   "used": "16",
