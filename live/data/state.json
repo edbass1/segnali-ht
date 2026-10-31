@@ -1606,6 +1606,26 @@
    "home_name": "Tranmere Rovers",
    "away_name": "Cheltenham Town",
    "league_id": 109
+  },
+  "5868119": {
+   "home": 2.5,
+   "draw": 3.1,
+   "away": 3.1,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793438238,
+   "home_name": "Rayo Vallecano",
+   "away_name": "Celta Vigo",
+   "league_id": 87
+  },
+  "5868518": {
+   "home": 2.5,
+   "draw": 3.25,
+   "away": 2.4,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793438239,
+   "home_name": "Eibar",
+   "away_name": "Almería",
+   "league_id": 140
   }
  },
  "odds_check": {},
@@ -1644,10 +1664,10 @@
  },
  "live_count": 15,
  "candidates_last": 0,
- "last_scan": "2026-10-31 10:09",
- "requests_last": 11,
- "last_write": "2026-10-31 10:09",
- "last_write_ts": 1793437767,
+ "last_scan": "2026-10-31 10:17",
+ "requests_last": 3,
+ "last_write": "2026-10-31 10:17",
+ "last_write_ts": 1793438239,
  "odds_api": {
   "remaining": "487",
   "used": "13",
