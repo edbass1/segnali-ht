@@ -761,6 +761,161 @@
    "t": 1793461618,
    "r": "prematch favorita 1,95 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5811795:favht": {
+   "t": 1793461857,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5811795:lay_sfav": {
+   "t": 1793461857,
+   "r": "prematch favorita 1,85 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5836901:favht": {
+   "t": 1793461857,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5836905:favht": {
+   "t": 1793461857,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5836905:lay_sfav": {
+   "t": 1793461857,
+   "r": "prematch favorita 1,86 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5836907:favht": {
+   "t": 1793461858,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5836907:lay_sfav": {
+   "t": 1793461858,
+   "r": "prematch favorita 1,68 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5105034:favht": {
+   "t": 1793461858,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5105034:lay_sfav": {
+   "t": 1793461858,
+   "r": "prematch favorita 1,73 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5837243:favht": {
+   "t": 1793461859,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5837243:lay_sfav": {
+   "t": 1793461859,
+   "r": "prematch favorita 2,30 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5837247:favht": {
+   "t": 1793461859,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5837247:lay_sfav": {
+   "t": 1793461859,
+   "r": "prematch favorita 2,00 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5837252:favht": {
+   "t": 1793461860,
+   "r": "prematch 1,24 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5838015:favht": {
+   "t": 1793461860,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5838015:lay_sfav": {
+   "t": 1793461860,
+   "r": "prematch favorita 2,20 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5838017:favht": {
+   "t": 1793461861,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5838017:lay_sfav": {
+   "t": 1793461861,
+   "r": "prematch favorita 2,15 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5838018:favht": {
+   "t": 1793461861,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5838018:lay_sfav": {
+   "t": 1793461861,
+   "r": "quote prematch pari, nessun favorito",
+   "strategy": "lay_sfav"
+  },
+  "5838021:favht": {
+   "t": 1793461861,
+   "r": "prematch 1,70 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5838023:favht": {
+   "t": 1793461862,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5795497:favht": {
+   "t": 1793461863,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5795497:lay_sfav": {
+   "t": 1793461863,
+   "r": "prematch favorita 2,15 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5795499:favht": {
+   "t": 1793461863,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5795499:lay_sfav": {
+   "t": 1793461863,
+   "r": "prematch favorita 2,30 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5795500:favht": {
+   "t": 1793461863,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5795500:lay_sfav": {
+   "t": 1793461863,
+   "r": "prematch favorita 2,45 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5795502:favht": {
+   "t": 1793461864,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5795502:lay_sfav": {
+   "t": 1793461864,
+   "r": "prematch favorita 1,67 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5793968:favht": {
+   "t": 1793461864,
+   "r": "prematch 1,79 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -2493,12 +2648,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 248,
- "candidates_last": 3,
- "last_scan": "2026-10-31 16:46",
- "requests_last": 14,
- "last_write": "2026-10-31 16:46",
- "last_write_ts": 1793461618,
+ "live_count": 245,
+ "candidates_last": 18,
+ "last_scan": "2026-10-31 16:51",
+ "requests_last": 29,
+ "last_write": "2026-10-31 16:51",
+ "last_write_ts": 1793461864,
  "odds_api": {
   "remaining": "484",
   "used": "16",
