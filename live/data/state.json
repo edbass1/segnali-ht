@@ -356,6 +356,16 @@
    "t": 1793426221,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "5803641:favht": {
+   "t": 1793426461,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5803641:lay_sfav": {
+   "t": 1793426461,
+   "r": "prematch favorita 2,40 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -842,6 +852,46 @@
    "home_name": "Wisła Płock",
    "away_name": "Piast Gliwice",
    "league_id": 196
+  },
+  "5881710": {
+   "home": 2.85,
+   "draw": 3.7,
+   "away": 2.2,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793426459,
+   "home_name": "Darmstadt",
+   "away_name": "Magdeburg",
+   "league_id": 146
+  },
+  "5881713": {
+   "home": 2.8,
+   "draw": 3.5,
+   "away": 2.3,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793426460,
+   "home_name": "Kaiserslautern",
+   "away_name": "Hertha BSC",
+   "league_id": 146
+  },
+  "5881716": {
+   "home": 1.5,
+   "draw": 4.2,
+   "away": 4.5,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793426460,
+   "home_name": "Wolfsburg",
+   "away_name": "VfL Osnabrück",
+   "league_id": 146
+  },
+  "5125673": {
+   "home": 2.3,
+   "draw": 3.4,
+   "away": 2.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793426461,
+   "home_name": "IFK Norrköping",
+   "away_name": "Östersunds FK",
+   "league_id": 168
   }
  },
  "odds_check": {},
@@ -878,12 +928,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 28,
+ "live_count": 30,
  "candidates_last": 3,
- "last_scan": "2026-10-31 06:57",
- "requests_last": 14,
- "last_write": "2026-10-31 06:57",
- "last_write_ts": 1793426221,
+ "last_scan": "2026-10-31 07:01",
+ "requests_last": 13,
+ "last_write": "2026-10-31 07:01",
+ "last_write_ts": 1793426462,
  "odds_api": {
   "remaining": "487",
   "used": "13",
