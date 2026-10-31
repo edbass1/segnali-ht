@@ -1951,6 +1951,56 @@
    "home_name": "Sampdoria",
    "away_name": "Virtus Entella",
    "league_id": 86
+  },
+  "5071476": {
+   "home": 3.75,
+   "draw": 4.0,
+   "away": 1.85,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793451718,
+   "home_name": "Sporting Kansas City",
+   "away_name": "FC Dallas",
+   "league_id": 130
+  },
+  "5071479": {
+   "home": 1.81,
+   "draw": 4.2,
+   "away": 3.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1793451719,
+   "home_name": "St. Louis City",
+   "away_name": "San Diego FC",
+   "league_id": 130
+  },
+  "5803301": {
+   "home": 4.0,
+   "draw": 3.55,
+   "away": 1.85,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793451720,
+   "home_name": "Guingamp",
+   "away_name": "Saint-Étienne",
+   "league_id": 110
+  },
+  "5103691": {
+   "home": 2.1,
+   "draw": 3.4,
+   "away": 3.2,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793451720,
+   "home_name": "Coritiba",
+   "away_name": "Vitória",
+   "league_id": 268
+  },
+  "5190789": {
+   "home": 2.5,
+   "draw": 3.2,
+   "away": 2.75,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793451721,
+   "home_name": "Botafogo SP",
+   "away_name": "Sport Recife",
+   "league_id": 8814
   }
  },
  "odds_check": {
@@ -1993,12 +2043,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 95,
- "candidates_last": 1,
- "last_scan": "2026-10-31 13:53",
- "requests_last": 2,
- "last_write": "2026-10-31 13:53",
- "last_write_ts": 1793451238,
+ "live_count": 108,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 14:02",
+ "requests_last": 6,
+ "last_write": "2026-10-31 14:02",
+ "last_write_ts": 1793451721,
  "odds_api": {
   "remaining": "484",
   "used": "16",
