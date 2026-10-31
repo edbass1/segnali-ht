@@ -1506,6 +1506,106 @@
    "home_name": "Wigan Athletic",
    "away_name": "Bromley",
    "league_id": 108
+  },
+  "5837254": {
+   "home": 1.53,
+   "draw": 4.1,
+   "away": 5.25,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437759,
+   "home_name": "Wycombe Wanderers",
+   "away_name": "Burton Albion",
+   "league_id": 108
+  },
+  "5838015": {
+   "home": 2.2,
+   "draw": 3.25,
+   "away": 3.4,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793437760,
+   "home_name": "Accrington Stanley",
+   "away_name": "Northampton Town",
+   "league_id": 109
+  },
+  "5838016": {
+   "home": 2.45,
+   "draw": 3.75,
+   "away": 2.5,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793437760,
+   "home_name": "Colchester United",
+   "away_name": "Walsall",
+   "league_id": 109
+  },
+  "5838017": {
+   "home": 3.0,
+   "draw": 3.6,
+   "away": 2.15,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437761,
+   "home_name": "Crewe Alexandra",
+   "away_name": "Barnet",
+   "league_id": 109
+  },
+  "5838018": {
+   "home": 2.57,
+   "draw": 3.3,
+   "away": 2.57,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437762,
+   "home_name": "Fleetwood Town",
+   "away_name": "Bristol Rovers",
+   "league_id": 109
+  },
+  "5838021": {
+   "home": 1.7,
+   "draw": 4.0,
+   "away": 4.33,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793437763,
+   "home_name": "Oldham Athletic",
+   "away_name": "Crawley Town",
+   "league_id": 109
+  },
+  "5838023": {
+   "home": 1.37,
+   "draw": 4.5,
+   "away": 7.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437764,
+   "home_name": "Salford City",
+   "away_name": "Exeter City",
+   "league_id": 109
+  },
+  "5838024": {
+   "home": 1.95,
+   "draw": 3.5,
+   "away": 3.75,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793437765,
+   "home_name": "Shrewsbury Town",
+   "away_name": "Gillingham",
+   "league_id": 109
+  },
+  "5838025": {
+   "home": 2.3,
+   "draw": 3.6,
+   "away": 2.88,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437766,
+   "home_name": "Swindon Town",
+   "away_name": "Rotherham United",
+   "league_id": 109
+  },
+  "5838026": {
+   "home": 1.95,
+   "draw": 3.75,
+   "away": 3.7,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437767,
+   "home_name": "Tranmere Rovers",
+   "away_name": "Cheltenham Town",
+   "league_id": 109
   }
  },
  "odds_check": {},
@@ -1544,10 +1644,10 @@
  },
  "live_count": 15,
  "candidates_last": 0,
- "last_scan": "2026-10-31 10:05",
- "requests_last": 13,
- "last_write": "2026-10-31 10:05",
- "last_write_ts": 1793437527,
+ "last_scan": "2026-10-31 10:09",
+ "requests_last": 11,
+ "last_write": "2026-10-31 10:09",
+ "last_write_ts": 1793437767,
  "odds_api": {
   "remaining": "487",
   "used": "13",
