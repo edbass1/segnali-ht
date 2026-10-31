@@ -1186,6 +1186,66 @@
    "home_name": "Norrby",
    "away_name": "IFK Värnamo",
    "league_id": 168
+  },
+  "5881206": {
+   "home": 2.9,
+   "draw": 3.75,
+   "away": 2.25,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793435593,
+   "home_name": "Augsburg",
+   "away_name": "Freiburg",
+   "league_id": 54
+  },
+  "5881207": {
+   "home": 1.7,
+   "draw": 4.45,
+   "away": 4.35,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793435594,
+   "home_name": "Bayer Leverkusen",
+   "away_name": "VfB Stuttgart",
+   "league_id": 54
+  },
+  "5881209": {
+   "home": 2.2,
+   "draw": 3.75,
+   "away": 3.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793435595,
+   "home_name": "Borussia Mönchengladbach",
+   "away_name": "Paderborn",
+   "league_id": 54
+  },
+  "5881212": {
+   "home": 4.05,
+   "draw": 4.0,
+   "away": 1.8,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793435596,
+   "home_name": "Schalke 04",
+   "away_name": "RB Leipzig",
+   "league_id": 54
+  },
+  "5881214": {
+   "home": 2.55,
+   "draw": 3.9,
+   "away": 2.55,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793435597,
+   "home_name": "Werder Bremen",
+   "away_name": "Hoffenheim",
+   "league_id": 54
+  },
+  "5847217": {
+   "home": 1.59,
+   "draw": 4.56,
+   "away": 5.99,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1793435598,
+   "home_name": "Dinamo Moscow",
+   "away_name": "FK Akhmat",
+   "league_id": 63
   }
  },
  "odds_check": {},
@@ -1222,12 +1282,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 16,
- "candidates_last": 0,
- "last_scan": "2026-10-31 09:01",
- "requests_last": 12,
- "last_write": "2026-10-31 09:01",
- "last_write_ts": 1793433677,
+ "live_count": 9,
+ "candidates_last": 1,
+ "last_scan": "2026-10-31 09:33",
+ "requests_last": 14,
+ "last_write": "2026-10-31 09:33",
+ "last_write_ts": 1793435599,
  "odds_api": {
   "remaining": "487",
   "used": "13",
