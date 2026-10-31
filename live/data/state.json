@@ -481,6 +481,16 @@
    "t": 1793452198,
    "r": "prematch favorita 2,06 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5837244:favht": {
+   "t": 1793452679,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5837244:lay_sfav": {
+   "t": 1793452679,
+   "r": "prematch favorita 2,30 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -2011,6 +2021,16 @@
    "home_name": "Botafogo SP",
    "away_name": "Sport Recife",
    "league_id": 8814
+  },
+  "5804023": {
+   "home": 2.1,
+   "draw": 3.7,
+   "away": 3.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793452678,
+   "home_name": "GKS Katowice",
+   "away_name": "Widzew Łódź",
+   "league_id": 196
   }
  },
  "odds_check": {
@@ -2055,10 +2075,10 @@
  },
  "live_count": 133,
  "candidates_last": 1,
- "last_scan": "2026-10-31 14:09",
- "requests_last": 2,
- "last_write": "2026-10-31 14:09",
- "last_write_ts": 1793452198,
+ "last_scan": "2026-10-31 14:17",
+ "requests_last": 3,
+ "last_write": "2026-10-31 14:17",
+ "last_write_ts": 1793452679,
  "odds_api": {
   "remaining": "484",
   "used": "16",
