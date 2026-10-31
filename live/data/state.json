@@ -1436,6 +1436,16 @@
    "t": 1793483280,
    "r": "prematch favorita 2,40 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000013257:favht": {
+   "t": 1793483767,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000013257:lay_sfav": {
+   "t": 1793483767,
+   "r": "prematch favorita 1,90 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -3151,6 +3161,15 @@
    "unavailable": true,
    "ts": 1793479681,
    "source": "none"
+  },
+  "1000013257": {
+   "home": 1.9,
+   "draw": 3.3,
+   "away": 3.6,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793483767,
+   "event_id": "KYbMfpDd",
+   "league_id": 273
   }
  },
  "odds_check": {
@@ -3193,12 +3212,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 26,
+ "live_count": 22,
  "candidates_last": 2,
- "last_scan": "2026-10-31 22:48",
- "requests_last": 34,
- "last_write": "2026-10-31 22:48",
- "last_write_ts": 1793483280,
+ "last_scan": "2026-10-31 22:56",
+ "requests_last": 41,
+ "last_write": "2026-10-31 22:56",
+ "last_write_ts": 1793483767,
  "odds_api": {
   "remaining": "484",
   "used": "16",
