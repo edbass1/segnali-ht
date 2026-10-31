@@ -907,6 +907,96 @@
    "home_name": "Rubin Kazan",
    "away_name": "Fakel",
    "league_id": 63
+  },
+  "5795498": {
+   "home": 2.0,
+   "draw": 3.7,
+   "away": 3.6,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793428378,
+   "home_name": "Chelsea",
+   "away_name": "Manchester United",
+   "league_id": 47
+  },
+  "5836900": {
+   "home": 3.4,
+   "draw": 3.4,
+   "away": 2.1,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793428378,
+   "home_name": "Lincoln City",
+   "away_name": "Birmingham City",
+   "league_id": 48
+  },
+  "5836903": {
+   "home": 1.5,
+   "draw": 4.4,
+   "away": 6.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793428379,
+   "home_name": "Norwich City",
+   "away_name": "Watford",
+   "league_id": 48
+  },
+  "5836906": {
+   "home": 1.75,
+   "draw": 3.7,
+   "away": 4.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793428380,
+   "home_name": "Stoke City",
+   "away_name": "Preston North End",
+   "league_id": 48
+  },
+  "5837244": {
+   "home": 2.88,
+   "draw": 3.4,
+   "away": 2.3,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793428380,
+   "home_name": "Bradford City",
+   "away_name": "Huddersfield Town",
+   "league_id": 108
+  },
+  "5837246": {
+   "home": 2.5,
+   "draw": 3.4,
+   "away": 2.57,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793428381,
+   "home_name": "Leyton Orient",
+   "away_name": "Cambridge United",
+   "league_id": 108
+  },
+  "5837250": {
+   "home": 2.3,
+   "draw": 3.75,
+   "away": 2.75,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793428382,
+   "home_name": "Plymouth Argyle",
+   "away_name": "Reading",
+   "league_id": 108
+  },
+  "5838019": {
+   "home": 2.45,
+   "draw": 3.75,
+   "away": 2.63,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793428383,
+   "home_name": "Grimsby Town",
+   "away_name": "York City",
+   "league_id": 109
+  },
+  "5838022": {
+   "home": 1.62,
+   "draw": 3.8,
+   "away": 5.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793428384,
+   "home_name": "Port Vale",
+   "away_name": "Rochdale",
+   "league_id": 109
   }
  },
  "odds_check": {},
@@ -943,12 +1033,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 31,
+ "live_count": 39,
  "candidates_last": 1,
- "last_scan": "2026-10-31 07:16",
- "requests_last": 9,
- "last_write": "2026-10-31 07:16",
- "last_write_ts": 1793427419,
+ "last_scan": "2026-10-31 07:33",
+ "requests_last": 16,
+ "last_write": "2026-10-31 07:33",
+ "last_write_ts": 1793428384,
  "odds_api": {
   "remaining": "487",
   "used": "13",
