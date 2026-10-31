@@ -1056,6 +1056,16 @@
    "t": 1793463546,
    "r": "prematch favorita 1,80 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5781787:favht": {
+   "t": 1793463786,
+   "r": "prematch 1,17 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5887669:favht": {
+   "t": 1793463788,
+   "r": "prematch 2,40 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -2788,12 +2798,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 235,
+ "live_count": 229,
  "candidates_last": 5,
- "last_scan": "2026-10-31 17:19",
+ "last_scan": "2026-10-31 17:23",
  "requests_last": 21,
- "last_write": "2026-10-31 17:19",
- "last_write_ts": 1793463547,
+ "last_write": "2026-10-31 17:23",
+ "last_write_ts": 1793463788,
  "odds_api": {
   "remaining": "484",
   "used": "16",
