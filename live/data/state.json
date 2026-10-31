@@ -2341,6 +2341,26 @@
    "home_name": "Vila Nova",
    "away_name": "Juventude",
    "league_id": 8814
+  },
+  "5071477": {
+   "home": 1.44,
+   "draw": 5.0,
+   "away": 5.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793458957,
+   "home_name": "LA Galaxy",
+   "away_name": "Austin FC",
+   "league_id": 130
+  },
+  "5071478": {
+   "home": 2.3,
+   "draw": 4.0,
+   "away": 2.65,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793458958,
+   "home_name": "San Jose Earthquakes",
+   "away_name": "Real Salt Lake",
+   "league_id": 130
   }
  },
  "odds_check": {
@@ -2383,12 +2403,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 124,
- "candidates_last": 5,
- "last_scan": "2026-10-31 15:50",
- "requests_last": 11,
- "last_write": "2026-10-31 15:50",
- "last_write_ts": 1793458239,
+ "live_count": 198,
+ "candidates_last": 1,
+ "last_scan": "2026-10-31 16:02",
+ "requests_last": 14,
+ "last_write": "2026-10-31 16:02",
+ "last_write_ts": 1793458961,
  "odds_api": {
   "remaining": "484",
   "used": "16",
