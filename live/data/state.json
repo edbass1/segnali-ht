@@ -1266,6 +1266,126 @@
    "home_name": "Al-Fayha",
    "away_name": "Al-Faisaly",
    "league_id": 536
+  },
+  "5795495": {
+   "home": 2.1,
+   "draw": 3.45,
+   "away": 3.6,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793437279,
+   "home_name": "AFC Bournemouth",
+   "away_name": "Leeds United",
+   "league_id": 47
+  },
+  "5795497": {
+   "home": 2.15,
+   "draw": 3.6,
+   "away": 3.3,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437280,
+   "home_name": "Brentford",
+   "away_name": "Nottingham Forest",
+   "league_id": 47
+  },
+  "5795499": {
+   "home": 3.25,
+   "draw": 3.2,
+   "away": 2.3,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793437280,
+   "home_name": "Coventry City",
+   "away_name": "Sunderland",
+   "league_id": 47
+  },
+  "5795500": {
+   "home": 2.8,
+   "draw": 3.4,
+   "away": 2.45,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793437281,
+   "home_name": "Hull City",
+   "away_name": "Ipswich Town",
+   "league_id": 47
+  },
+  "5795502": {
+   "home": 1.67,
+   "draw": 4.33,
+   "away": 4.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437282,
+   "home_name": "Manchester City",
+   "away_name": "Brighton & Hove Albion",
+   "league_id": 47
+  },
+  "5811795": {
+   "home": 3.4,
+   "draw": 3.4,
+   "away": 1.85,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793437283,
+   "home_name": "KV Mechelen",
+   "away_name": "Genk",
+   "league_id": 40
+  },
+  "5105034": {
+   "home": 4.0,
+   "draw": 4.1,
+   "away": 1.73,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437283,
+   "home_name": "Fredrikstad",
+   "away_name": "Rosenborg",
+   "league_id": 59
+  },
+  "5793967": {
+   "home": 2.25,
+   "draw": 3.6,
+   "away": 2.82,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437284,
+   "home_name": "Kilmarnock",
+   "away_name": "St. Johnstone",
+   "league_id": 64
+  },
+  "5793968": {
+   "home": 1.79,
+   "draw": 4.0,
+   "away": 3.9,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437285,
+   "home_name": "Motherwell",
+   "away_name": "St. Mirren",
+   "league_id": 64
+  },
+  "5836898": {
+   "home": 3.1,
+   "draw": 3.4,
+   "away": 2.25,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793437286,
+   "home_name": "Bolton Wanderers",
+   "away_name": "Bristol City",
+   "league_id": 48
+  },
+  "5836899": {
+   "home": 2.3,
+   "draw": 3.2,
+   "away": 3.1,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793437286,
+   "home_name": "Burnley",
+   "away_name": "Portsmouth",
+   "league_id": 48
+  },
+  "5836901": {
+   "home": 1.22,
+   "draw": 6.5,
+   "away": 11.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437287,
+   "home_name": "Middlesbrough",
+   "away_name": "Charlton Athletic",
+   "league_id": 48
   }
  },
  "odds_check": {},
@@ -1302,12 +1422,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
- "candidates_last": 1,
- "last_scan": "2026-10-31 09:57",
- "requests_last": 3,
- "last_write": "2026-10-31 09:57",
- "last_write_ts": 1793437040,
+ "live_count": 11,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 10:01",
+ "requests_last": 13,
+ "last_write": "2026-10-31 10:01",
+ "last_write_ts": 1793437287,
  "odds_api": {
   "remaining": "487",
   "used": "13",
