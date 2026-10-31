@@ -1386,6 +1386,126 @@
    "home_name": "Middlesbrough",
    "away_name": "Charlton Athletic",
    "league_id": 48
+  },
+  "5836902": {
+   "home": 1.62,
+   "draw": 3.8,
+   "away": 5.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793437518,
+   "home_name": "Millwall",
+   "away_name": "Derby County",
+   "league_id": 48
+  },
+  "5836905": {
+   "home": 1.86,
+   "draw": 3.75,
+   "away": 3.7,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437519,
+   "home_name": "Southampton",
+   "away_name": "Queens Park Rangers",
+   "league_id": 48
+  },
+  "5836907": {
+   "home": 1.68,
+   "draw": 3.75,
+   "away": 4.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437520,
+   "home_name": "Swansea City",
+   "away_name": "Blackburn Rovers",
+   "league_id": 48
+  },
+  "5836908": {
+   "home": 1.67,
+   "draw": 4.0,
+   "away": 4.75,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437520,
+   "home_name": "West Ham United",
+   "away_name": "West Bromwich Albion",
+   "league_id": 48
+  },
+  "5836909": {
+   "home": 1.57,
+   "draw": 4.33,
+   "away": 4.75,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793437522,
+   "home_name": "Wolverhampton Wanderers",
+   "away_name": "Cardiff City",
+   "league_id": 48
+  },
+  "5837243": {
+   "home": 2.63,
+   "draw": 4.0,
+   "away": 2.3,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793437522,
+   "home_name": "Barnsley",
+   "away_name": "Oxford United",
+   "league_id": 108
+  },
+  "5837245": {
+   "home": 1.61,
+   "draw": 4.0,
+   "away": 4.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437523,
+   "home_name": "Leicester City",
+   "away_name": "Stevenage",
+   "league_id": 108
+  },
+  "5837248": {
+   "home": 1.8,
+   "draw": 3.85,
+   "away": 4.05,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793437524,
+   "home_name": "Mansfield Town",
+   "away_name": "Notts County",
+   "league_id": 108
+  },
+  "5837247": {
+   "home": 2.0,
+   "draw": 3.75,
+   "away": 3.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437525,
+   "home_name": "Milton Keynes Dons",
+   "away_name": "Doncaster Rovers",
+   "league_id": 108
+  },
+  "5837249": {
+   "home": 3.3,
+   "draw": 3.9,
+   "away": 2.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793437525,
+   "home_name": "Peterborough United",
+   "away_name": "Luton Town",
+   "league_id": 108
+  },
+  "5837252": {
+   "home": 1.24,
+   "draw": 5.75,
+   "away": 9.5,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793437526,
+   "home_name": "Stockport County",
+   "away_name": "AFC Wimbledon",
+   "league_id": 108
+  },
+  "5837253": {
+   "home": 1.8,
+   "draw": 3.8,
+   "away": 3.8,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793437527,
+   "home_name": "Wigan Athletic",
+   "away_name": "Bromley",
+   "league_id": 108
   }
  },
  "odds_check": {},
@@ -1422,12 +1542,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 11,
+ "live_count": 15,
  "candidates_last": 0,
- "last_scan": "2026-10-31 10:01",
+ "last_scan": "2026-10-31 10:05",
  "requests_last": 13,
- "last_write": "2026-10-31 10:01",
- "last_write_ts": 1793437287,
+ "last_write": "2026-10-31 10:05",
+ "last_write_ts": 1793437527,
  "odds_api": {
   "remaining": "487",
   "used": "13",
