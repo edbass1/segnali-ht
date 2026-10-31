@@ -686,6 +686,26 @@
    "home_name": "Jeonbuk Hyundai Motors FC",
    "away_name": "Daejeon Hana Citizen",
    "league_id": 9080
+  },
+  "5803639": {
+   "home": 1.75,
+   "draw": 3.9,
+   "away": 4.15,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793405052,
+   "home_name": "Kashima Antlers",
+   "away_name": "Cerezo Osaka",
+   "league_id": 223
+  },
+  "5803645": {
+   "home": 1.95,
+   "draw": 3.7,
+   "away": 3.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793405052,
+   "home_name": "Vissel Kobe",
+   "away_name": "Nagoya Grampus",
+   "league_id": 223
   }
  },
  "odds_check": {},
@@ -722,12 +742,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 13,
- "candidates_last": 2,
- "last_scan": "2026-10-31 00:56",
- "requests_last": 34,
- "last_write": "2026-10-31 00:56",
- "last_write_ts": 1793404571,
+ "live_count": 12,
+ "candidates_last": 1,
+ "last_scan": "2026-10-31 01:04",
+ "requests_last": 40,
+ "last_write": "2026-10-31 01:04",
+ "last_write_ts": 1793405055,
  "odds_api": {
   "remaining": "487",
   "used": "13",
