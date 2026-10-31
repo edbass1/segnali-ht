@@ -431,6 +431,16 @@
    "t": 1793445693,
    "r": "prematch favorita 2,45 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5804029:favht": {
+   "t": 1793448106,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5804029:lay_sfav": {
+   "t": 1793448106,
+   "r": "prematch favorita 2,25 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -1851,6 +1861,46 @@
    "home_name": "SC Heerenveen",
    "away_name": "NEC Nijmegen",
    "league_id": 57
+  },
+  "5071472": {
+   "home": 1.41,
+   "draw": 4.75,
+   "away": 7.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793448102,
+   "home_name": "Columbus Crew",
+   "away_name": "DC United",
+   "league_id": 130
+  },
+  "5071471": {
+   "home": 2.4,
+   "draw": 3.9,
+   "away": 2.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793448103,
+   "home_name": "FC Cincinnati",
+   "away_name": "Philadelphia Union",
+   "league_id": 130
+  },
+  "5071474": {
+   "home": 1.4,
+   "draw": 4.75,
+   "away": 6.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793448105,
+   "home_name": "New York City FC",
+   "away_name": "CF Montréal",
+   "league_id": 130
+  },
+  "5970189": {
+   "home": 1.05,
+   "draw": 12.85,
+   "away": 19.0,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793448105,
+   "home_name": "Al Hilal",
+   "away_name": "Al Fateh FC",
+   "league_id": 536
   }
  },
  "odds_check": {
@@ -1893,12 +1943,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 46,
- "candidates_last": 0,
- "last_scan": "2026-10-31 12:45",
- "requests_last": 2,
- "last_write": "2026-10-31 12:45",
- "last_write_ts": 1793447142,
+ "live_count": 74,
+ "candidates_last": 1,
+ "last_scan": "2026-10-31 13:01",
+ "requests_last": 6,
+ "last_write": "2026-10-31 13:01",
+ "last_write_ts": 1793448106,
  "odds_api": {
   "remaining": "484",
   "used": "16",
