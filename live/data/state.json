@@ -721,6 +721,16 @@
    "home_name": "Kashiwa Reysol",
    "away_name": "Urawa Red Diamonds",
    "league_id": 223
+  },
+  "6503948": {
+   "home": 2.9,
+   "draw": 3.45,
+   "away": 2.25,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793410340,
+   "home_name": "Gwangju FC",
+   "away_name": "Gimcheon Sangmu",
+   "league_id": 9080
   }
  },
  "odds_check": {},
@@ -757,12 +767,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 15,
+ "live_count": 21,
  "candidates_last": 0,
- "last_scan": "2026-10-31 02:00",
- "requests_last": 23,
- "last_write": "2026-10-31 02:00",
- "last_write_ts": 1793408419,
+ "last_scan": "2026-10-31 02:32",
+ "requests_last": 18,
+ "last_write": "2026-10-31 02:32",
+ "last_write_ts": 1793410340,
  "odds_api": {
   "remaining": "487",
   "used": "13",
