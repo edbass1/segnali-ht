@@ -2766,6 +2766,16 @@
    "home_name": "San Jose Earthquakes",
    "away_name": "Real Salt Lake",
    "league_id": 130
+  },
+  "5190796": {
+   "home": 1.96,
+   "draw": 3.4,
+   "away": 3.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793464267,
+   "home_name": "Náutico",
+   "away_name": "Avaí",
+   "league_id": 8814
   }
  },
  "odds_check": {
@@ -2808,12 +2818,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 220,
- "candidates_last": 2,
- "last_scan": "2026-10-31 17:27",
- "requests_last": 18,
- "last_write": "2026-10-31 17:27",
- "last_write_ts": 1793464026,
+ "live_count": 222,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 17:31",
+ "requests_last": 17,
+ "last_write": "2026-10-31 17:31",
+ "last_write_ts": 1793464267,
  "odds_api": {
   "remaining": "484",
   "used": "16",
