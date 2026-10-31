@@ -788,6 +788,16 @@
    "ts": 1793411786,
    "event_id": "GW5RxNhT",
    "league_id": 230
+  },
+  "5904793": {
+   "home": 2.55,
+   "draw": 3.3,
+   "away": 2.45,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793421166,
+   "home_name": "Erzurumspor FK",
+   "away_name": "Çorum FK",
+   "league_id": 71
   }
  },
  "odds_check": {},
@@ -824,12 +834,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
+ "live_count": 11,
  "candidates_last": 0,
- "last_scan": "2026-10-31 05:04",
- "requests_last": 12,
- "last_write": "2026-10-31 05:04",
- "last_write_ts": 1793419485,
+ "last_scan": "2026-10-31 05:32",
+ "requests_last": 13,
+ "last_write": "2026-10-31 05:32",
+ "last_write_ts": 1793421166,
  "odds_api": {
   "remaining": "487",
   "used": "13",
