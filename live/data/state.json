@@ -331,6 +331,16 @@
    "t": 1793413707,
    "r": "prematch favorita 2,20 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000017570:favht": {
+   "t": 1793422130,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000017570:lay_sfav": {
+   "t": 1793422130,
+   "r": "prematch favorita 2,33 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -798,6 +808,15 @@
    "home_name": "Erzurumspor FK",
    "away_name": "Çorum FK",
    "league_id": 71
+  },
+  "1000017570": {
+   "home": 2.65,
+   "draw": 3.7,
+   "away": 2.33,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793422130,
+   "event_id": "nJlEEgJl",
+   "league_id": 113
   }
  },
  "odds_check": {},
@@ -835,11 +854,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 11,
- "candidates_last": 0,
- "last_scan": "2026-10-31 05:32",
- "requests_last": 13,
- "last_write": "2026-10-31 05:32",
- "last_write_ts": 1793421166,
+ "candidates_last": 1,
+ "last_scan": "2026-10-31 05:48",
+ "requests_last": 20,
+ "last_write": "2026-10-31 05:48",
+ "last_write_ts": 1793422130,
  "odds_api": {
   "remaining": "487",
   "used": "13",
