@@ -711,6 +711,16 @@
    "home_name": "Vissel Kobe",
    "away_name": "Nagoya Grampus",
    "league_id": 223
+  },
+  "5803640": {
+   "home": 2.05,
+   "draw": 3.7,
+   "away": 3.1,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793408419,
+   "home_name": "Kashiwa Reysol",
+   "away_name": "Urawa Red Diamonds",
+   "league_id": 223
   }
  },
  "odds_check": {},
@@ -747,12 +757,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 14,
+ "live_count": 15,
  "candidates_last": 0,
- "last_scan": "2026-10-31 01:56",
- "requests_last": 27,
- "last_write": "2026-10-31 01:56",
- "last_write_ts": 1793408178,
+ "last_scan": "2026-10-31 02:00",
+ "requests_last": 23,
+ "last_write": "2026-10-31 02:00",
+ "last_write_ts": 1793408419,
  "odds_api": {
   "remaining": "487",
   "used": "13",
