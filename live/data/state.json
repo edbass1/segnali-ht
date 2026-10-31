@@ -1691,6 +1691,16 @@
    "home_name": "Falkenbergs FF",
    "away_name": "Sandvikens IF",
    "league_id": 168
+  },
+  "5967131": {
+   "home": 2.25,
+   "draw": 3.3,
+   "away": 2.8,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793441846,
+   "home_name": "Catanzaro",
+   "away_name": "Padova",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -1733,12 +1743,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 16,
- "candidates_last": 1,
- "last_scan": "2026-10-31 11:01",
- "requests_last": 5,
- "last_write": "2026-10-31 11:01",
- "last_write_ts": 1793440888,
+ "live_count": 21,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 11:17",
+ "requests_last": 2,
+ "last_write": "2026-10-31 11:17",
+ "last_write_ts": 1793441846,
  "odds_api": {
   "remaining": "484",
   "used": "16",
