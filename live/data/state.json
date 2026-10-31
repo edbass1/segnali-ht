@@ -2191,6 +2191,56 @@
    "home_name": "SK Beveren",
    "away_name": "Union St.Gilloise",
    "league_id": 40
+  },
+  "5795496": {
+   "home": 2.1,
+   "draw": 3.5,
+   "away": 3.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793455338,
+   "home_name": "Aston Villa",
+   "away_name": "Fulham",
+   "league_id": 47
+  },
+  "5868115": {
+   "home": 1.08,
+   "draw": 11.0,
+   "away": 19.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793455339,
+   "home_name": "Barcelona",
+   "away_name": "Deportivo Alavés",
+   "league_id": 87
+  },
+  "5781786": {
+   "home": 1.7,
+   "draw": 4.15,
+   "away": 4.1,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793455340,
+   "home_name": "Ajax",
+   "away_name": "AZ Alkmaar",
+   "league_id": 57
+  },
+  "5781788": {
+   "home": 2.5,
+   "draw": 3.85,
+   "away": 2.45,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793455341,
+   "home_name": "Cambuur",
+   "away_name": "Go Ahead Eagles",
+   "league_id": 57
+  },
+  "5868514": {
+   "home": 2.25,
+   "draw": 3.0,
+   "away": 3.4,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793455342,
+   "home_name": "Albacete",
+   "away_name": "Sabadell",
+   "league_id": 140
   }
  },
  "odds_check": {
@@ -2233,12 +2283,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 120,
- "candidates_last": 1,
- "last_scan": "2026-10-31 14:54",
- "requests_last": 2,
- "last_write": "2026-10-31 14:54",
- "last_write_ts": 1793454858,
+ "live_count": 125,
+ "candidates_last": 0,
+ "last_scan": "2026-10-31 15:02",
+ "requests_last": 11,
+ "last_write": "2026-10-31 15:02",
+ "last_write_ts": 1793455345,
  "odds_api": {
   "remaining": "484",
   "used": "16",
