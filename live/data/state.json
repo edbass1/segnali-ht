@@ -4212,6 +4212,26 @@
    "home_name": "Marítimo",
    "away_name": "Santa Clara",
    "league_id": 61
+  },
+  "5811794": {
+   "home": 1.44,
+   "draw": 4.2,
+   "away": 5.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793535492,
+   "home_name": "Sporting Charleroi",
+   "away_name": "RAAL La Louvière",
+   "league_id": 40
+  },
+  "5105038": {
+   "home": 2.4,
+   "draw": 3.75,
+   "away": 2.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793535492,
+   "home_name": "Vålerenga",
+   "away_name": "Tromsø",
+   "league_id": 59
   }
  },
  "odds_check": {
@@ -4254,12 +4274,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 112,
- "candidates_last": 1,
- "last_scan": "2026-11-01 13:06",
- "requests_last": 22,
- "last_write": "2026-11-01 13:06",
- "last_write_ts": 1793534770,
+ "live_count": 114,
+ "candidates_last": 0,
+ "last_scan": "2026-11-01 13:18",
+ "requests_last": 23,
+ "last_write": "2026-11-01 13:18",
+ "last_write_ts": 1793535492,
  "odds_api": {
   "remaining": "484",
   "used": "16",
