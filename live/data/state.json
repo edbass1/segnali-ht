@@ -12,11 +12,6 @@
   }
  },
  "done": {
-  "5887666:favht": {
-   "t": 1793394474,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
   "1000019614:favht": {
    "t": 1793400730,
    "r": "non è 0-0",
@@ -4856,12 +4851,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 16,
+ "live_count": 19,
  "candidates_last": 0,
- "last_scan": "2026-11-01 21:59",
+ "last_scan": "2026-11-01 22:11",
  "requests_last": 27,
- "last_write": "2026-11-01 21:59",
- "last_write_ts": 1793566766,
+ "last_write": "2026-11-01 22:11",
+ "last_write_ts": 1793567488,
  "odds_api": {
   "remaining": "499",
   "used": "1",
