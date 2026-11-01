@@ -3877,6 +3877,26 @@
    "home_name": "Nordsjælland",
    "away_name": "FC Midtjylland",
    "league_id": 46
+  },
+  "5868118": {
+   "home": 11.0,
+   "draw": 8.5,
+   "away": 1.17,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793524654,
+   "home_name": "Racing Santander",
+   "away_name": "Real Madrid",
+   "league_id": 87
+  },
+  "5868517": {
+   "home": 2.38,
+   "draw": 3.3,
+   "away": 2.63,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793524654,
+   "home_name": "AD Ceuta FC",
+   "away_name": "Sporting Gijón",
+   "league_id": 140
   }
  },
  "odds_check": {
@@ -3919,12 +3939,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
+ "live_count": 9,
  "candidates_last": 0,
- "last_scan": "2026-11-01 10:01",
- "requests_last": 9,
- "last_write": "2026-11-01 10:01",
- "last_write_ts": 1793523691,
+ "last_scan": "2026-11-01 10:17",
+ "requests_last": 8,
+ "last_write": "2026-11-01 10:17",
+ "last_write_ts": 1793524654,
  "odds_api": {
   "remaining": "484",
   "used": "16",
