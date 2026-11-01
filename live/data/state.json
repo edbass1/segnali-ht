@@ -4257,6 +4257,16 @@
    "home_name": "Palermo",
    "away_name": "LR Vicenza",
    "league_id": 86
+  },
+  "5190792": {
+   "home": 1.96,
+   "draw": 3.3,
+   "away": 3.8,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793538134,
+   "home_name": "Londrina",
+   "away_name": "América-MG",
+   "league_id": 8814
   }
  },
  "odds_check": {
@@ -4299,12 +4309,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 113,
- "candidates_last": 1,
- "last_scan": "2026-11-01 13:34",
- "requests_last": 24,
- "last_write": "2026-11-01 13:34",
- "last_write_ts": 1793536453,
+ "live_count": 82,
+ "candidates_last": 0,
+ "last_scan": "2026-11-01 14:02",
+ "requests_last": 22,
+ "last_write": "2026-11-01 14:02",
+ "last_write_ts": 1793538134,
  "odds_api": {
   "remaining": "484",
   "used": "16",
