@@ -4087,6 +4087,16 @@
    "home_name": "Eintracht Frankfurt",
    "away_name": "Hamburger SV",
    "league_id": 54
+  },
+  "5847219": {
+   "home": 4.76,
+   "draw": 4.26,
+   "away": 1.75,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1793529947,
+   "home_name": "Lokomotiv Moscow",
+   "away_name": "Spartak Moscow",
+   "league_id": 63
   }
  },
  "odds_check": {
@@ -4131,10 +4141,10 @@
  },
  "live_count": 16,
  "candidates_last": 0,
- "last_scan": "2026-11-01 11:33",
+ "last_scan": "2026-11-01 11:45",
  "requests_last": 13,
- "last_write": "2026-11-01 11:33",
- "last_write_ts": 1793529229,
+ "last_write": "2026-11-01 11:45",
+ "last_write_ts": 1793529947,
  "odds_api": {
   "remaining": "484",
   "used": "16",
