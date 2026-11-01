@@ -4422,6 +4422,26 @@
    "home_name": "Juventus",
    "away_name": "Napoli",
    "league_id": 55
+  },
+  "5868111": {
+   "home": 2.0,
+   "draw": 3.6,
+   "away": 3.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793541745,
+   "home_name": "Athletic Club",
+   "away_name": "Real Sociedad",
+   "league_id": 87
+  },
+  "5868523": {
+   "home": 2.05,
+   "draw": 3.1,
+   "away": 3.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793541746,
+   "home_name": "Tenerife",
+   "away_name": "FC Andorra",
+   "league_id": 140
   }
  },
  "odds_check": {
@@ -4464,12 +4484,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 74,
- "candidates_last": 5,
- "last_scan": "2026-11-01 14:58",
- "requests_last": 26,
- "last_write": "2026-11-01 14:58",
- "last_write_ts": 1793541505,
+ "live_count": 90,
+ "candidates_last": 4,
+ "last_scan": "2026-11-01 15:02",
+ "requests_last": 27,
+ "last_write": "2026-11-01 15:02",
+ "last_write_ts": 1793541748,
  "odds_api": {
   "remaining": "499",
   "used": "1",
