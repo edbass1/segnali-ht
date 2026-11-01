@@ -4037,6 +4037,36 @@
    "home_name": "Kasımpaşa",
    "away_name": "Beşiktaş",
    "league_id": 71
+  },
+  "5802976": {
+   "home": 1.36,
+   "draw": 4.75,
+   "away": 7.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793528268,
+   "home_name": "Lyon",
+   "away_name": "Angers",
+   "league_id": 53
+  },
+  "5802979": {
+   "home": 2.5,
+   "draw": 3.4,
+   "away": 2.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793528269,
+   "home_name": "Paris FC",
+   "away_name": "Monaco",
+   "league_id": 53
+  },
+  "5967138": {
+   "home": 1.57,
+   "draw": 4.0,
+   "away": 5.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793528270,
+   "home_name": "Hellas Verona",
+   "away_name": "Carrarese",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -4079,12 +4109,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
+ "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-01 11:01",
- "requests_last": 17,
- "last_write": "2026-11-01 11:01",
- "last_write_ts": 1793527312,
+ "last_scan": "2026-11-01 11:17",
+ "requests_last": 14,
+ "last_write": "2026-11-01 11:17",
+ "last_write_ts": 1793528270,
  "odds_api": {
   "remaining": "484",
   "used": "16",
