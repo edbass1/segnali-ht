@@ -3558,6 +3558,116 @@
    "home_name": "Cercle Brugge",
    "away_name": "Royal Antwerp",
    "league_id": 40
+  },
+  "5868116": {
+   "home": 3.4,
+   "draw": 3.0,
+   "away": 2.35,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793516470,
+   "home_name": "Getafe",
+   "away_name": "Sevilla",
+   "league_id": 87
+  },
+  "5868519": {
+   "home": 2.25,
+   "draw": 3.1,
+   "away": 2.8,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793516471,
+   "home_name": "Eldense",
+   "away_name": "Granada",
+   "league_id": 140
+  },
+  "5793965": {
+   "home": 6.0,
+   "draw": 4.5,
+   "away": 1.44,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793516472,
+   "home_name": "Falkirk",
+   "away_name": "Celtic",
+   "league_id": 64
+  },
+  "5804291": {
+   "home": 1.25,
+   "draw": 7.0,
+   "away": 8.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793516473,
+   "home_name": "Young Boys",
+   "away_name": "FC Zürich",
+   "league_id": 69
+  },
+  "5904787": {
+   "home": 1.75,
+   "draw": 3.8,
+   "away": 4.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793516474,
+   "home_name": "Başakşehir",
+   "away_name": "Samsunspor",
+   "league_id": 71
+  },
+  "5904785": {
+   "home": 1.2,
+   "draw": 6.65,
+   "away": 8.85,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793516474,
+   "home_name": "Trabzonspor",
+   "away_name": "Gaziantep FK",
+   "league_id": 71
+  },
+  "5739536": {
+   "home": 1.86,
+   "draw": 3.75,
+   "away": 3.7,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793516475,
+   "home_name": "OB",
+   "away_name": "Silkeborg",
+   "league_id": 46
+  },
+  "5739540": {
+   "home": 1.49,
+   "draw": 4.2,
+   "away": 5.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793516476,
+   "home_name": "Viborg",
+   "away_name": "AC Horsens",
+   "league_id": 46
+  },
+  "6145890": {
+   "home": 3.9,
+   "draw": 3.7,
+   "away": 1.7,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793516477,
+   "home_name": "AC Oulu",
+   "away_name": "KuPS",
+   "league_id": 51
+  },
+  "5107645": {
+   "home": 1.25,
+   "draw": 5.5,
+   "away": 9.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793516477,
+   "home_name": "Djurgården",
+   "away_name": "Degerfors",
+   "league_id": 67
+  },
+  "5107649": {
+   "home": 4.45,
+   "draw": 4.0,
+   "away": 1.7,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793516478,
+   "home_name": "Malmö FF",
+   "away_name": "Hammarby",
+   "league_id": 67
   }
  },
  "odds_check": {
@@ -3600,12 +3710,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 10,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-01 07:33",
- "requests_last": 11,
- "last_write": "2026-11-01 07:33",
- "last_write_ts": 1793514794,
+ "last_scan": "2026-11-01 08:01",
+ "requests_last": 17,
+ "last_write": "2026-11-01 08:01",
+ "last_write_ts": 1793516478,
  "odds_api": {
   "remaining": "484",
   "used": "16",
