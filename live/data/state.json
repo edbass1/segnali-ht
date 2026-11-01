@@ -4102,6 +4102,36 @@
    "home_name": "Lokomotiv Moscow",
    "away_name": "Spartak Moscow",
    "league_id": 63
+  },
+  "5749737": {
+   "home": 3.1,
+   "draw": 2.8,
+   "away": 2.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793530915,
+   "home_name": "Lecce",
+   "away_name": "Genoa",
+   "league_id": 55
+  },
+  "5943287": {
+   "home": 1.25,
+   "draw": 5.0,
+   "away": 9.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793530916,
+   "home_name": "PAOK Thessaloniki",
+   "away_name": "Asteras Tripolis",
+   "league_id": 135
+  },
+  "5739539": {
+   "home": 1.95,
+   "draw": 3.6,
+   "away": 3.3,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793530916,
+   "home_name": "Brøndby IF",
+   "away_name": "AGF",
+   "league_id": 46
   }
  },
  "odds_check": {
@@ -4144,12 +4174,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 16,
- "candidates_last": 1,
- "last_scan": "2026-11-01 11:53",
- "requests_last": 12,
- "last_write": "2026-11-01 11:53",
- "last_write_ts": 1793530426,
+ "live_count": 48,
+ "candidates_last": 0,
+ "last_scan": "2026-11-01 12:01",
+ "requests_last": 14,
+ "last_write": "2026-11-01 12:01",
+ "last_write_ts": 1793530917,
  "odds_api": {
   "remaining": "484",
   "used": "16",
