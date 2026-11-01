@@ -4497,6 +4497,26 @@
    "home_name": "Tenerife",
    "away_name": "FC Andorra",
    "league_id": 140
+  },
+  "5071480": {
+   "home": 1.65,
+   "draw": 4.2,
+   "away": 4.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793543423,
+   "home_name": "Vancouver Whitecaps",
+   "away_name": "Seattle Sounders FC",
+   "league_id": 130
+  },
+  "5887665": {
+   "home": 1.61,
+   "draw": 3.9,
+   "away": 5.25,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793543424,
+   "home_name": "Braga",
+   "away_name": "Famalicão",
+   "league_id": 61
   }
  },
  "odds_check": {
@@ -4539,12 +4559,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 97,
- "candidates_last": 5,
- "last_scan": "2026-11-01 15:26",
- "requests_last": 26,
- "last_write": "2026-11-01 15:26",
- "last_write_ts": 1793543186,
+ "live_count": 94,
+ "candidates_last": 1,
+ "last_scan": "2026-11-01 15:30",
+ "requests_last": 24,
+ "last_write": "2026-11-01 15:30",
+ "last_write_ts": 1793543425,
  "odds_api": {
   "remaining": "499",
   "used": "1",
