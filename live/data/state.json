@@ -4237,6 +4237,26 @@
    "home_name": "Vålerenga",
    "away_name": "Tromsø",
    "league_id": 59
+  },
+  "5905958": {
+   "home": 1.85,
+   "draw": 3.7,
+   "away": 3.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793536452,
+   "home_name": "Alemannia Aachen",
+   "away_name": "Preussen Münster",
+   "league_id": 208
+  },
+  "5967135": {
+   "home": 1.44,
+   "draw": 3.9,
+   "away": 5.25,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793536453,
+   "home_name": "Palermo",
+   "away_name": "LR Vicenza",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -4279,12 +4299,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 114,
+ "live_count": 113,
  "candidates_last": 1,
- "last_scan": "2026-11-01 13:22",
- "requests_last": 22,
- "last_write": "2026-11-01 13:22",
- "last_write_ts": 1793535730,
+ "last_scan": "2026-11-01 13:34",
+ "requests_last": 24,
+ "last_write": "2026-11-01 13:34",
+ "last_write_ts": 1793536453,
  "odds_api": {
   "remaining": "484",
   "used": "16",
