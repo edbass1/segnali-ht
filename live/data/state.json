@@ -3375,6 +3375,16 @@
    "ts": 1793500366,
    "event_id": "GWoUo0Vq",
    "league_id": 230
+  },
+  "5847220": {
+   "home": 3.32,
+   "draw": 3.84,
+   "away": 2.21,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1793505649,
+   "home_name": "FC Orenburg",
+   "away_name": "CSKA Moscow",
+   "league_id": 63
   }
  },
  "odds_check": {
@@ -3417,12 +3427,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 7,
+ "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-01 04:28",
- "requests_last": 12,
- "last_write": "2026-11-01 04:28",
- "last_write_ts": 1793503731,
+ "last_scan": "2026-11-01 05:00",
+ "requests_last": 9,
+ "last_write": "2026-11-01 05:00",
+ "last_write_ts": 1793505649,
  "odds_api": {
   "remaining": "484",
   "used": "16",
