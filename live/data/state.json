@@ -4597,6 +4597,46 @@
    "home_name": "Braga",
    "away_name": "Famalicão",
    "league_id": 61
+  },
+  "5071481": {
+   "home": 2.2,
+   "draw": 3.9,
+   "away": 2.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793547030,
+   "home_name": "Atlanta United",
+   "away_name": "Toronto FC",
+   "league_id": 130
+  },
+  "5071473": {
+   "home": 1.5,
+   "draw": 4.75,
+   "away": 5.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793547030,
+   "home_name": "Nashville SC",
+   "away_name": "Red Bull New York",
+   "league_id": 130
+  },
+  "5190790": {
+   "home": 1.36,
+   "draw": 4.5,
+   "away": 7.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793547037,
+   "home_name": "Novorizontino",
+   "away_name": "Operário-PR",
+   "league_id": 8814
+  },
+  "5190797": {
+   "home": 1.83,
+   "draw": 3.3,
+   "away": 4.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793547038,
+   "home_name": "Cuiabá",
+   "away_name": "São Bernardo",
+   "league_id": 8814
   }
  },
  "odds_check": {
@@ -4639,12 +4679,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 102,
- "candidates_last": 2,
- "last_scan": "2026-11-01 16:18",
- "requests_last": 18,
- "last_write": "2026-11-01 16:18",
- "last_write_ts": 1793546310,
+ "live_count": 88,
+ "candidates_last": 0,
+ "last_scan": "2026-11-01 16:30",
+ "requests_last": 30,
+ "last_write": "2026-11-01 16:30",
+ "last_write_ts": 1793547038,
  "odds_api": {
   "remaining": "499",
   "used": "1",
