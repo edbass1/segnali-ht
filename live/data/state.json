@@ -3283,6 +3283,16 @@
    "ts": 1793490988,
    "event_id": "CzcjgrwA",
    "league_id": 230
+  },
+  "5803642": {
+   "home": 1.7,
+   "draw": 3.75,
+   "away": 4.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793494828,
+   "home_name": "Machida Zelvia",
+   "away_name": "Gamba Osaka",
+   "league_id": 223
   }
  },
  "odds_check": {
@@ -3325,12 +3335,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
+ "live_count": 8,
  "candidates_last": 0,
- "last_scan": "2026-11-01 01:28",
- "requests_last": 27,
- "last_write": "2026-11-01 01:28",
- "last_write_ts": 1793492903,
+ "last_scan": "2026-11-01 02:00",
+ "requests_last": 23,
+ "last_write": "2026-11-01 02:00",
+ "last_write_ts": 1793494828,
  "odds_api": {
   "remaining": "484",
   "used": "16",
