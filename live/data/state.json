@@ -2041,6 +2041,11 @@
    "t": 1793569172,
    "r": "prematch favorita 1,61 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000019608:favht": {
+   "t": 1793571590,
+   "r": "prematch 2,10 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -4829,6 +4834,15 @@
    "home_name": "Portland Timbers",
    "away_name": "Houston Dynamo FC",
    "league_id": 130
+  },
+  "1000019608": {
+   "home": 2.1,
+   "draw": 3.25,
+   "away": 3.7,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793571590,
+   "event_id": "jRzTcmz8",
+   "league_id": 112
   }
  },
  "odds_check": {
@@ -4871,12 +4885,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 34,
- "candidates_last": 0,
- "last_scan": "2026-11-01 23:11",
- "requests_last": 17,
- "last_write": "2026-11-01 23:11",
- "last_write_ts": 1793571098,
+ "live_count": 35,
+ "candidates_last": 1,
+ "last_scan": "2026-11-01 23:19",
+ "requests_last": 25,
+ "last_write": "2026-11-01 23:19",
+ "last_write_ts": 1793571590,
  "odds_api": {
   "remaining": "499",
   "used": "1",
