@@ -60,5 +60,67 @@
    "favourite_index": 0,
    "scope": "match"
   }
+ },
+ {
+  "id": "5739540-favht",
+  "strategy": "favht",
+  "matchId": 5739540,
+  "time": "2026-11-01 14:50",
+  "ts": 1793541027,
+  "league": "Superligaen",
+  "country": "DEN",
+  "leagueId": 46,
+  "home": "Viborg",
+  "away": "AC Horsens",
+  "favourite": "home",
+  "favouriteTeam": "Viborg",
+  "phase": "Intervallo",
+  "minute": 45,
+  "score": "0 - 0",
+  "url": "https://www.fotmob.com/match/5739540",
+  "odds": {
+   "prematch": {
+    "home": 1.49,
+    "draw": 4.2,
+    "away": 5.75,
+    "favourite": 1.49,
+    "source": "fotmob:Bet365_UK CPM"
+   },
+   "live": {
+    "home": 1.76,
+    "draw": 3.3,
+    "away": 6.8,
+    "favourite": 1.76,
+    "book": "Betfair",
+    "min": 1.55,
+    "max": 1.85
+   },
+   "live_note": null
+  },
+  "stats": {
+   "sot": [
+    5.0,
+    1.0
+   ],
+   "poss": [
+    58.0,
+    42.0
+   ],
+   "box": [
+    30.0,
+    3.0
+   ],
+   "xg": [
+    1.18,
+    0.12
+   ],
+   "red": [
+    0.0,
+    0.0
+   ],
+   "box_ratio": 10.0,
+   "favourite_index": 0,
+   "scope": "ht"
+  }
  }
 ]
