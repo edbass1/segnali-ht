@@ -1926,6 +1926,21 @@
    "t": 1793548242,
    "r": "prematch favorita 2,00 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000013258:favht": {
+   "t": 1793548490,
+   "r": "prematch 2,35 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5739541:favht": {
+   "t": 1793548491,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5739541:lay_sfav": {
+   "t": 1793548491,
+   "r": "prematch favorita 2,25 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -4652,6 +4667,15 @@
    "home_name": "Cuiabá",
    "away_name": "São Bernardo",
    "league_id": 8814
+  },
+  "1000013258": {
+   "home": 2.65,
+   "draw": 3.4,
+   "away": 2.35,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793548490,
+   "event_id": "nui8Im53",
+   "league_id": 273
   }
  },
  "odds_check": {
@@ -4694,12 +4718,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 100,
+ "live_count": 82,
  "candidates_last": 2,
- "last_scan": "2026-11-01 16:50",
- "requests_last": 23,
- "last_write": "2026-11-01 16:50",
- "last_write_ts": 1793548242,
+ "last_scan": "2026-11-01 16:54",
+ "requests_last": 30,
+ "last_write": "2026-11-01 16:54",
+ "last_write_ts": 1793548491,
  "odds_api": {
   "remaining": "499",
   "used": "1",
