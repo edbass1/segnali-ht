@@ -3967,6 +3967,16 @@
    "home_name": "Västerås SK",
    "away_name": "Brommapojkarna",
    "league_id": 67
+  },
+  "5781789": {
+   "home": 1.73,
+   "draw": 4.0,
+   "away": 3.8,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793526336,
+   "home_name": "FC Groningen",
+   "away_name": "Sparta Rotterdam",
+   "league_id": 57
   }
  },
  "odds_check": {
@@ -4011,10 +4021,10 @@
  },
  "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-01 10:33",
- "requests_last": 18,
- "last_write": "2026-11-01 10:33",
- "last_write_ts": 1793525623,
+ "last_scan": "2026-11-01 10:45",
+ "requests_last": 12,
+ "last_write": "2026-11-01 10:45",
+ "last_write_ts": 1793526336,
  "odds_api": {
   "remaining": "484",
   "used": "16",
