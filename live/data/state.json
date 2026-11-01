@@ -1501,6 +1501,11 @@
    "t": 1793496029,
    "r": "prematch favorita 2,00 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000014629:favht": {
+   "t": 1793498436,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -3332,6 +3337,15 @@
    "home_name": "FC Anyang",
    "away_name": "Bucheon FC 1995",
    "league_id": 9080
+  },
+  "1000014629": {
+   "home": 1.37,
+   "draw": 5.0,
+   "away": 7.0,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793498436,
+   "event_id": "plebiM7M",
+   "league_id": 230
   }
  },
  "odds_check": {
@@ -3374,12 +3388,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 12,
- "candidates_last": 0,
- "last_scan": "2026-11-01 02:32",
- "requests_last": 14,
- "last_write": "2026-11-01 02:32",
- "last_write_ts": 1793496742,
+ "live_count": 13,
+ "candidates_last": 1,
+ "last_scan": "2026-11-01 03:00",
+ "requests_last": 25,
+ "last_write": "2026-11-01 03:00",
+ "last_write_ts": 1793498436,
  "odds_api": {
   "remaining": "484",
   "used": "16",
