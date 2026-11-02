@@ -1194,29 +1194,6 @@
   }
  },
  "prematch": {
-  "1000019616": {
-   "home": 2.45,
-   "draw": 2.87,
-   "away": 3.2,
-   "source": "betexplorer:bet365.us",
-   "ts": 1793400735,
-   "event_id": "jkFQCG0s",
-   "league_id": 112
-  },
-  "1000013252": {
-   "unavailable": true,
-   "ts": 1793400739,
-   "source": "none"
-  },
-  "1000013255": {
-   "home": 1.61,
-   "draw": 3.7,
-   "away": 4.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1793400743,
-   "event_id": "SzKs2SKM",
-   "league_id": 273
-  },
   "1000019614": {
    "unavailable": true,
    "ts": 1793400968,
@@ -4054,12 +4031,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
+ "live_count": 7,
  "candidates_last": 1,
- "last_scan": "2026-11-02 23:47",
- "requests_last": 25,
- "last_write": "2026-11-02 23:47",
- "last_write_ts": 1793659661,
+ "last_scan": "2026-11-02 23:55",
+ "requests_last": 18,
+ "last_write": "2026-11-02 23:55",
+ "last_write_ts": 1793660133,
  "odds_api": {
   "remaining": "499",
   "used": "1",
