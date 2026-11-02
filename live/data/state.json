@@ -12,11 +12,6 @@
   }
  },
  "done": {
-  "6503948:lay_sfav": {
-   "t": 1793437040,
-   "r": "prematch favorita 2,25 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5904793:favht": {
    "t": 1793445693,
    "r": "non è 0-0",
@@ -4824,6 +4819,16 @@
    "ts": 1793585049,
    "event_id": "MmuW5LMF",
    "league_id": 230
+  },
+  "5847218": {
+   "home": 5.84,
+   "draw": 4.56,
+   "away": 1.6,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1793610053,
+   "home_name": "Krylya Sovetov Samara",
+   "away_name": "Zenit St. Petersburg",
+   "league_id": 63
   }
  },
  "odds_check": {
@@ -4868,10 +4873,10 @@
  },
  "live_count": 0,
  "candidates_last": 0,
- "last_scan": "2026-11-02 09:40",
- "requests_last": 1,
- "last_write": "2026-11-02 09:40",
- "last_write_ts": 1793608843,
+ "last_scan": "2026-11-02 10:00",
+ "requests_last": 3,
+ "last_write": "2026-11-02 10:00",
+ "last_write_ts": 1793610053,
  "odds_api": {
   "remaining": "499",
   "used": "1",
