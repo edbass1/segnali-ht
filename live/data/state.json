@@ -12,16 +12,6 @@
   }
  },
  "done": {
-  "5804029:favht": {
-   "t": 1793448106,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5804029:lay_sfav": {
-   "t": 1793448106,
-   "r": "prematch favorita 2,25 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5881716:favht": {
    "t": 1793450998,
    "r": "non è 0-0",
@@ -4959,6 +4949,16 @@
    "home_name": "Mjällby",
    "away_name": "Kalmar FF",
    "league_id": 67
+  },
+  "5125670": {
+   "home": 1.7,
+   "draw": 3.8,
+   "away": 4.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793621134,
+   "home_name": "Landskrona BoIS",
+   "away_name": "Örebro",
+   "league_id": 168
   }
  },
  "odds_check": {},
@@ -4995,12 +4995,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
+ "live_count": 10,
  "candidates_last": 0,
- "last_scan": "2026-11-02 13:01",
- "requests_last": 5,
- "last_write": "2026-11-02 13:01",
- "last_write_ts": 1793620895,
+ "last_scan": "2026-11-02 13:05",
+ "requests_last": 2,
+ "last_write": "2026-11-02 13:05",
+ "last_write_ts": 1793621134,
  "odds_api": {
   "remaining": "499",
   "used": "1",
