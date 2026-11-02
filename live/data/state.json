@@ -12,11 +12,6 @@
   }
  },
  "done": {
-  "5781791:lay_sfav": {
-   "t": 1793474148,
-   "r": "fuori finestra",
-   "strategy": "lay_sfav"
-  },
   "5967136:favht": {
    "t": 1793474630,
    "r": "non è 0-0",
@@ -4160,12 +4155,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 35,
- "candidates_last": 3,
- "last_scan": "2026-11-02 20:10",
- "requests_last": 35,
- "last_write": "2026-11-02 20:10",
- "last_write_ts": 1793646635,
+ "live_count": 36,
+ "candidates_last": 1,
+ "last_scan": "2026-11-02 20:18",
+ "requests_last": 33,
+ "last_write": "2026-11-02 20:18",
+ "last_write_ts": 1793647124,
  "odds_api": {
   "remaining": "499",
   "used": "1",
