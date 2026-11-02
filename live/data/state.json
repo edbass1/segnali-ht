@@ -12,26 +12,6 @@
   }
  },
  "done": {
-  "5881716:favht": {
-   "t": 1793450998,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5881716:lay_sfav": {
-   "t": 1793450998,
-   "r": "prematch favorita 1,50 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5125673:favht": {
-   "t": 1793450998,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5125673:lay_sfav": {
-   "t": 1793450998,
-   "r": "prematch favorita 2,30 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5881713:favht": {
    "t": 1793451238,
    "r": "non è 0-0",
@@ -4995,12 +4975,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 14,
+ "live_count": 13,
  "candidates_last": 0,
- "last_scan": "2026-11-02 13:37",
+ "last_scan": "2026-11-02 13:53",
  "requests_last": 1,
- "last_write": "2026-11-02 13:37",
- "last_write_ts": 1793623061,
+ "last_write": "2026-11-02 13:53",
+ "last_write_ts": 1793624021,
  "odds_api": {
   "remaining": "499",
   "used": "1",
