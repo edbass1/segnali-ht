@@ -1201,6 +1201,11 @@
    "t": 1793653861,
    "r": "prematch favorita 2,10 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000013256:favht": {
+   "t": 1793656506,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -4014,6 +4019,11 @@
    "home_name": "Goiás",
    "away_name": "CRB",
    "league_id": 8814
+  },
+  "1000013256": {
+   "unavailable": true,
+   "ts": 1793656506,
+   "source": "none"
   }
  },
  "odds_check": {},
@@ -4051,11 +4061,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 13,
- "candidates_last": 0,
- "last_scan": "2026-11-02 22:51",
- "requests_last": 27,
- "last_write": "2026-11-02 22:51",
- "last_write_ts": 1793656261,
+ "candidates_last": 1,
+ "last_scan": "2026-11-02 22:55",
+ "requests_last": 34,
+ "last_write": "2026-11-02 22:55",
+ "last_write_ts": 1793656506,
  "odds_api": {
   "remaining": "499",
   "used": "1",
