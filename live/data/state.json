@@ -4869,6 +4869,36 @@
    "home_name": "VPS",
    "away_name": "HJK",
    "league_id": 51
+  },
+  "5804026": {
+   "home": 2.0,
+   "draw": 3.5,
+   "away": 3.1,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793617287,
+   "home_name": "Radomiak Radom",
+   "away_name": "Śląsk Wrocław",
+   "league_id": 196
+  },
+  "5804030": {
+   "home": 2.45,
+   "draw": 3.2,
+   "away": 2.7,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793617288,
+   "home_name": "Zagłębie Lubin",
+   "away_name": "Korona Kielce",
+   "league_id": 196
+  },
+  "5904789": {
+   "home": 2.5,
+   "draw": 3.2,
+   "away": 2.6,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793617289,
+   "home_name": "Gençlerbirliği",
+   "away_name": "Alanyaspor",
+   "league_id": 71
   }
  },
  "odds_check": {},
@@ -4905,12 +4935,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 0,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-02 11:33",
- "requests_last": 1,
- "last_write": "2026-11-02 11:33",
- "last_write_ts": 1793615590,
+ "last_scan": "2026-11-02 12:01",
+ "requests_last": 4,
+ "last_write": "2026-11-02 12:01",
+ "last_write_ts": 1793617289,
  "odds_api": {
   "remaining": "499",
   "used": "1",
