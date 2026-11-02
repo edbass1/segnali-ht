@@ -4864,6 +4864,46 @@
    "home_name": "Raków Częstochowa",
    "away_name": "Pogoń Szczecin",
    "league_id": 196
+  },
+  "5802975": {
+   "home": 2.4,
+   "draw": 3.2,
+   "away": 3.1,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793627224,
+   "home_name": "Lorient",
+   "away_name": "Brest",
+   "league_id": 53
+  },
+  "5749731": {
+   "home": 1.44,
+   "draw": 4.5,
+   "away": 6.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793627225,
+   "home_name": "Atalanta",
+   "away_name": "Parma",
+   "league_id": 55
+  },
+  "5803305": {
+   "home": 2.15,
+   "draw": 3.1,
+   "away": 2.9,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793627225,
+   "home_name": "Red Star",
+   "away_name": "Nancy",
+   "league_id": 110
+  },
+  "5803306": {
+   "home": 1.62,
+   "draw": 4.0,
+   "away": 5.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793627226,
+   "home_name": "Reims",
+   "away_name": "Sochaux",
+   "league_id": 110
   }
  },
  "odds_check": {},
@@ -4900,12 +4940,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 19,
+ "live_count": 20,
  "candidates_last": 0,
- "last_scan": "2026-11-02 14:43",
- "requests_last": 1,
- "last_write": "2026-11-02 14:43",
- "last_write_ts": 1793626983,
+ "last_scan": "2026-11-02 14:47",
+ "requests_last": 5,
+ "last_write": "2026-11-02 14:47",
+ "last_write_ts": 1793627226,
  "odds_api": {
   "remaining": "499",
   "used": "1",
