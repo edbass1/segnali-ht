@@ -12,16 +12,6 @@
   }
  },
  "done": {
-  "5905967:favht": {
-   "t": 1793456061,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5905967:lay_sfav": {
-   "t": 1793456061,
-   "r": "prematch favorita 2,25 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5905966:favht": {
    "t": 1793456798,
    "r": "non è 0-0",
@@ -4909,6 +4899,26 @@
    "home_name": "Mallorca",
    "away_name": "Cádiz",
    "league_id": 140
+  },
+  "5887671": {
+   "home": 1.1,
+   "draw": 10.0,
+   "away": 15.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793628904,
+   "home_name": "Benfica",
+   "away_name": "Alverca",
+   "league_id": 61
+  },
+  "5887667": {
+   "home": 2.8,
+   "draw": 3.1,
+   "away": 2.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793628905,
+   "home_name": "Gil Vicente",
+   "away_name": "Vitória de Guimarães",
+   "league_id": 61
   }
  },
  "odds_check": {},
@@ -4947,10 +4957,10 @@
  },
  "live_count": 18,
  "candidates_last": 0,
- "last_scan": "2026-11-02 15:03",
- "requests_last": 4,
- "last_write": "2026-11-02 15:03",
- "last_write_ts": 1793628185,
+ "last_scan": "2026-11-02 15:15",
+ "requests_last": 3,
+ "last_write": "2026-11-02 15:15",
+ "last_write_ts": 1793628905,
  "odds_api": {
   "remaining": "499",
   "used": "1",
