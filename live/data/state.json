@@ -1074,16 +1074,6 @@
   }
  },
  "prematch": {
-  "5781791": {
-   "home": 2.0,
-   "draw": 3.6,
-   "away": 2.88,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793447142,
-   "home_name": "SC Heerenveen",
-   "away_name": "NEC Nijmegen",
-   "league_id": 57
-  },
   "5071472": {
    "home": 1.41,
    "draw": 4.75,
@@ -2863,10 +2853,10 @@
  },
  "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-03 12:37",
+ "last_scan": "2026-11-03 12:49",
  "requests_last": 1,
- "last_write": "2026-11-03 12:37",
- "last_write_ts": 1793705846,
+ "last_write": "2026-11-03 12:49",
+ "last_write_ts": 1793706566,
  "odds_api": {
   "remaining": "499",
   "used": "1",
