@@ -1119,16 +1119,6 @@
   }
  },
  "prematch": {
-  "5970196": {
-   "home": 2.25,
-   "draw": 3.7,
-   "away": 2.75,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793431985,
-   "home_name": "Al-Taawoun",
-   "away_name": "Al-Ettifaq",
-   "league_id": 536
-  },
   "5804028": {
    "home": 2.6,
    "draw": 3.75,
@@ -3621,12 +3611,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 3,
+ "live_count": 2,
  "candidates_last": 0,
- "last_scan": "2026-11-03 08:04",
+ "last_scan": "2026-11-03 08:36",
  "requests_last": 1,
- "last_write": "2026-11-03 08:04",
- "last_write_ts": 1793689480,
+ "last_write": "2026-11-03 08:36",
+ "last_write_ts": 1793691409,
  "odds_api": {
   "remaining": "499",
   "used": "1",
