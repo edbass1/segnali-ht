@@ -12,11 +12,6 @@
   }
  },
  "done": {
-  "5868118:favht": {
-   "t": 1793549442,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
   "5905962:favht": {
    "t": 1793549925,
    "r": "non è 0-0",
@@ -2388,10 +2383,10 @@
  },
  "live_count": 11,
  "candidates_last": 0,
- "last_scan": "2026-11-03 17:10",
+ "last_scan": "2026-11-03 17:14",
  "requests_last": 1,
- "last_write": "2026-11-03 17:10",
- "last_write_ts": 1793722213,
+ "last_write": "2026-11-03 17:14",
+ "last_write_ts": 1793722453,
  "odds_api": {
   "remaining": "499",
   "used": "1",
