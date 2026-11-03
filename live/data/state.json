@@ -1114,66 +1114,6 @@
   }
  },
  "prematch": {
-  "5749732": {
-   "home": 1.67,
-   "draw": 3.9,
-   "away": 5.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793433673,
-   "home_name": "Bologna",
-   "away_name": "Monza",
-   "league_id": 55
-  },
-  "5967132": {
-   "home": 2.65,
-   "draw": 3.1,
-   "away": 2.65,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793433674,
-   "home_name": "Cremonese",
-   "away_name": "Benevento",
-   "league_id": 86
-  },
-  "5967134": {
-   "home": 1.75,
-   "draw": 3.6,
-   "away": 4.0,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793433675,
-   "home_name": "Modena",
-   "away_name": "Mantova",
-   "league_id": 86
-  },
-  "5967137": {
-   "home": 2.3,
-   "draw": 3.0,
-   "away": 3.2,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793433676,
-   "home_name": "Südtirol",
-   "away_name": "Cesena",
-   "league_id": 86
-  },
-  "5125671": {
-   "home": 1.4,
-   "draw": 4.65,
-   "away": 6.45,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793433677,
-   "home_name": "Nordic United FC",
-   "away_name": "GIF Sundsvall",
-   "league_id": 168
-  },
-  "5125672": {
-   "home": 2.3,
-   "draw": 3.5,
-   "away": 2.55,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793433677,
-   "home_name": "Norrby",
-   "away_name": "IFK Värnamo",
-   "league_id": 168
-  },
   "5881206": {
    "home": 2.9,
    "draw": 3.75,
@@ -3598,10 +3538,10 @@
  },
  "live_count": 2,
  "candidates_last": 0,
- "last_scan": "2026-11-03 08:56",
+ "last_scan": "2026-11-03 09:04",
  "requests_last": 1,
- "last_write": "2026-11-03 08:56",
- "last_write_ts": 1793692610,
+ "last_write": "2026-11-03 09:04",
+ "last_write_ts": 1793693089,
  "odds_api": {
   "remaining": "499",
   "used": "1",
