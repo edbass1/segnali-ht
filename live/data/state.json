@@ -689,16 +689,6 @@
   }
  },
  "prematch": {
-  "5190796": {
-   "home": 1.96,
-   "draw": 3.4,
-   "away": 3.75,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793464267,
-   "home_name": "Náutico",
-   "away_name": "Avaí",
-   "league_id": 8814
-  },
   "5071475": {
    "home": 2.3,
    "draw": 3.7,
@@ -2336,12 +2326,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 11,
+ "live_count": 12,
  "candidates_last": 0,
- "last_scan": "2026-11-03 17:30",
- "requests_last": 2,
- "last_write": "2026-11-03 17:30",
- "last_write_ts": 1793723415,
+ "last_scan": "2026-11-03 17:34",
+ "requests_last": 1,
+ "last_write": "2026-11-03 17:34",
+ "last_write_ts": 1793723653,
  "odds_api": {
   "remaining": "499",
   "used": "1",
