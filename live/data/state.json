@@ -536,6 +536,11 @@
    "t": 1793668080,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "5107651:favht": {
+   "t": 1793731629,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -2187,11 +2192,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 13,
- "candidates_last": 0,
- "last_scan": "2026-11-03 19:30",
+ "candidates_last": 1,
+ "last_scan": "2026-11-03 19:47",
  "requests_last": 3,
- "last_write": "2026-11-03 19:30",
- "last_write_ts": 1793730648,
+ "last_write": "2026-11-03 19:47",
+ "last_write_ts": 1793731629,
  "odds_api": {
   "remaining": "499",
   "used": "1",
