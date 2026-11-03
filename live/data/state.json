@@ -1154,16 +1154,6 @@
   }
  },
  "prematch": {
-  "5804029": {
-   "home": 2.25,
-   "draw": 3.25,
-   "away": 2.7,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793423813,
-   "home_name": "Wisła Płock",
-   "away_name": "Piast Gliwice",
-   "league_id": 196
-  },
   "5881710": {
    "home": 2.85,
    "draw": 3.7,
@@ -3875,12 +3865,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 1,
+ "live_count": 17,
  "candidates_last": 0,
- "last_scan": "2026-11-03 06:00",
+ "last_scan": "2026-11-03 06:20",
  "requests_last": 1,
- "last_write": "2026-11-03 06:00",
- "last_write_ts": 1793682025,
+ "last_write": "2026-11-03 06:20",
+ "last_write_ts": 1793683225,
  "odds_api": {
   "remaining": "499",
   "used": "1",
