@@ -1119,15 +1119,6 @@
   }
  },
  "prematch": {
-  "1000017571": {
-   "home": 2.1,
-   "draw": 3.6,
-   "away": 3.2,
-   "source": "betexplorer:bet365.us",
-   "ts": 1793429343,
-   "event_id": "fqhMCXm1",
-   "league_id": 113
-  },
   "5868117": {
    "home": 5.5,
    "draw": 4.75,
@@ -3690,12 +3681,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 18,
+ "live_count": 17,
  "candidates_last": 0,
- "last_scan": "2026-11-03 07:36",
+ "last_scan": "2026-11-03 07:52",
  "requests_last": 1,
- "last_write": "2026-11-03 07:36",
- "last_write_ts": 1793687800,
+ "last_write": "2026-11-03 07:52",
+ "last_write_ts": 1793688760,
  "odds_api": {
   "remaining": "499",
   "used": "1",
