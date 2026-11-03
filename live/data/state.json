@@ -1181,6 +1181,21 @@
    "t": 1793663739,
    "r": "prematch favorita 1,91 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000013259:favht": {
+   "t": 1793665428,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5190794:favht": {
+   "t": 1793665428,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5190794:lay_sfav": {
+   "t": 1793665428,
+   "r": "prematch favorita 2,38 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -3920,6 +3935,11 @@
    "ts": 1793659661,
    "event_id": "vmHNJUdR",
    "league_id": 112
+  },
+  "1000013259": {
+   "unavailable": true,
+   "ts": 1793665428,
+   "source": "none"
   }
  },
  "odds_check": {},
@@ -3956,12 +3976,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
- "candidates_last": 0,
- "last_scan": "2026-11-03 01:07",
- "requests_last": 12,
- "last_write": "2026-11-03 01:07",
- "last_write_ts": 1793664470,
+ "live_count": 7,
+ "candidates_last": 2,
+ "last_scan": "2026-11-03 01:23",
+ "requests_last": 10,
+ "last_write": "2026-11-03 01:23",
+ "last_write_ts": 1793665428,
  "odds_api": {
   "remaining": "499",
   "used": "1",
