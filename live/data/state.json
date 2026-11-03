@@ -874,26 +874,6 @@
   }
  },
  "prematch": {
-  "5887670": {
-   "home": 1.15,
-   "draw": 7.5,
-   "away": 18.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793457038,
-   "home_name": "FC Porto",
-   "away_name": "Estoril",
-   "league_id": 61
-  },
-  "5190798": {
-   "home": 2.4,
-   "draw": 2.85,
-   "away": 3.25,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793457038,
-   "home_name": "Vila Nova",
-   "away_name": "Juventude",
-   "league_id": 8814
-  },
   "5071477": {
    "home": 1.44,
    "draw": 5.0,
@@ -2553,10 +2533,10 @@
  },
  "live_count": 11,
  "candidates_last": 0,
- "last_scan": "2026-11-03 15:29",
+ "last_scan": "2026-11-03 15:33",
  "requests_last": 1,
- "last_write": "2026-11-03 15:29",
- "last_write_ts": 1793716190,
+ "last_write": "2026-11-03 15:33",
+ "last_write_ts": 1793716430,
  "odds_api": {
   "remaining": "499",
   "used": "1",
