@@ -479,16 +479,6 @@
   }
  },
  "prematch": {
-  "5071475": {
-   "home": 2.3,
-   "draw": 3.7,
-   "away": 2.88,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793475110,
-   "home_name": "Colorado Rapids",
-   "away_name": "Chicago Fire FC",
-   "league_id": 130
-  },
   "1000019606": {
    "unavailable": true,
    "ts": 1793479681,
@@ -2126,12 +2116,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 21,
- "candidates_last": 1,
- "last_scan": "2026-11-03 20:23",
- "requests_last": 3,
- "last_write": "2026-11-03 20:23",
- "last_write_ts": 1793733789,
+ "live_count": 22,
+ "candidates_last": 0,
+ "last_scan": "2026-11-03 20:35",
+ "requests_last": 2,
+ "last_write": "2026-11-03 20:35",
+ "last_write_ts": 1793734510,
  "odds_api": {
   "remaining": "499",
   "used": "1",
