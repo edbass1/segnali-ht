@@ -1089,16 +1089,6 @@
   }
  },
  "prematch": {
-  "5970187": {
-   "home": 2.6,
-   "draw": 3.3,
-   "away": 2.55,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793437039,
-   "home_name": "Al-Fayha",
-   "away_name": "Al-Faisaly",
-   "league_id": 536
-  },
   "5795495": {
    "home": 2.1,
    "draw": 3.45,
@@ -3451,12 +3441,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 2,
+ "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-03 09:52",
+ "last_scan": "2026-11-03 10:00",
  "requests_last": 1,
- "last_write": "2026-11-03 09:52",
- "last_write_ts": 1793695977,
+ "last_write": "2026-11-03 10:00",
+ "last_write_ts": 1793696457,
  "odds_api": {
   "remaining": "499",
   "used": "1",
