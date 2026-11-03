@@ -1084,66 +1084,6 @@
   }
  },
  "prematch": {
-  "5071470": {
-   "home": 1.85,
-   "draw": 4.6,
-   "away": 3.45,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793444494,
-   "home_name": "Charlotte FC",
-   "away_name": "Orlando City",
-   "league_id": 130
-  },
-  "5749739": {
-   "home": 5.5,
-   "draw": 4.33,
-   "away": 1.53,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793444494,
-   "home_name": "Udinese",
-   "away_name": "Roma",
-   "league_id": 55
-  },
-  "5105039": {
-   "home": 2.0,
-   "draw": 3.9,
-   "away": 3.25,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793444495,
-   "home_name": "Aalesund",
-   "away_name": "Sandefjord",
-   "league_id": 59
-  },
-  "5943283": {
-   "home": 6.5,
-   "draw": 4.2,
-   "away": 1.4,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793444496,
-   "home_name": "Kifisia FC",
-   "away_name": "Olympiacos",
-   "league_id": 135
-  },
-  "5804286": {
-   "home": 2.45,
-   "draw": 3.75,
-   "away": 2.5,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793444496,
-   "home_name": "Grasshopper",
-   "away_name": "FC Vaduz",
-   "league_id": 69
-  },
-  "5804290": {
-   "home": 1.75,
-   "draw": 3.9,
-   "away": 3.9,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793444497,
-   "home_name": "St. Gallen",
-   "away_name": "Servette",
-   "league_id": 69
-  },
   "5811797": {
    "home": 1.62,
    "draw": 3.8,
@@ -2981,12 +2921,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-03 11:57",
+ "last_scan": "2026-11-03 12:05",
  "requests_last": 1,
- "last_write": "2026-11-03 11:57",
- "last_write_ts": 1793703439,
+ "last_write": "2026-11-03 12:05",
+ "last_write_ts": 1793703919,
  "odds_api": {
   "remaining": "499",
   "used": "1",
