@@ -12,16 +12,6 @@
   }
  },
  "done": {
-  "5847218:favht": {
-   "t": 1793634904,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5847218:lay_sfav": {
-   "t": 1793634904,
-   "r": "prematch favorita 1,60 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5868521:favht": {
    "t": 1793635869,
    "r": "non è 0-0",
@@ -419,15 +409,6 @@
   }
  },
  "prematch": {
-  "1000013258": {
-   "home": 2.65,
-   "draw": 3.4,
-   "away": 2.35,
-   "source": "betexplorer:bet365.us",
-   "ts": 1793548490,
-   "event_id": "nui8Im53",
-   "league_id": 273
-  },
   "1000013253": {
    "unavailable": true,
    "ts": 1793550410,
@@ -1092,10 +1073,10 @@
  },
  "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-04 16:30",
+ "last_scan": "2026-11-04 16:55",
  "requests_last": 1,
- "last_write": "2026-11-04 16:30",
- "last_write_ts": 1793806259,
+ "last_write": "2026-11-04 16:55",
+ "last_write_ts": 1793807708,
  "odds_api": {
   "remaining": "499",
   "used": "1",
