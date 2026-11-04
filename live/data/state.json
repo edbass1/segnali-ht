@@ -284,16 +284,6 @@
   }
  },
  "prematch": {
-  "5071482": {
-   "home": 1.65,
-   "draw": 4.5,
-   "away": 4.5,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793561481,
-   "home_name": "Los Angeles FC",
-   "away_name": "Minnesota United",
-   "league_id": 130
-  },
   "5071484": {
    "home": 1.7,
    "draw": 4.0,
@@ -955,10 +945,10 @@
  },
  "live_count": 11,
  "candidates_last": 0,
- "last_scan": "2026-11-04 20:11",
+ "last_scan": "2026-11-04 20:31",
  "requests_last": 2,
- "last_write": "2026-11-04 20:11",
- "last_write_ts": 1793819492,
+ "last_write": "2026-11-04 20:31",
+ "last_write_ts": 1793820702,
  "odds_api": {
   "remaining": "499",
   "used": "1",
