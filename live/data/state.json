@@ -1937,12 +1937,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-04 03:36",
+ "last_scan": "2026-11-04 04:08",
  "requests_last": 2,
- "last_write": "2026-11-04 03:36",
- "last_write_ts": 1793759799,
+ "last_write": "2026-11-04 04:08",
+ "last_write_ts": 1793761721,
  "odds_api": {
   "remaining": "499",
   "used": "1",
