@@ -429,76 +429,6 @@
   }
  },
  "prematch": {
-  "5905962": {
-   "home": 3.35,
-   "draw": 3.65,
-   "away": 1.9,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793525615,
-   "home_name": "Sonnenhof Großaspach",
-   "away_name": "RW Essen",
-   "league_id": 208
-  },
-  "5887664": {
-   "home": 1.65,
-   "draw": 3.9,
-   "away": 4.65,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793525616,
-   "home_name": "Arouca",
-   "away_name": "Nacional",
-   "league_id": 61
-  },
-  "5804287": {
-   "home": 2.45,
-   "draw": 3.6,
-   "away": 2.45,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793525617,
-   "home_name": "Lausanne",
-   "away_name": "Thun",
-   "league_id": 69
-  },
-  "5804288": {
-   "home": 1.55,
-   "draw": 4.45,
-   "away": 5.15,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793525618,
-   "home_name": "Lugano",
-   "away_name": "Basel",
-   "league_id": 69
-  },
-  "5107647": {
-   "home": 1.67,
-   "draw": 3.9,
-   "away": 3.8,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793525618,
-   "home_name": "Häcken",
-   "away_name": "IFK Göteborg",
-   "league_id": 67
-  },
-  "5107650": {
-   "home": 1.33,
-   "draw": 4.75,
-   "away": 6.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793525619,
-   "home_name": "Elfsborg",
-   "away_name": "Örgryte",
-   "league_id": 67
-  },
-  "5107652": {
-   "home": 1.9,
-   "draw": 3.65,
-   "away": 3.6,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793525620,
-   "home_name": "Västerås SK",
-   "away_name": "Brommapojkarna",
-   "league_id": 67
-  },
   "5781789": {
    "home": 1.73,
    "draw": 4.0,
@@ -1492,10 +1422,10 @@
  },
  "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-04 10:17",
+ "last_scan": "2026-11-04 10:33",
  "requests_last": 1,
- "last_write": "2026-11-04 10:17",
- "last_write_ts": 1793783864,
+ "last_write": "2026-11-04 10:33",
+ "last_write_ts": 1793784824,
  "odds_api": {
   "remaining": "499",
   "used": "1",
