@@ -429,56 +429,6 @@
   }
  },
  "prematch": {
-  "5846012": {
-   "home": 4.2,
-   "draw": 3.75,
-   "away": 1.62,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793527307,
-   "home_name": "Austria Wien",
-   "away_name": "Rapid Wien",
-   "league_id": 38
-  },
-  "5105033": {
-   "home": 2.05,
-   "draw": 3.5,
-   "away": 3.5,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793527308,
-   "home_name": "KFUM",
-   "away_name": "Hamarkameratene",
-   "league_id": 59
-  },
-  "5105037": {
-   "home": 1.44,
-   "draw": 4.5,
-   "away": 5.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793527309,
-   "home_name": "Sarpsborg 08",
-   "away_name": "Kristiansund",
-   "league_id": 59
-  },
-  "5105040": {
-   "home": 2.85,
-   "draw": 3.65,
-   "away": 2.2,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793527310,
-   "home_name": "Start",
-   "away_name": "Lillestrøm",
-   "league_id": 59
-  },
-  "5943286": {
-   "home": 3.1,
-   "draw": 3.0,
-   "away": 2.4,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793527311,
-   "home_name": "Panetolikos",
-   "away_name": "OFI Crete",
-   "league_id": 135
-  },
   "5904786": {
    "home": 5.5,
    "draw": 3.9,
@@ -1410,12 +1360,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 2,
+ "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-04 10:53",
+ "last_scan": "2026-11-04 11:01",
  "requests_last": 1,
- "last_write": "2026-11-04 10:53",
- "last_write_ts": 1793786031,
+ "last_write": "2026-11-04 11:01",
+ "last_write_ts": 1793786511,
  "odds_api": {
   "remaining": "499",
   "used": "1",
