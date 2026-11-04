@@ -429,16 +429,6 @@
   }
  },
  "prematch": {
-  "5904786": {
-   "home": 5.5,
-   "draw": 3.9,
-   "away": 1.44,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793527312,
-   "home_name": "Kasımpaşa",
-   "away_name": "Beşiktaş",
-   "league_id": 71
-  },
   "5802976": {
    "home": 1.36,
    "draw": 4.75,
@@ -1360,12 +1350,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 5,
  "candidates_last": 0,
- "last_scan": "2026-11-04 11:01",
+ "last_scan": "2026-11-04 11:05",
  "requests_last": 1,
- "last_write": "2026-11-04 11:01",
- "last_write_ts": 1793786511,
+ "last_write": "2026-11-04 11:05",
+ "last_write_ts": 1793786751,
  "odds_api": {
   "remaining": "499",
   "used": "1",
