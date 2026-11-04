@@ -429,56 +429,6 @@
   }
  },
  "prematch": {
-  "5881711": {
-   "home": 2.4,
-   "draw": 3.6,
-   "away": 2.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793514791,
-   "home_name": "Greuther Fürth",
-   "away_name": "Holstein Kiel",
-   "league_id": 146
-  },
-  "5881712": {
-   "home": 2.1,
-   "draw": 3.6,
-   "away": 3.2,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793514792,
-   "home_name": "Hannover 96",
-   "away_name": "Dynamo Dresden",
-   "league_id": 146
-  },
-  "5881715": {
-   "home": 2.15,
-   "draw": 3.6,
-   "away": 3.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793514793,
-   "home_name": "St. Pauli",
-   "away_name": "1. FC Nürnberg",
-   "league_id": 146
-  },
-  "5905965": {
-   "home": 2.1,
-   "draw": 3.7,
-   "away": 2.75,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793514793,
-   "home_name": "Saarbrücken",
-   "away_name": "Waldhof Mannheim",
-   "league_id": 208
-  },
-  "5811793": {
-   "home": 2.0,
-   "draw": 3.7,
-   "away": 3.4,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793514794,
-   "home_name": "Cercle Brugge",
-   "away_name": "Royal Antwerp",
-   "league_id": 40
-  },
   "5868116": {
    "home": 3.4,
    "draw": 3.0,
@@ -1849,12 +1799,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 0,
+ "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-04 07:17",
+ "last_scan": "2026-11-04 07:33",
  "requests_last": 1,
- "last_write": "2026-11-04 07:17",
- "last_write_ts": 1793773038,
+ "last_write": "2026-11-04 07:33",
+ "last_write_ts": 1793773998,
  "odds_api": {
   "remaining": "499",
   "used": "1",
