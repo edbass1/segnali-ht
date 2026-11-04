@@ -429,16 +429,6 @@
   }
  },
  "prematch": {
-  "5107649": {
-   "home": 4.45,
-   "draw": 4.0,
-   "away": 1.7,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793516478,
-   "home_name": "Malmö FF",
-   "away_name": "Hammarby",
-   "league_id": 67
-  },
   "5846015": {
    "home": 1.14,
    "draw": 8.5,
@@ -1701,10 +1691,10 @@
  },
  "live_count": 0,
  "candidates_last": 0,
- "last_scan": "2026-11-04 08:01",
+ "last_scan": "2026-11-04 08:05",
  "requests_last": 1,
- "last_write": "2026-11-04 08:01",
- "last_write_ts": 1793775677,
+ "last_write": "2026-11-04 08:05",
+ "last_write_ts": 1793775926,
  "odds_api": {
   "remaining": "499",
   "used": "1",
