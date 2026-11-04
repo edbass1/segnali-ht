@@ -429,26 +429,6 @@
   }
  },
  "prematch": {
-  "5795501": {
-   "home": 2.8,
-   "draw": 3.3,
-   "away": 2.5,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793529228,
-   "home_name": "Liverpool",
-   "away_name": "Arsenal",
-   "league_id": 47
-  },
-  "5881210": {
-   "home": 1.55,
-   "draw": 4.75,
-   "away": 5.25,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793529229,
-   "home_name": "Eintracht Frankfurt",
-   "away_name": "Hamburger SV",
-   "league_id": 54
-  },
   "5847219": {
    "home": 4.76,
    "draw": 4.26,
@@ -1320,12 +1300,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
+ "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-04 11:17",
+ "last_scan": "2026-11-04 11:33",
  "requests_last": 1,
- "last_write": "2026-11-04 11:17",
- "last_write_ts": 1793787471,
+ "last_write": "2026-11-04 11:33",
+ "last_write_ts": 1793788431,
  "odds_api": {
   "remaining": "499",
   "used": "1",
