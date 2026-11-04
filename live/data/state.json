@@ -1020,6 +1020,26 @@
    "home_name": "Bristol City",
    "away_name": "Wolverhampton Wanderers",
    "league_id": 48
+  },
+  "5103694": {
+   "home": 1.11,
+   "draw": 8.5,
+   "away": 15.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793809876,
+   "home_name": "Flamengo",
+   "away_name": "Grêmio",
+   "league_id": 268
+  },
+  "5103701": {
+   "home": 2.1,
+   "draw": 3.25,
+   "away": 3.2,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1793809877,
+   "home_name": "Athletico Paranaense",
+   "away_name": "Vasco da Gama",
+   "league_id": 268
   }
  },
  "odds_check": {},
@@ -1056,12 +1076,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 15,
+ "live_count": 16,
  "candidates_last": 0,
- "last_scan": "2026-11-04 17:27",
- "requests_last": 1,
- "last_write": "2026-11-04 17:27",
- "last_write_ts": 1793809628,
+ "last_scan": "2026-11-04 17:31",
+ "requests_last": 3,
+ "last_write": "2026-11-04 17:31",
+ "last_write_ts": 1793809877,
  "odds_api": {
   "remaining": "499",
   "used": "1",
