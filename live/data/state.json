@@ -399,11 +399,6 @@
   }
  },
  "prematch": {
-  "1000013253": {
-   "unavailable": true,
-   "ts": 1793550410,
-   "source": "none"
-  },
   "5071483": {
    "home": 2.9,
    "draw": 4.1,
@@ -1063,10 +1058,10 @@
  },
  "live_count": 15,
  "candidates_last": 0,
- "last_scan": "2026-11-04 17:15",
+ "last_scan": "2026-11-04 17:27",
  "requests_last": 1,
- "last_write": "2026-11-04 17:15",
- "last_write_ts": 1793808908,
+ "last_write": "2026-11-04 17:27",
+ "last_write_ts": 1793809628,
  "odds_api": {
   "remaining": "499",
   "used": "1",
