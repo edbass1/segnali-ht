@@ -429,26 +429,6 @@
   }
  },
  "prematch": {
-  "5887663": {
-   "home": 1.87,
-   "draw": 3.4,
-   "away": 4.33,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793534526,
-   "home_name": "Académico Viseu",
-   "away_name": "Rio Ave",
-   "league_id": 61
-  },
-  "5887668": {
-   "home": 3.4,
-   "draw": 3.1,
-   "away": 2.2,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793534527,
-   "home_name": "Marítimo",
-   "away_name": "Santa Clara",
-   "league_id": 61
-  },
   "5811794": {
    "home": 1.44,
    "draw": 4.2,
@@ -1220,12 +1200,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
+ "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-04 12:34",
+ "last_scan": "2026-11-04 13:02",
  "requests_last": 1,
- "last_write": "2026-11-04 12:34",
- "last_write_ts": 1793792045,
+ "last_write": "2026-11-04 13:02",
+ "last_write_ts": 1793793733,
  "odds_api": {
   "remaining": "499",
   "used": "1",
