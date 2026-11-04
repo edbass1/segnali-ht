@@ -419,26 +419,6 @@
   }
  },
  "prematch": {
-  "5868111": {
-   "home": 2.0,
-   "draw": 3.6,
-   "away": 3.8,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793541745,
-   "home_name": "Athletic Club",
-   "away_name": "Real Sociedad",
-   "league_id": 87
-  },
-  "5868523": {
-   "home": 2.05,
-   "draw": 3.1,
-   "away": 3.4,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793541746,
-   "home_name": "Tenerife",
-   "away_name": "FC Andorra",
-   "league_id": 140
-  },
   "5071480": {
    "home": 1.65,
    "draw": 4.2,
@@ -1124,6 +1104,16 @@
    "home_name": "Oxford United",
    "away_name": "Reading",
    "league_id": 108
+  },
+  "5836918": {
+   "home": 3.3,
+   "draw": 3.3,
+   "away": 2.15,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1793801027,
+   "home_name": "Bristol City",
+   "away_name": "Wolverhampton Wanderers",
+   "league_id": 48
   }
  },
  "odds_check": {},
@@ -1162,10 +1152,10 @@
  },
  "live_count": 10,
  "candidates_last": 0,
- "last_scan": "2026-11-04 14:55",
- "requests_last": 1,
- "last_write": "2026-11-04 14:55",
- "last_write_ts": 1793800546,
+ "last_scan": "2026-11-04 15:03",
+ "requests_last": 2,
+ "last_write": "2026-11-04 15:03",
+ "last_write_ts": 1793801027,
  "odds_api": {
   "remaining": "499",
   "used": "1",
