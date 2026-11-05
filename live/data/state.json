@@ -209,16 +209,6 @@
   }
  },
  "prematch": {
-  "5868521": {
-   "home": 1.67,
-   "draw": 3.5,
-   "away": 4.33,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793611013,
-   "home_name": "Real Oviedo",
-   "away_name": "Las Palmas",
-   "league_id": 140
-  },
   "5943281": {
    "home": 1.85,
    "draw": 3.4,
@@ -805,10 +795,10 @@
  },
  "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-05 10:02",
+ "last_scan": "2026-11-05 10:18",
  "requests_last": 1,
- "last_write": "2026-11-05 10:02",
- "last_write_ts": 1793869377,
+ "last_write": "2026-11-05 10:18",
+ "last_write_ts": 1793870336,
  "odds_api": {
   "remaining": "499",
   "used": "1",
