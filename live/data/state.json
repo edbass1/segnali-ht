@@ -822,12 +822,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
- "candidates_last": 1,
- "last_scan": "2026-11-05 02:24",
- "requests_last": 3,
- "last_write": "2026-11-05 02:24",
- "last_write_ts": 1793841884,
+ "live_count": 10,
+ "candidates_last": 0,
+ "last_scan": "2026-11-05 02:56",
+ "requests_last": 2,
+ "last_write": "2026-11-05 02:56",
+ "last_write_ts": 1793843816,
  "odds_api": {
   "remaining": "499",
   "used": "1",
