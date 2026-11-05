@@ -497,6 +497,26 @@
    "home_name": "São Paulo",
    "away_name": "Corinthians",
    "league_id": 268
+  },
+  "5103697": {
+   "home": 1.18,
+   "draw": 6.5,
+   "away": 12.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793896885,
+   "home_name": "Palmeiras",
+   "away_name": "Remo",
+   "league_id": 268
+  },
+  "5190799": {
+   "home": 1.53,
+   "draw": 3.9,
+   "away": 6.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1793896886,
+   "home_name": "Botafogo SP",
+   "away_name": "Londrina",
+   "league_id": 8814
   }
  },
  "odds_check": {},
@@ -533,12 +553,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 5,
  "candidates_last": 0,
- "last_scan": "2026-11-05 17:09",
- "requests_last": 6,
- "last_write": "2026-11-05 17:09",
- "last_write_ts": 1793894999,
+ "last_scan": "2026-11-05 17:41",
+ "requests_last": 13,
+ "last_write": "2026-11-05 17:41",
+ "last_write_ts": 1793896886,
  "odds_api": {
   "remaining": "499",
   "used": "1",
