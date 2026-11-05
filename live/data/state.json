@@ -9,6 +9,11 @@
    "t": 1793541027,
    "time": "2026-11-01 14:50",
    "strategy": "favht"
+  },
+  "1000019633:favht": {
+   "t": 1793904416,
+   "time": "2026-11-05 19:46",
+   "strategy": "favht"
   }
  },
  "done": {
@@ -507,6 +512,15 @@
    "home_name": "Cruzeiro",
    "away_name": "Bahia",
    "league_id": 268
+  },
+  "1000019633": {
+   "home": 8.0,
+   "draw": 4.75,
+   "away": 1.35,
+   "source": "betexplorer:bet365.us",
+   "ts": 1793904415,
+   "event_id": "0zJ5UuSq",
+   "league_id": 112
   }
  },
  "odds_check": {},
@@ -544,15 +558,15 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 19,
- "candidates_last": 0,
- "last_scan": "2026-11-05 19:30",
- "requests_last": 8,
- "last_write": "2026-11-05 19:30",
- "last_write_ts": 1793903437,
+ "candidates_last": 1,
+ "last_scan": "2026-11-05 19:46",
+ "requests_last": 15,
+ "last_write": "2026-11-05 19:46",
+ "last_write_ts": 1793904416,
  "odds_api": {
-  "remaining": "499",
-  "used": "1",
+  "remaining": "496",
+  "used": "4",
   "last_cost": "1",
-  "time": "2026-11-01 14:50"
+  "time": "2026-11-05 19:46"
  }
 }

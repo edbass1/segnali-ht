@@ -122,5 +122,67 @@
    "favourite_index": 0,
    "scope": "ht"
   }
+ },
+ {
+  "id": "1000019633-favht",
+  "strategy": "favht",
+  "matchId": 1000019633,
+  "time": "2026-11-05 19:46",
+  "ts": 1793904416,
+  "league": "Liga Profesional",
+  "country": "ARG",
+  "leagueId": 112,
+  "home": "Aldosivi",
+  "away": "River Plate",
+  "favourite": "away",
+  "favouriteTeam": "River Plate",
+  "phase": "Intervallo",
+  "minute": 45,
+  "score": "0 - 0",
+  "url": "https://www.fotmob.com/match/1000019633",
+  "odds": {
+   "prematch": {
+    "home": 8.0,
+    "draw": 4.75,
+    "away": 1.35,
+    "favourite": 1.35,
+    "source": "betexplorer:bet365.us"
+   },
+   "live": {
+    "home": 12.5,
+    "draw": 3.55,
+    "away": 1.55,
+    "favourite": 1.55,
+    "book": "Betfair",
+    "min": 1.55,
+    "max": 1.85
+   },
+   "live_note": null
+  },
+  "stats": {
+   "sot": [
+    0.0,
+    5.0
+   ],
+   "poss": [
+    32.0,
+    68.0
+   ],
+   "box": [
+    2.0,
+    16.0
+   ],
+   "xg": [
+    0.02,
+    1.31
+   ],
+   "red": [
+    0.0,
+    0.0
+   ],
+   "box_ratio": 8.0,
+   "favourite_index": 1,
+   "scope": "ht"
+  }
  }
 ]
