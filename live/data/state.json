@@ -209,16 +209,6 @@
   }
  },
  "prematch": {
-  "5103698": {
-   "home": 1.91,
-   "draw": 3.8,
-   "away": 3.3,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793638924,
-   "home_name": "RB Bragantino",
-   "away_name": "Santos",
-   "league_id": 268
-  },
   "5190794": {
    "home": 2.38,
    "draw": 3.4,
@@ -553,12 +543,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
+ "live_count": 2,
  "candidates_last": 0,
- "last_scan": "2026-11-05 17:41",
- "requests_last": 13,
- "last_write": "2026-11-05 17:41",
- "last_write_ts": 1793896886,
+ "last_scan": "2026-11-05 18:05",
+ "requests_last": 12,
+ "last_write": "2026-11-05 18:05",
+ "last_write_ts": 1793898325,
  "odds_api": {
   "remaining": "499",
   "used": "1",
