@@ -209,46 +209,6 @@
   }
  },
  "prematch": {
-  "5125675": {
-   "home": 2.4,
-   "draw": 3.5,
-   "away": 2.65,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793620893,
-   "home_name": "Östers IF",
-   "away_name": "Helsingborg",
-   "league_id": 168
-  },
-  "5739537": {
-   "home": 6.0,
-   "draw": 4.5,
-   "away": 1.4,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793620894,
-   "home_name": "Sønderjyske",
-   "away_name": "FC København",
-   "league_id": 46
-  },
-  "5107646": {
-   "home": 1.8,
-   "draw": 3.6,
-   "away": 4.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793620895,
-   "home_name": "GAIS",
-   "away_name": "AIK",
-   "league_id": 67
-  },
-  "5107648": {
-   "home": 2.6,
-   "draw": 3.25,
-   "away": 2.6,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793620895,
-   "home_name": "Mjällby",
-   "away_name": "Kalmar FF",
-   "league_id": 67
-  },
   "5125670": {
    "home": 1.7,
    "draw": 3.8,
@@ -703,12 +663,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-05 12:35",
- "requests_last": 1,
- "last_write": "2026-11-05 12:35",
- "last_write_ts": 1793878555,
+ "last_scan": "2026-11-05 13:03",
+ "requests_last": 6,
+ "last_write": "2026-11-05 13:03",
+ "last_write_ts": 1793880238,
  "odds_api": {
   "remaining": "499",
   "used": "1",
