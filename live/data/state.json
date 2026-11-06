@@ -531,6 +531,16 @@
    "home_name": "Operário-PR",
    "away_name": "Sport Recife",
    "league_id": 8814
+  },
+  "5103702": {
+   "home": 3.3,
+   "draw": 3.1,
+   "away": 2.32,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1793984601,
+   "home_name": "Vitória",
+   "away_name": "Fluminense",
+   "league_id": 268
   }
  },
  "odds_check": {},
@@ -567,12 +577,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 13,
+ "live_count": 22,
  "candidates_last": 0,
- "last_scan": "2026-11-06 17:31",
- "requests_last": 22,
- "last_write": "2026-11-06 17:31",
- "last_write_ts": 1793982681,
+ "last_scan": "2026-11-06 18:03",
+ "requests_last": 23,
+ "last_write": "2026-11-06 18:03",
+ "last_write_ts": 1793984601,
  "odds_api": {
   "remaining": "495",
   "used": "5",
