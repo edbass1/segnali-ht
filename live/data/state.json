@@ -421,6 +421,26 @@
    "home_name": "Lokomotiv Moscow",
    "away_name": "Rubin Kazan",
    "league_id": 63
+  },
+  "5804036": {
+   "home": 1.9,
+   "draw": 3.6,
+   "away": 3.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1793963037,
+   "home_name": "Motor Lublin",
+   "away_name": "Wisła Płock",
+   "league_id": 196
+  },
+  "5904794": {
+   "home": 2.5,
+   "draw": 3.3,
+   "away": 2.7,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1793963037,
+   "home_name": "Gaziantep FK",
+   "away_name": "Kasımpaşa",
+   "league_id": 71
   }
  },
  "odds_check": {},
@@ -457,12 +477,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 1,
+ "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-06 11:35",
+ "last_scan": "2026-11-06 12:03",
  "requests_last": 3,
- "last_write": "2026-11-06 11:35",
- "last_write_ts": 1793961357,
+ "last_write": "2026-11-06 12:03",
+ "last_write_ts": 1793963037,
  "odds_api": {
   "remaining": "495",
   "used": "5",
