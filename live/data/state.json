@@ -109,11 +109,6 @@
   }
  },
  "prematch": {
-  "1000019617": {
-   "unavailable": true,
-   "ts": 1793667841,
-   "source": "none"
-  },
   "1000019618": {
    "unavailable": true,
    "ts": 1793668080,
@@ -438,12 +433,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-06 01:59",
+ "last_scan": "2026-11-06 02:07",
  "requests_last": 2,
- "last_write": "2026-11-06 01:59",
- "last_write_ts": 1793926776,
+ "last_write": "2026-11-06 02:07",
+ "last_write_ts": 1793927263,
  "odds_api": {
   "remaining": "495",
   "used": "5",
