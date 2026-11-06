@@ -119,16 +119,6 @@
   }
  },
  "prematch": {
-  "5103703": {
-   "home": 3.75,
-   "draw": 3.5,
-   "away": 1.96,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793723415,
-   "home_name": "Chapecoense",
-   "away_name": "Mirassol",
-   "league_id": 268
-  },
   "5103700": {
    "home": 1.5,
    "draw": 3.75,
@@ -531,6 +521,16 @@
    "home_name": "Famalicão",
    "away_name": "Arouca",
    "league_id": 61
+  },
+  "5190802": {
+   "home": 2.9,
+   "draw": 3.1,
+   "away": 2.15,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1793982681,
+   "home_name": "Operário-PR",
+   "away_name": "Sport Recife",
+   "league_id": 8814
   }
  },
  "odds_check": {},
@@ -567,12 +567,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 11,
+ "live_count": 13,
  "candidates_last": 0,
- "last_scan": "2026-11-06 17:23",
- "requests_last": 21,
- "last_write": "2026-11-06 17:23",
- "last_write_ts": 1793982203,
+ "last_scan": "2026-11-06 17:31",
+ "requests_last": 22,
+ "last_write": "2026-11-06 17:31",
+ "last_write_ts": 1793982681,
  "odds_api": {
   "remaining": "495",
   "used": "5",
