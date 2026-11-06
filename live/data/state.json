@@ -725,6 +725,36 @@
    "home_name": "Shimizu S-Pulse",
    "away_name": "Tokyo Verdy",
    "league_id": 223
+  },
+  "5803654": {
+   "home": 1.83,
+   "draw": 3.75,
+   "away": 3.9,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794006025,
+   "home_name": "Nagoya Grampus",
+   "away_name": "Kyoto Sanga FC",
+   "league_id": 223
+  },
+  "5803656": {
+   "home": 2.4,
+   "draw": 3.4,
+   "away": 2.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794006025,
+   "home_name": "Yokohama F.Marinos",
+   "away_name": "Fagiano Okayama FC",
+   "league_id": 223
+  },
+  "6503951": {
+   "home": 1.73,
+   "draw": 3.7,
+   "away": 4.2,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794006026,
+   "home_name": "Jeju SK",
+   "away_name": "Gwangju FC",
+   "league_id": 9080
   }
  },
  "odds_check": {},
@@ -761,12 +791,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
+ "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-06 23:32",
- "requests_last": 32,
- "last_write": "2026-11-06 23:32",
- "last_write_ts": 1794004342,
+ "last_scan": "2026-11-07 00:00",
+ "requests_last": 35,
+ "last_write": "2026-11-07 00:00",
+ "last_write_ts": 1794006026,
  "odds_api": {
   "remaining": "495",
   "used": "5",
