@@ -796,29 +796,14 @@
    "t": 1794068515,
    "r": "prematch favorita 2,10 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5905972:favht": {
+   "t": 1794069238,
+   "r": "prematch 1,91 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
-  "5103694": {
-   "home": 1.11,
-   "draw": 8.5,
-   "away": 15.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793809876,
-   "home_name": "Flamengo",
-   "away_name": "Grêmio",
-   "league_id": 268
-  },
-  "5103701": {
-   "home": 2.1,
-   "draw": 3.25,
-   "away": 3.2,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793809877,
-   "home_name": "Athletico Paranaense",
-   "away_name": "Vasco da Gama",
-   "league_id": 268
-  },
   "5103695": {
    "home": 1.53,
    "draw": 4.0,
@@ -2453,12 +2438,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 190,
- "candidates_last": 2,
- "last_scan": "2026-11-07 17:21",
- "requests_last": 38,
- "last_write": "2026-11-07 17:21",
- "last_write_ts": 1794068515,
+ "live_count": 188,
+ "candidates_last": 1,
+ "last_scan": "2026-11-07 17:33",
+ "requests_last": 37,
+ "last_write": "2026-11-07 17:33",
+ "last_write_ts": 1794069238,
  "odds_api": {
   "remaining": "492",
   "used": "8",
