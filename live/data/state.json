@@ -306,6 +306,16 @@
    "t": 1794009161,
    "r": "prematch favorita 2,32 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000019627:favht": {
+   "t": 1794016126,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000019629:favht": {
+   "t": 1794016131,
+   "r": "prematch 1,90 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -833,6 +843,20 @@
    "home_name": "Gimcheon Sangmu",
    "away_name": "FC Anyang",
    "league_id": 9080
+  },
+  "1000019627": {
+   "unavailable": true,
+   "ts": 1794016126,
+   "source": "none"
+  },
+  "1000019629": {
+   "home": 1.9,
+   "draw": 3.3,
+   "away": 4.0,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794016131,
+   "event_id": "0MwXFtDj",
+   "league_id": 112
   }
  },
  "odds_check": {},
@@ -870,11 +894,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 12,
- "candidates_last": 0,
- "last_scan": "2026-11-07 02:32",
- "requests_last": 13,
- "last_write": "2026-11-07 02:32",
- "last_write_ts": 1794015155,
+ "candidates_last": 2,
+ "last_scan": "2026-11-07 02:48",
+ "requests_last": 26,
+ "last_write": "2026-11-07 02:48",
+ "last_write_ts": 1794016131,
  "odds_api": {
   "remaining": "495",
   "used": "5",
