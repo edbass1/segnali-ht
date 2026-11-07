@@ -823,6 +823,16 @@
    "home_name": "Kashiwa Reysol",
    "away_name": "Kawasaki Frontale",
    "league_id": 223
+  },
+  "6503952": {
+   "home": 2.2,
+   "draw": 3.4,
+   "away": 3.2,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794015155,
+   "home_name": "Gimcheon Sangmu",
+   "away_name": "FC Anyang",
+   "league_id": 9080
   }
  },
  "odds_check": {},
@@ -861,10 +871,10 @@
  },
  "live_count": 12,
  "candidates_last": 0,
- "last_scan": "2026-11-07 02:28",
- "requests_last": 12,
- "last_write": "2026-11-07 02:28",
- "last_write_ts": 1794014915,
+ "last_scan": "2026-11-07 02:32",
+ "requests_last": 13,
+ "last_write": "2026-11-07 02:32",
+ "last_write_ts": 1794015155,
  "odds_api": {
   "remaining": "495",
   "used": "5",
