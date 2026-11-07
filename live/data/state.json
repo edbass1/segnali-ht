@@ -876,9 +876,24 @@
    "ts": 1794016370,
    "event_id": "QqU9bwFk",
    "league_id": 230
+  },
+  "1000014634": {
+   "home": 1.56,
+   "draw": 4.1,
+   "away": 5.25,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794016608,
+   "event_id": "UDrv4aiS",
+   "league_id": 230
   }
  },
- "odds_check": {},
+ "odds_check": {
+  "1000014634:favht": {
+   "t": 1794016608,
+   "minute": 45,
+   "price": 1.99
+  }
+ },
  "rules": {
   "SOT_MIN": 3,
   "SOT_MARGIN": 2,
@@ -914,14 +929,14 @@
  },
  "live_count": 12,
  "candidates_last": 2,
- "last_scan": "2026-11-07 02:52",
+ "last_scan": "2026-11-07 02:56",
  "requests_last": 21,
- "last_write": "2026-11-07 02:52",
- "last_write_ts": 1794016370,
+ "last_write": "2026-11-07 02:56",
+ "last_write_ts": 1794016609,
  "odds_api": {
-  "remaining": "495",
-  "used": "5",
+  "remaining": "493",
+  "used": "7",
   "last_cost": "1",
-  "time": "2026-11-05 20:18"
+  "time": "2026-11-07 02:56"
  }
 }
