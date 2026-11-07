@@ -411,6 +411,16 @@
    "t": 1794041075,
    "r": "prematch favorita 2,20 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000017577:favht": {
+   "t": 1794046124,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000017577:lay_sfav": {
+   "t": 1794046124,
+   "r": "prematch favorita 2,10 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -1598,6 +1608,15 @@
    "home_name": "Göztepe",
    "away_name": "Başakşehir",
    "league_id": 71
+  },
+  "1000017577": {
+   "home": 2.1,
+   "draw": 3.6,
+   "away": 3.2,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794046124,
+   "event_id": "fqhMCXm1",
+   "league_id": 113
   }
  },
  "odds_check": {
@@ -1640,12 +1659,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 10,
- "candidates_last": 0,
- "last_scan": "2026-11-07 11:00",
- "requests_last": 9,
- "last_write": "2026-11-07 11:00",
- "last_write_ts": 1794045641,
+ "live_count": 12,
+ "candidates_last": 1,
+ "last_scan": "2026-11-07 11:08",
+ "requests_last": 14,
+ "last_write": "2026-11-07 11:08",
+ "last_write_ts": 1794046124,
  "odds_api": {
   "remaining": "493",
   "used": "7",
