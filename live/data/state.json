@@ -1617,6 +1617,16 @@
    "ts": 1794046124,
    "event_id": "fqhMCXm1",
    "league_id": 113
+  },
+  "5967146": {
+   "home": 2.55,
+   "draw": 3.4,
+   "away": 2.6,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794046608,
+   "home_name": "Mantova",
+   "away_name": "Hellas Verona",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -1660,11 +1670,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 12,
- "candidates_last": 1,
- "last_scan": "2026-11-07 11:08",
- "requests_last": 14,
- "last_write": "2026-11-07 11:08",
- "last_write_ts": 1794046124,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 11:16",
+ "requests_last": 7,
+ "last_write": "2026-11-07 11:16",
+ "last_write_ts": 1794046608,
  "odds_api": {
   "remaining": "493",
   "used": "7",
