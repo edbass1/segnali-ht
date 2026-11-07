@@ -1667,6 +1667,56 @@
    "home_name": "Degerfors",
    "away_name": "GAIS",
    "league_id": 67
+  },
+  "5749747": {
+   "home": 5.25,
+   "draw": 3.7,
+   "away": 1.7,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794049245,
+   "home_name": "Parma",
+   "away_name": "Bologna",
+   "league_id": 55
+  },
+  "5105048": {
+   "home": 1.2,
+   "draw": 6.05,
+   "away": 10.3,
+   "source": "fotmob:Ladbrokes_UK",
+   "ts": 1794049245,
+   "home_name": "Rosenborg",
+   "away_name": "Start",
+   "league_id": 59
+  },
+  "5804297": {
+   "home": 4.1,
+   "draw": 4.1,
+   "away": 1.68,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794049246,
+   "home_name": "FC Vaduz",
+   "away_name": "Sion",
+   "league_id": 69
+  },
+  "5804293": {
+   "home": 3.0,
+   "draw": 4.0,
+   "away": 1.95,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794049247,
+   "home_name": "Luzern",
+   "away_name": "Young Boys",
+   "league_id": 69
+  },
+  "5739542": {
+   "home": 2.7,
+   "draw": 3.75,
+   "away": 2.3,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794049248,
+   "home_name": "OB",
+   "away_name": "Viborg",
+   "league_id": 46
   }
  },
  "odds_check": {
@@ -1709,12 +1759,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 21,
+ "live_count": 18,
  "candidates_last": 0,
- "last_scan": "2026-11-07 11:32",
- "requests_last": 11,
- "last_write": "2026-11-07 11:32",
- "last_write_ts": 1794047571,
+ "last_scan": "2026-11-07 12:00",
+ "requests_last": 6,
+ "last_write": "2026-11-07 12:00",
+ "last_write_ts": 1794049248,
  "odds_api": {
   "remaining": "493",
   "used": "7",
