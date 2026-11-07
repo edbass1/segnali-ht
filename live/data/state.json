@@ -808,6 +808,26 @@
    "ts": 1794006520,
    "event_id": "rJ88NXEa",
    "league_id": 112
+  },
+  "5803648": {
+   "home": 2.2,
+   "draw": 3.3,
+   "away": 3.2,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794009642,
+   "home_name": "Avispa Fukuoka",
+   "away_name": "V-Varen Nagasaki",
+   "league_id": 223
+  },
+  "5803650": {
+   "home": 1.95,
+   "draw": 3.5,
+   "away": 3.3,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794009644,
+   "home_name": "FC Tokyo",
+   "away_name": "Kashima Antlers",
+   "league_id": 223
   }
  },
  "odds_check": {},
@@ -845,11 +865,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 9,
- "candidates_last": 1,
- "last_scan": "2026-11-07 00:52",
- "requests_last": 33,
- "last_write": "2026-11-07 00:52",
- "last_write_ts": 1794009161,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 01:00",
+ "requests_last": 34,
+ "last_write": "2026-11-07 01:00",
+ "last_write_ts": 1794009644,
  "odds_api": {
   "remaining": "495",
   "used": "5",
