@@ -1158,6 +1158,16 @@
    "home_name": "Samsunspor",
    "away_name": "Konyaspor",
    "league_id": 71
+  },
+  "5847223": {
+   "home": 1.83,
+   "draw": 4.2,
+   "away": 4.36,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1794036747,
+   "home_name": "FK Akhmat",
+   "away_name": "Rodina",
+   "league_id": 63
   }
  },
  "odds_check": {
@@ -1200,12 +1210,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 14,
- "candidates_last": 1,
- "last_scan": "2026-11-07 08:28",
- "requests_last": 12,
- "last_write": "2026-11-07 08:28",
- "last_write_ts": 1794036507,
+ "live_count": 18,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 08:32",
+ "requests_last": 13,
+ "last_write": "2026-11-07 08:32",
+ "last_write_ts": 1794036747,
  "odds_api": {
   "remaining": "493",
   "used": "7",
