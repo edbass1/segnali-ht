@@ -971,6 +971,26 @@
    "t": 1794076451,
    "r": "prematch 2,55 fuori range 1,25-1,60",
    "strategy": "favht"
+  },
+  "1000019619:favht": {
+   "t": 1794077420,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000019624:favht": {
+   "t": 1794077424,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000019624:lay_sfav": {
+   "t": 1794077424,
+   "r": "prematch favorita 2,45 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5802983:favht": {
+   "t": 1794077425,
+   "r": "prematch 1,70 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -2646,6 +2666,20 @@
    "home_name": "Náutico",
    "away_name": "CRB",
    "league_id": 8814
+  },
+  "1000019619": {
+   "unavailable": true,
+   "ts": 1794077420,
+   "source": "none"
+  },
+  "1000019624": {
+   "home": 3.0,
+   "draw": 3.1,
+   "away": 2.45,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794077424,
+   "event_id": "ppUl33Tp",
+   "league_id": 112
   }
  },
  "odds_check": {
@@ -2688,12 +2722,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 52,
- "candidates_last": 3,
- "last_scan": "2026-11-07 19:34",
- "requests_last": 31,
- "last_write": "2026-11-07 19:34",
- "last_write_ts": 1794076451,
+ "live_count": 49,
+ "candidates_last": 4,
+ "last_scan": "2026-11-07 19:50",
+ "requests_last": 43,
+ "last_write": "2026-11-07 19:50",
+ "last_write_ts": 1794077425,
  "odds_api": {
   "remaining": "492",
   "used": "8",
