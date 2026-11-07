@@ -1168,6 +1168,16 @@
    "home_name": "FK Akhmat",
    "away_name": "Rodina",
    "league_id": 63
+  },
+  "5804037": {
+   "home": 2.55,
+   "draw": 3.6,
+   "away": 2.45,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794037706,
+   "home_name": "Śląsk Wrocław",
+   "away_name": "Piast Gliwice",
+   "league_id": 196
   }
  },
  "odds_check": {
@@ -1212,10 +1222,10 @@
  },
  "live_count": 18,
  "candidates_last": 0,
- "last_scan": "2026-11-07 08:32",
- "requests_last": 13,
- "last_write": "2026-11-07 08:32",
- "last_write_ts": 1794036747,
+ "last_scan": "2026-11-07 08:48",
+ "requests_last": 12,
+ "last_write": "2026-11-07 08:48",
+ "last_write_ts": 1794037706,
  "odds_api": {
   "remaining": "493",
   "used": "7",
