@@ -1008,6 +1008,46 @@
    "home_name": "VfL Osnabrück",
    "away_name": "Kaiserslautern",
    "league_id": 146
+  },
+  "5795511": {
+   "home": 2.75,
+   "draw": 3.25,
+   "away": 2.6,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794033205,
+   "home_name": "Leeds United",
+   "away_name": "Tottenham Hotspur",
+   "league_id": 47
+  },
+  "5836924": {
+   "home": 2.75,
+   "draw": 3.3,
+   "away": 2.4,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794033206,
+   "home_name": "Bristol City",
+   "away_name": "Norwich City",
+   "league_id": 48
+  },
+  "5836928": {
+   "home": 2.15,
+   "draw": 3.3,
+   "away": 3.3,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794033207,
+   "home_name": "Portsmouth",
+   "away_name": "Stoke City",
+   "league_id": 48
+  },
+  "5836933": {
+   "home": 3.5,
+   "draw": 3.4,
+   "away": 2.05,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794033207,
+   "home_name": "Wrexham",
+   "away_name": "Wolverhampton Wanderers",
+   "league_id": 48
   }
  },
  "odds_check": {
@@ -1050,12 +1090,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 31,
- "candidates_last": 1,
- "last_scan": "2026-11-07 07:13",
- "requests_last": 12,
- "last_write": "2026-11-07 07:13",
- "last_write_ts": 1794031996,
+ "live_count": 39,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 07:33",
+ "requests_last": 15,
+ "last_write": "2026-11-07 07:33",
+ "last_write_ts": 1794033207,
  "odds_api": {
   "remaining": "493",
   "used": "7",
