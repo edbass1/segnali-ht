@@ -2106,6 +2106,16 @@
    "home_name": "Paris Saint-Germain",
    "away_name": "Troyes",
    "league_id": 53
+  },
+  "5887679": {
+   "home": 1.11,
+   "draw": 7.5,
+   "away": 17.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794062009,
+   "home_name": "Sporting CP",
+   "away_name": "Moreirense",
+   "league_id": 61
   }
  },
  "odds_check": {
@@ -2148,12 +2158,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 142,
- "candidates_last": 2,
- "last_scan": "2026-11-07 15:25",
- "requests_last": 18,
- "last_write": "2026-11-07 15:25",
- "last_write_ts": 1794061529,
+ "live_count": 146,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 15:33",
+ "requests_last": 37,
+ "last_write": "2026-11-07 15:33",
+ "last_write_ts": 1794062020,
  "odds_api": {
   "remaining": "493",
   "used": "7",
