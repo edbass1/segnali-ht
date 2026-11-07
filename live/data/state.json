@@ -1861,6 +1861,26 @@
    "home_name": "Alverca",
    "away_name": "Casa Pia AC",
    "league_id": 61
+  },
+  "5846019": {
+   "home": 6.25,
+   "draw": 4.5,
+   "away": 1.42,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794054791,
+   "home_name": "Ried",
+   "away_name": "LASK",
+   "league_id": 38
+  },
+  "5967140": {
+   "home": 1.95,
+   "draw": 3.2,
+   "away": 3.3,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794054791,
+   "home_name": "Benevento",
+   "away_name": "Avellino",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -1903,12 +1923,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 70,
- "candidates_last": 1,
- "last_scan": "2026-11-07 13:09",
- "requests_last": 17,
- "last_write": "2026-11-07 13:09",
- "last_write_ts": 1794053351,
+ "live_count": 80,
+ "candidates_last": 0,
+ "last_scan": "2026-11-07 13:33",
+ "requests_last": 18,
+ "last_write": "2026-11-07 13:33",
+ "last_write_ts": 1794054791,
  "odds_api": {
   "remaining": "493",
   "used": "7",
