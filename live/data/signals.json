@@ -184,5 +184,67 @@
    "favourite_index": 1,
    "scope": "ht"
   }
+ },
+ {
+  "id": "5836931-favht",
+  "strategy": "favht",
+  "matchId": 5836931,
+  "time": "2026-11-07 16:53",
+  "ts": 1794066840,
+  "league": "Championship",
+  "country": "ENG",
+  "leagueId": 48,
+  "home": "Watford",
+  "away": "Middlesbrough",
+  "favourite": "away",
+  "favouriteTeam": "Middlesbrough",
+  "phase": "Intervallo",
+  "minute": 45,
+  "score": "0 - 0",
+  "url": "https://www.fotmob.com/match/5836931",
+  "odds": {
+   "prematch": {
+    "home": 6.0,
+    "draw": 5.0,
+    "away": 1.44,
+    "favourite": 1.44,
+    "source": "fotmob:Sky Bet_UK"
+   },
+   "live": {
+    "home": 8.2,
+    "draw": 3.35,
+    "away": 1.71,
+    "favourite": 1.71,
+    "book": "Betfair",
+    "min": 1.55,
+    "max": 1.85
+   },
+   "live_note": null
+  },
+  "stats": {
+   "sot": [
+    0.0,
+    3.0
+   ],
+   "poss": [
+    19.0,
+    81.0
+   ],
+   "box": [
+    4.0,
+    13.0
+   ],
+   "xg": [
+    0.05,
+    0.85
+   ],
+   "red": [
+    0.0,
+    0.0
+   ],
+   "box_ratio": 3.25,
+   "favourite_index": 1,
+   "scope": "ht"
+  }
  }
 ]
