@@ -2862,6 +2862,11 @@
    "ts": 1794086569,
    "event_id": "Cd5qPpj4",
    "league_id": 112
+  },
+  "1000013264": {
+   "unavailable": true,
+   "ts": 1794086807,
+   "source": "none"
   }
  },
  "odds_check": {
@@ -2904,12 +2909,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 39,
+ "live_count": 38,
  "candidates_last": 7,
- "last_scan": "2026-11-07 22:23",
- "requests_last": 53,
- "last_write": "2026-11-07 22:23",
- "last_write_ts": 1794086581,
+ "last_scan": "2026-11-07 22:26",
+ "requests_last": 40,
+ "last_write": "2026-11-07 22:26",
+ "last_write_ts": 1794086807,
  "odds_api": {
   "remaining": "492",
   "used": "8",
