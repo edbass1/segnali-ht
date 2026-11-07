@@ -681,6 +681,11 @@
    "t": 1794064903,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "5881220:favht": {
+   "t": 1794065142,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -2338,12 +2343,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 235,
- "candidates_last": 3,
- "last_scan": "2026-11-07 16:21",
- "requests_last": 39,
- "last_write": "2026-11-07 16:21",
- "last_write_ts": 1794064903,
+ "live_count": 231,
+ "candidates_last": 4,
+ "last_scan": "2026-11-07 16:25",
+ "requests_last": 40,
+ "last_write": "2026-11-07 16:25",
+ "last_write_ts": 1794065143,
  "odds_api": {
   "remaining": "493",
   "used": "7",
