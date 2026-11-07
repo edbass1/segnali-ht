@@ -2201,6 +2201,56 @@
    "home_name": "Sporting CP",
    "away_name": "Moreirense",
    "league_id": 61
+  },
+  "5071489": {
+   "home": 4.5,
+   "draw": 4.2,
+   "away": 1.62,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794063701,
+   "home_name": "CF Montréal",
+   "away_name": "Vancouver Whitecaps",
+   "league_id": 130
+  },
+  "5071485": {
+   "home": 1.86,
+   "draw": 4.1,
+   "away": 3.4,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794063701,
+   "home_name": "Chicago Fire FC",
+   "away_name": "Columbus Crew",
+   "league_id": 130
+  },
+  "5071487": {
+   "home": 2.95,
+   "draw": 3.35,
+   "away": 2.35,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794063702,
+   "home_name": "DC United",
+   "away_name": "New York City FC",
+   "league_id": 130
+  },
+  "5071486": {
+   "home": 2.63,
+   "draw": 3.75,
+   "away": 2.45,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794063702,
+   "home_name": "FC Cincinnati",
+   "away_name": "Nashville SC",
+   "league_id": 130
+  },
+  "5071488": {
+   "home": 1.35,
+   "draw": 5.25,
+   "away": 7.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794063703,
+   "home_name": "Inter Miami CF",
+   "away_name": "Charlotte FC",
+   "league_id": 130
   }
  },
  "odds_check": {
@@ -2243,12 +2293,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 130,
- "candidates_last": 7,
- "last_scan": "2026-11-07 15:53",
+ "live_count": 133,
+ "candidates_last": 2,
+ "last_scan": "2026-11-07 16:01",
  "requests_last": 43,
- "last_write": "2026-11-07 15:53",
- "last_write_ts": 1794063221,
+ "last_write": "2026-11-07 16:01",
+ "last_write_ts": 1794063703,
  "odds_api": {
   "remaining": "493",
   "used": "7",
