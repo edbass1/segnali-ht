@@ -1568,6 +1568,36 @@
    "home_name": "Nacional",
    "away_name": "Académico Viseu",
    "league_id": 61
+  },
+  "5846017": {
+   "home": 2.57,
+   "draw": 3.4,
+   "away": 2.5,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794045639,
+   "home_name": "Austria Lustenau",
+   "away_name": "Grazer AK",
+   "league_id": 38
+  },
+  "5904800": {
+   "home": 1.33,
+   "draw": 5.0,
+   "away": 6.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794045639,
+   "home_name": "Galatasaray",
+   "away_name": "Amed Sportif",
+   "league_id": 71
+  },
+  "5904798": {
+   "home": 1.86,
+   "draw": 3.6,
+   "away": 3.6,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794045641,
+   "home_name": "Göztepe",
+   "away_name": "Başakşehir",
+   "league_id": 71
   }
  },
  "odds_check": {
@@ -1612,10 +1642,10 @@
  },
  "live_count": 10,
  "candidates_last": 0,
- "last_scan": "2026-11-07 10:32",
+ "last_scan": "2026-11-07 11:00",
  "requests_last": 9,
- "last_write": "2026-11-07 10:32",
- "last_write_ts": 1794043960,
+ "last_write": "2026-11-07 11:00",
+ "last_write_ts": 1794045641,
  "odds_api": {
   "remaining": "493",
   "used": "7",
