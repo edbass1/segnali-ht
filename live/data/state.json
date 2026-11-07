@@ -1488,6 +1488,36 @@
    "home_name": "Preston North End",
    "away_name": "Southampton",
    "league_id": 48
+  },
+  "5836930": {
+   "home": 1.57,
+   "draw": 3.9,
+   "away": 5.25,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794042272,
+   "home_name": "Queens Park Rangers",
+   "away_name": "Lincoln City",
+   "league_id": 48
+  },
+  "5836931": {
+   "home": 6.0,
+   "draw": 5.0,
+   "away": 1.44,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794042273,
+   "home_name": "Watford",
+   "away_name": "Middlesbrough",
+   "league_id": 48
+  },
+  "5836932": {
+   "home": 2.0,
+   "draw": 3.4,
+   "away": 3.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794042273,
+   "home_name": "West Bromwich Albion",
+   "away_name": "Millwall",
+   "league_id": 48
   }
  },
  "odds_check": {
@@ -1530,12 +1560,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 8,
+ "live_count": 14,
  "candidates_last": 0,
- "last_scan": "2026-11-07 10:00",
- "requests_last": 17,
- "last_write": "2026-11-07 10:00",
- "last_write_ts": 1794042039,
+ "last_scan": "2026-11-07 10:04",
+ "requests_last": 9,
+ "last_write": "2026-11-07 10:04",
+ "last_write_ts": 1794042273,
  "odds_api": {
   "remaining": "493",
   "used": "7",
