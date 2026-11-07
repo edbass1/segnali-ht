@@ -564,16 +564,6 @@
   }
  },
  "prematch": {
-  "5836918": {
-   "home": 3.3,
-   "draw": 3.3,
-   "away": 2.15,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793801027,
-   "home_name": "Bristol City",
-   "away_name": "Wolverhampton Wanderers",
-   "league_id": 48
-  },
   "5103694": {
    "home": 1.11,
    "draw": 8.5,
@@ -2086,6 +2076,16 @@
    "home_name": "St. Mirren",
    "away_name": "Rangers",
    "league_id": 64
+  },
+  "5802987": {
+   "home": 1.14,
+   "draw": 9.5,
+   "away": 18.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794060326,
+   "home_name": "Paris Saint-Germain",
+   "away_name": "Troyes",
+   "league_id": 53
   }
  },
  "odds_check": {
@@ -2128,12 +2128,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 120,
+ "live_count": 149,
  "candidates_last": 2,
- "last_scan": "2026-11-07 15:01",
- "requests_last": 21,
- "last_write": "2026-11-07 15:01",
- "last_write_ts": 1794060091,
+ "last_scan": "2026-11-07 15:05",
+ "requests_last": 19,
+ "last_write": "2026-11-07 15:05",
+ "last_write_ts": 1794060327,
  "odds_api": {
   "remaining": "493",
   "used": "7",
