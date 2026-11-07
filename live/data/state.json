@@ -2056,6 +2056,36 @@
    "home_name": "Royal Antwerp",
    "away_name": "Lommel",
    "league_id": 40
+  },
+  "5868129": {
+   "home": 10.0,
+   "draw": 6.0,
+   "away": 1.22,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794060089,
+   "home_name": "Valencia",
+   "away_name": "Real Madrid",
+   "league_id": 87
+  },
+  "5781800": {
+   "home": 2.75,
+   "draw": 3.5,
+   "away": 2.45,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794060090,
+   "home_name": "Excelsior",
+   "away_name": "Go Ahead Eagles",
+   "league_id": 57
+  },
+  "5793974": {
+   "home": 6.95,
+   "draw": 4.9,
+   "away": 1.35,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794060090,
+   "home_name": "St. Mirren",
+   "away_name": "Rangers",
+   "league_id": 64
   }
  },
  "odds_check": {
@@ -2098,12 +2128,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 108,
- "candidates_last": 3,
- "last_scan": "2026-11-07 14:57",
- "requests_last": 19,
- "last_write": "2026-11-07 14:57",
- "last_write_ts": 1794059838,
+ "live_count": 120,
+ "candidates_last": 2,
+ "last_scan": "2026-11-07 15:01",
+ "requests_last": 21,
+ "last_write": "2026-11-07 15:01",
+ "last_write_ts": 1794060091,
  "odds_api": {
   "remaining": "493",
   "used": "7",
