@@ -3416,6 +3416,16 @@
    "ts": 1794121442,
    "event_id": "Or2XNIDa",
    "league_id": 113
+  },
+  "5847229": {
+   "home": 1.27,
+   "draw": 6.77,
+   "away": 11.9,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1794122149,
+   "home_name": "Spartak Moscow",
+   "away_name": "Akron Togliatti",
+   "league_id": 63
   }
  },
  "odds_check": {
@@ -3459,11 +3469,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 5,
- "candidates_last": 1,
- "last_scan": "2026-11-08 08:04",
- "requests_last": 18,
- "last_write": "2026-11-08 08:04",
- "last_write_ts": 1794121442,
+ "candidates_last": 0,
+ "last_scan": "2026-11-08 08:15",
+ "requests_last": 3,
+ "last_write": "2026-11-08 08:15",
+ "last_write_ts": 1794122149,
  "odds_api": {
   "remaining": "492",
   "used": "8",
