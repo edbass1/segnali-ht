@@ -1356,6 +1356,16 @@
    "t": 1794120707,
    "r": "prematch favorita 2,35 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000017580:favht": {
+   "t": 1794121442,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000017580:lay_sfav": {
+   "t": 1794121442,
+   "r": "prematch favorita 2,05 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -3307,6 +3317,105 @@
    "home_name": "Club Brugge",
    "away_name": "Anderlecht",
    "league_id": 40
+  },
+  "5868123": {
+   "home": 3.7,
+   "draw": 3.7,
+   "away": 1.95,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794121428,
+   "home_name": "Elche",
+   "away_name": "Real Betis",
+   "league_id": 87
+  },
+  "5804295": {
+   "home": 2.5,
+   "draw": 3.75,
+   "away": 2.45,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794121428,
+   "home_name": "St. Gallen",
+   "away_name": "Lugano",
+   "league_id": 69
+  },
+  "5904799": {
+   "home": 4.2,
+   "draw": 3.8,
+   "away": 1.67,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794121429,
+   "home_name": "Çorum FK",
+   "away_name": "Fenerbahçe",
+   "league_id": 71
+  },
+  "5739546": {
+   "home": 1.62,
+   "draw": 4.0,
+   "away": 4.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794121430,
+   "home_name": "AGF",
+   "away_name": "AC Horsens",
+   "league_id": 46
+  },
+  "6145893": {
+   "home": 1.13,
+   "draw": 7.5,
+   "away": 10.0,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794121431,
+   "home_name": "HJK",
+   "away_name": "AC Oulu",
+   "league_id": 51
+  },
+  "6145894": {
+   "home": 1.95,
+   "draw": 3.8,
+   "away": 3.1,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794121432,
+   "home_name": "IF Gnistan",
+   "away_name": "VPS",
+   "league_id": 51
+  },
+  "6145895": {
+   "home": 3.85,
+   "draw": 3.65,
+   "away": 1.75,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794121432,
+   "home_name": "KuPS",
+   "away_name": "FC Inter Turku",
+   "league_id": 51
+  },
+  "5107655": {
+   "home": 2.5,
+   "draw": 3.4,
+   "away": 2.57,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794121433,
+   "home_name": "IFK Göteborg",
+   "away_name": "Malmö FF",
+   "league_id": 67
+  },
+  "5107660": {
+   "home": 7.0,
+   "draw": 4.75,
+   "away": 1.33,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794121434,
+   "home_name": "Halmstads BK",
+   "away_name": "Djurgården",
+   "league_id": 67
+  },
+  "1000017580": {
+   "home": 3.2,
+   "draw": 3.7,
+   "away": 2.05,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794121442,
+   "event_id": "Or2XNIDa",
+   "league_id": 113
   }
  },
  "odds_check": {
@@ -3349,12 +3458,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 15,
+ "live_count": 5,
  "candidates_last": 1,
- "last_scan": "2026-11-08 07:51",
- "requests_last": 2,
- "last_write": "2026-11-08 07:51",
- "last_write_ts": 1794120707,
+ "last_scan": "2026-11-08 08:04",
+ "requests_last": 18,
+ "last_write": "2026-11-08 08:04",
+ "last_write_ts": 1794121442,
  "odds_api": {
   "remaining": "492",
   "used": "8",
