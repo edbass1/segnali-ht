@@ -4101,6 +4101,36 @@
    "home_name": "LR Vicenza",
    "away_name": "Cremonese",
    "league_id": 86
+  },
+  "5781795": {
+   "home": 2.3,
+   "draw": 3.85,
+   "away": 2.6,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794142846,
+   "home_name": "FC Utrecht",
+   "away_name": "NEC Nijmegen",
+   "league_id": 57
+  },
+  "5943293": {
+   "home": 1.6,
+   "draw": 3.9,
+   "away": 4.55,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794142847,
+   "home_name": "Olympiacos",
+   "away_name": "PAOK Thessaloniki",
+   "league_id": 135
+  },
+  "5190801": {
+   "home": 3.9,
+   "draw": 3.7,
+   "away": 1.85,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794142848,
+   "home_name": "Athletic Club MG",
+   "away_name": "Atlético-GO",
+   "league_id": 8814
   }
  },
  "odds_check": {
@@ -4143,12 +4173,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 98,
+ "live_count": 77,
  "candidates_last": 0,
- "last_scan": "2026-11-08 13:32",
- "requests_last": 23,
- "last_write": "2026-11-08 13:32",
- "last_write_ts": 1794141165,
+ "last_scan": "2026-11-08 14:00",
+ "requests_last": 24,
+ "last_write": "2026-11-08 14:00",
+ "last_write_ts": 1794142848,
  "odds_api": {
   "remaining": "492",
   "used": "8",
