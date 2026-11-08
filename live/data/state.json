@@ -4081,6 +4081,26 @@
    "home_name": "Fredrikstad",
    "away_name": "Brann",
    "league_id": 59
+  },
+  "5881219": {
+   "home": 1.57,
+   "draw": 4.4,
+   "away": 5.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794141164,
+   "home_name": "Hoffenheim",
+   "away_name": "Schalke 04",
+   "league_id": 54
+  },
+  "5967145": {
+   "home": 2.88,
+   "draw": 3.2,
+   "away": 2.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794141165,
+   "home_name": "LR Vicenza",
+   "away_name": "Cremonese",
+   "league_id": 86
   }
  },
  "odds_check": {
@@ -4123,12 +4143,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 94,
- "candidates_last": 2,
- "last_scan": "2026-11-08 13:20",
+ "live_count": 98,
+ "candidates_last": 0,
+ "last_scan": "2026-11-08 13:32",
  "requests_last": 23,
- "last_write": "2026-11-08 13:20",
- "last_write_ts": 1794140436,
+ "last_write": "2026-11-08 13:32",
+ "last_write_ts": 1794141165,
  "odds_api": {
   "remaining": "492",
   "used": "8",
