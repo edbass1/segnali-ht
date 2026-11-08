@@ -1964,16 +1964,6 @@
   }
  },
  "prematch": {
-  "5103699": {
-   "home": 1.7,
-   "draw": 4.1,
-   "away": 4.05,
-   "source": "fotmob:Ladbrokes_UK",
-   "ts": 1793903437,
-   "home_name": "Cruzeiro",
-   "away_name": "Bahia",
-   "league_id": 268
-  },
   "1000019633": {
    "home": 8.0,
    "draw": 4.75,
@@ -4773,12 +4763,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 54,
- "candidates_last": 4,
- "last_scan": "2026-11-08 19:25",
- "requests_last": 26,
- "last_write": "2026-11-08 19:25",
- "last_write_ts": 1794162336,
+ "live_count": 48,
+ "candidates_last": 2,
+ "last_scan": "2026-11-08 19:33",
+ "requests_last": 24,
+ "last_write": "2026-11-08 19:33",
+ "last_write_ts": 1794162814,
  "odds_api": {
   "remaining": "486",
   "used": "14",
