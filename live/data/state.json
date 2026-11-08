@@ -3931,6 +3931,56 @@
    "home_name": "FC Midtjylland",
    "away_name": "Sønderjyske",
    "league_id": 46
+  },
+  "5868122": {
+   "home": 1.8,
+   "draw": 3.6,
+   "away": 4.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794137553,
+   "home_name": "Celta Vigo",
+   "away_name": "Levante",
+   "league_id": 87
+  },
+  "5868130": {
+   "home": 1.44,
+   "draw": 4.5,
+   "away": 6.5,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794137553,
+   "home_name": "Villarreal",
+   "away_name": "Getafe",
+   "league_id": 87
+  },
+  "5811805": {
+   "home": 1.57,
+   "draw": 3.9,
+   "away": 5.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794137554,
+   "home_name": "Union St.Gilloise",
+   "away_name": "Genk",
+   "league_id": 40
+  },
+  "5868533": {
+   "home": 2.01,
+   "draw": 3.5,
+   "away": 3.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794137555,
+   "home_name": "Las Palmas",
+   "away_name": "Eldense",
+   "league_id": 140
+  },
+  "5868535": {
+   "home": 2.4,
+   "draw": 3.2,
+   "away": 2.82,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794137556,
+   "home_name": "Sporting Gijón",
+   "away_name": "Real Valladolid",
+   "league_id": 140
   }
  },
  "odds_check": {
@@ -3973,12 +4023,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 15,
+ "live_count": 54,
  "candidates_last": 0,
- "last_scan": "2026-11-08 12:00",
- "requests_last": 13,
- "last_write": "2026-11-08 12:00",
- "last_write_ts": 1794135624,
+ "last_scan": "2026-11-08 12:32",
+ "requests_last": 16,
+ "last_write": "2026-11-08 12:32",
+ "last_write_ts": 1794137556,
  "odds_api": {
   "remaining": "492",
   "used": "8",
