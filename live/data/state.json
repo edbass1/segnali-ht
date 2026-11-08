@@ -3043,12 +3043,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 12,
+ "live_count": 21,
  "candidates_last": 0,
- "last_scan": "2026-11-08 01:03",
- "requests_last": 33,
- "last_write": "2026-11-08 01:03",
- "last_write_ts": 1794096185,
+ "last_scan": "2026-11-08 01:35",
+ "requests_last": 32,
+ "last_write": "2026-11-08 01:35",
+ "last_write_ts": 1794098117,
  "odds_api": {
   "remaining": "492",
   "used": "8",
