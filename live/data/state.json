@@ -3576,6 +3576,16 @@
    "home_name": "Virtus Entella",
    "away_name": "Modena",
    "league_id": 86
+  },
+  "5881216": {
+   "home": 4.1,
+   "draw": 4.0,
+   "away": 1.8,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794126715,
+   "home_name": "1. FC Köln",
+   "away_name": "Bayer Leverkusen",
+   "league_id": 54
   }
  },
  "odds_check": {
@@ -3618,12 +3628,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 14,
- "candidates_last": 1,
- "last_scan": "2026-11-08 09:23",
+ "live_count": 16,
+ "candidates_last": 0,
+ "last_scan": "2026-11-08 09:31",
  "requests_last": 2,
- "last_write": "2026-11-08 09:23",
- "last_write_ts": 1794126235,
+ "last_write": "2026-11-08 09:31",
+ "last_write_ts": 1794126715,
  "odds_api": {
   "remaining": "492",
   "used": "8",
