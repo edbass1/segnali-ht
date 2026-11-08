@@ -1741,6 +1741,51 @@
    "t": 1794154633,
    "r": "prematch favorita 1,96 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5107653:favht": {
+   "t": 1794154872,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5107653:lay_sfav": {
+   "t": 1794154872,
+   "r": "prematch favorita 1,51 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5887676:favht": {
+   "t": 1794154873,
+   "r": "prematch 2,30 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5887678:favht": {
+   "t": 1794154873,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5887678:lay_sfav": {
+   "t": 1794154873,
+   "r": "prematch favorita 2,20 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5943291:favht": {
+   "t": 1794154880,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5804294:favht": {
+   "t": 1794154880,
+   "r": "prematch 1,91 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5904796:favht": {
+   "t": 1794154881,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5904796:lay_sfav": {
+   "t": 1794154881,
+   "r": "prematch favorita 1,53 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -4521,6 +4566,11 @@
    "home_name": "Goiás",
    "away_name": "Ponte Preta",
    "league_id": 8814
+  },
+  "1000013265": {
+   "unavailable": true,
+   "ts": 1794154879,
+   "source": "none"
   }
  },
  "odds_check": {
@@ -4564,11 +4614,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 103,
- "candidates_last": 3,
- "last_scan": "2026-11-08 17:17",
- "requests_last": 21,
- "last_write": "2026-11-08 17:17",
- "last_write_ts": 1794154634,
+ "candidates_last": 8,
+ "last_scan": "2026-11-08 17:21",
+ "requests_last": 30,
+ "last_write": "2026-11-08 17:21",
+ "last_write_ts": 1794154881,
  "odds_api": {
   "remaining": "492",
   "used": "8",
