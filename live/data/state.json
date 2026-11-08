@@ -1871,6 +1871,11 @@
    "t": 1794156795,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "1000013265:lay_sfav": {
+   "t": 1794157279,
+   "r": "fuori finestra",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -4683,12 +4688,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 108,
- "candidates_last": 8,
- "last_scan": "2026-11-08 17:53",
- "requests_last": 29,
- "last_write": "2026-11-08 17:53",
- "last_write_ts": 1794156797,
+ "live_count": 89,
+ "candidates_last": 5,
+ "last_scan": "2026-11-08 18:01",
+ "requests_last": 32,
+ "last_write": "2026-11-08 18:01",
+ "last_write_ts": 1794157279,
  "odds_api": {
   "remaining": "492",
   "used": "8",
