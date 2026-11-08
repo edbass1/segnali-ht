@@ -4016,6 +4016,26 @@
    "home_name": "Baltika",
    "away_name": "Dynamo Makhachkala",
    "league_id": 63
+  },
+  "5887680": {
+   "home": 5.75,
+   "draw": 4.2,
+   "away": 1.49,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794139230,
+   "home_name": "Vitória de Guimarães",
+   "away_name": "FC Porto",
+   "league_id": 61
+  },
+  "5904801": {
+   "home": 1.14,
+   "draw": 7.5,
+   "away": 12.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794139231,
+   "home_name": "Beşiktaş",
+   "away_name": "Gençlerbirliği",
+   "league_id": 71
   }
  },
  "odds_check": {
@@ -4058,12 +4078,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 58,
- "candidates_last": 1,
- "last_scan": "2026-11-08 12:56",
- "requests_last": 12,
- "last_write": "2026-11-08 12:56",
- "last_write_ts": 1794138991,
+ "live_count": 62,
+ "candidates_last": 0,
+ "last_scan": "2026-11-08 13:00",
+ "requests_last": 23,
+ "last_write": "2026-11-08 13:00",
+ "last_write_ts": 1794139238,
  "odds_api": {
   "remaining": "492",
   "used": "8",
