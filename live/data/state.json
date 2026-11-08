@@ -3741,6 +3741,26 @@
    "home_name": "Kalmar FF",
    "away_name": "Sirius",
    "league_id": 67
+  },
+  "5781798": {
+   "home": 1.44,
+   "draw": 4.33,
+   "away": 5.25,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794131295,
+   "home_name": "AZ Alkmaar",
+   "away_name": "FC Groningen",
+   "league_id": 57
+  },
+  "5781796": {
+   "home": 6.5,
+   "draw": 5.5,
+   "away": 1.33,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794131295,
+   "home_name": "Cambuur",
+   "away_name": "PSV Eindhoven",
+   "league_id": 57
   }
  },
  "odds_check": {
@@ -3783,12 +3803,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
+ "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-08 10:32",
- "requests_last": 21,
- "last_write": "2026-11-08 10:32",
- "last_write_ts": 1794130336,
+ "last_scan": "2026-11-08 10:48",
+ "requests_last": 13,
+ "last_write": "2026-11-08 10:48",
+ "last_write_ts": 1794131295,
  "odds_api": {
   "remaining": "492",
   "used": "8",
