@@ -3061,6 +3061,26 @@
    "home_name": "Gamba Osaka",
    "away_name": "Cerezo Osaka",
    "league_id": 223
+  },
+  "6503837": {
+   "home": 2.35,
+   "draw": 3.15,
+   "away": 3.0,
+   "source": "fotmob:Ladbrokes_UK",
+   "ts": 1794101470,
+   "home_name": "Gangwon FC",
+   "away_name": "Jeonbuk Hyundai Motors FC",
+   "league_id": 9080
+  },
+  "6503953": {
+   "home": 2.9,
+   "draw": 3.25,
+   "away": 2.3,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794101471,
+   "home_name": "Bucheon FC 1995",
+   "away_name": "Pohang Steelers",
+   "league_id": 9080
   }
  },
  "odds_check": {
@@ -3103,12 +3123,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 18,
+ "live_count": 20,
  "candidates_last": 2,
- "last_scan": "2026-11-08 02:27",
- "requests_last": 19,
- "last_write": "2026-11-08 02:27",
- "last_write_ts": 1794101229,
+ "last_scan": "2026-11-08 02:31",
+ "requests_last": 21,
+ "last_write": "2026-11-08 02:31",
+ "last_write_ts": 1794101472,
  "odds_api": {
   "remaining": "492",
   "used": "8",
