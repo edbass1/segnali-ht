@@ -3761,6 +3761,66 @@
    "home_name": "Cambuur",
    "away_name": "PSV Eindhoven",
    "league_id": 57
+  },
+  "5846021": {
+   "home": 2.7,
+   "draw": 4.0,
+   "away": 2.25,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794132014,
+   "home_name": "Sturm Graz",
+   "away_name": "Salzburg",
+   "league_id": 38
+  },
+  "5105045": {
+   "home": 2.9,
+   "draw": 3.6,
+   "away": 2.2,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794132014,
+   "home_name": "Hamarkameratene",
+   "away_name": "Sarpsborg 08",
+   "league_id": 59
+  },
+  "5105044": {
+   "home": 1.67,
+   "draw": 4.0,
+   "away": 3.6,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794132015,
+   "home_name": "Lillestrøm",
+   "away_name": "Aalesund",
+   "league_id": 59
+  },
+  "5105047": {
+   "home": 3.8,
+   "draw": 4.4,
+   "away": 1.73,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794132016,
+   "home_name": "Sandefjord",
+   "away_name": "Molde",
+   "league_id": 59
+  },
+  "5105042": {
+   "home": 1.22,
+   "draw": 6.5,
+   "away": 9.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794132016,
+   "home_name": "Viking",
+   "away_name": "KFUM",
+   "league_id": 59
+  },
+  "5793971": {
+   "home": 1.11,
+   "draw": 9.5,
+   "away": 16.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794132017,
+   "home_name": "Celtic",
+   "away_name": "Kilmarnock",
+   "league_id": 64
   }
  },
  "odds_check": {
@@ -3805,10 +3865,10 @@
  },
  "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-08 10:48",
- "requests_last": 13,
- "last_write": "2026-11-08 10:48",
- "last_write_ts": 1794131295,
+ "last_scan": "2026-11-08 11:00",
+ "requests_last": 17,
+ "last_write": "2026-11-08 11:00",
+ "last_write_ts": 1794132017,
  "odds_api": {
   "remaining": "492",
   "used": "8",
