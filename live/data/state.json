@@ -3426,6 +3426,46 @@
    "home_name": "Spartak Moscow",
    "away_name": "Akron Togliatti",
    "league_id": 63
+  },
+  "5846018": {
+   "home": 2.4,
+   "draw": 3.35,
+   "away": 2.75,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794123108,
+   "home_name": "Hartberg",
+   "away_name": "Altach",
+   "league_id": 38
+  },
+  "5846022": {
+   "home": 2.7,
+   "draw": 3.4,
+   "away": 2.4,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794123109,
+   "home_name": "WSG Tirol",
+   "away_name": "Austria Wien",
+   "league_id": 38
+  },
+  "5105041": {
+   "home": 6.0,
+   "draw": 4.75,
+   "away": 1.36,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794123110,
+   "home_name": "Tromsø",
+   "away_name": "Bodø/Glimt",
+   "league_id": 59
+  },
+  "5781803": {
+   "home": 1.95,
+   "draw": 3.8,
+   "away": 3.2,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794123110,
+   "home_name": "FC Twente",
+   "away_name": "Ajax",
+   "league_id": 57
   }
  },
  "odds_check": {
@@ -3468,12 +3508,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
+ "live_count": 16,
  "candidates_last": 0,
- "last_scan": "2026-11-08 08:15",
- "requests_last": 3,
- "last_write": "2026-11-08 08:15",
- "last_write_ts": 1794122149,
+ "last_scan": "2026-11-08 08:31",
+ "requests_last": 5,
+ "last_write": "2026-11-08 08:31",
+ "last_write_ts": 1794123110,
  "odds_api": {
   "remaining": "492",
   "used": "8",
