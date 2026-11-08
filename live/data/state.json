@@ -1296,6 +1296,16 @@
    "t": 1794102682,
    "r": "prematch favorita 1,76 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "1000014638:favht": {
+   "t": 1794104123,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000014638:lay_sfav": {
+   "t": 1794104123,
+   "r": "prematch favorita 1,90 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -3129,6 +3139,15 @@
    "home_name": "JEF United Chiba",
    "away_name": "Mito Hollyhock",
    "league_id": 223
+  },
+  "1000014638": {
+   "home": 3.6,
+   "draw": 3.7,
+   "away": 1.9,
+   "source": "betexplorer:bet365.us",
+   "ts": 1794104123,
+   "event_id": "Agsy2CLs",
+   "league_id": 230
   }
  },
  "odds_check": {
@@ -3171,12 +3190,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 17,
+ "live_count": 13,
  "candidates_last": 1,
- "last_scan": "2026-11-08 03:03",
- "requests_last": 19,
- "last_write": "2026-11-08 03:03",
- "last_write_ts": 1794103392,
+ "last_scan": "2026-11-08 03:15",
+ "requests_last": 25,
+ "last_write": "2026-11-08 03:15",
+ "last_write_ts": 1794104123,
  "odds_api": {
   "remaining": "492",
   "used": "8",
