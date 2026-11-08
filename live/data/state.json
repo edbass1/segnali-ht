@@ -1806,29 +1806,34 @@
    "t": 1794156073,
    "r": "prematch favorita 1,95 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5781796:favht": {
+   "t": 1794156314,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5868127:lay_sfav": {
+   "t": 1794156314,
+   "r": "prematch favorita 1,75 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "1000013265:favht": {
+   "t": 1794156315,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5804296:favht": {
+   "t": 1794156316,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5804296:lay_sfav": {
+   "t": 1794156316,
+   "r": "prematch favorita 2,10 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
-  "5103697": {
-   "home": 1.18,
-   "draw": 6.5,
-   "away": 12.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793896885,
-   "home_name": "Palmeiras",
-   "away_name": "Remo",
-   "league_id": 268
-  },
-  "5190799": {
-   "home": 1.53,
-   "draw": 3.9,
-   "away": 6.0,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793896886,
-   "home_name": "Botafogo SP",
-   "away_name": "Londrina",
-   "league_id": 8814
-  },
   "5103699": {
    "home": 1.7,
    "draw": 4.1,
@@ -4639,11 +4644,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 112,
- "candidates_last": 4,
- "last_scan": "2026-11-08 17:41",
- "requests_last": 25,
- "last_write": "2026-11-08 17:41",
- "last_write_ts": 1794156075,
+ "candidates_last": 6,
+ "last_scan": "2026-11-08 17:45",
+ "requests_last": 27,
+ "last_write": "2026-11-08 17:45",
+ "last_write_ts": 1794156316,
  "odds_api": {
   "remaining": "492",
   "used": "8",
