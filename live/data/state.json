@@ -3119,6 +3119,16 @@
    "ts": 1794102682,
    "event_id": "vo2HLBqC",
    "league_id": 112
+  },
+  "5803649": {
+   "home": 1.95,
+   "draw": 3.4,
+   "away": 3.65,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794103392,
+   "home_name": "JEF United Chiba",
+   "away_name": "Mito Hollyhock",
+   "league_id": 223
   }
  },
  "odds_check": {
@@ -3161,12 +3171,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 20,
- "candidates_last": 3,
- "last_scan": "2026-11-08 02:51",
- "requests_last": 35,
- "last_write": "2026-11-08 02:51",
- "last_write_ts": 1794102682,
+ "live_count": 17,
+ "candidates_last": 1,
+ "last_scan": "2026-11-08 03:03",
+ "requests_last": 19,
+ "last_write": "2026-11-08 03:03",
+ "last_write_ts": 1794103392,
  "odds_api": {
   "remaining": "492",
   "used": "8",
