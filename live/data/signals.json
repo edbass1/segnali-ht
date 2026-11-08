@@ -246,5 +246,67 @@
    "favourite_index": 1,
    "scope": "ht"
   }
+ },
+ {
+  "id": "5881217-favht",
+  "strategy": "favht",
+  "matchId": 5881217,
+  "time": "2026-11-08 18:17",
+  "ts": 1794158245,
+  "league": "Bundesliga",
+  "country": "GER",
+  "leagueId": 54,
+  "home": "Freiburg",
+  "away": "Union Berlin",
+  "favourite": "home",
+  "favouriteTeam": "Freiburg",
+  "phase": "Intervallo",
+  "minute": 45,
+  "score": "0 - 0",
+  "url": "https://www.fotmob.com/match/5881217",
+  "odds": {
+   "prematch": {
+    "home": 1.4,
+    "draw": 4.5,
+    "away": 7.0,
+    "favourite": 1.4,
+    "source": "fotmob:Paddy Power_UK"
+   },
+   "live": {
+    "home": 1.64,
+    "draw": 3.4,
+    "away": 9.8,
+    "favourite": 1.64,
+    "book": "Betfair",
+    "min": 1.55,
+    "max": 1.85
+   },
+   "live_note": null
+  },
+  "stats": {
+   "sot": [
+    5.0,
+    0.0
+   ],
+   "poss": [
+    71.0,
+    29.0
+   ],
+   "box": [
+    26.0,
+    1.0
+   ],
+   "xg": [
+    0.8,
+    0.0
+   ],
+   "red": [
+    0.0,
+    0.0
+   ],
+   "box_ratio": 26.0,
+   "favourite_index": 0,
+   "scope": "ht"
+  }
  }
 ]
