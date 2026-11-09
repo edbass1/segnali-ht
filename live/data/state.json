@@ -27,16 +27,6 @@
   }
  },
  "done": {
-  "1000017578:favht": {
-   "t": 1794051189,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "1000017578:lay_sfav": {
-   "t": 1794051189,
-   "r": "prematch favorita 2,33 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5804033:favht": {
    "t": 1794053351,
    "r": "prematch 1,70 fuori range 1,25-1,60",
@@ -1809,26 +1799,6 @@
   }
  },
  "prematch": {
-  "5881724": {
-   "home": 1.91,
-   "draw": 3.5,
-   "away": 3.3,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793964726,
-   "home_name": "Dynamo Dresden",
-   "away_name": "Greuther Fürth",
-   "league_id": 146
-  },
-  "5881718": {
-   "home": 1.91,
-   "draw": 3.9,
-   "away": 3.4,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793964727,
-   "home_name": "Eintracht Braunschweig",
-   "away_name": "Energie Cottbus",
-   "league_id": 146
-  },
   "5905975": {
    "home": 1.67,
    "draw": 3.75,
@@ -4592,12 +4562,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 0,
+ "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-09 12:23",
+ "last_scan": "2026-11-09 12:35",
  "requests_last": 1,
- "last_write": "2026-11-09 12:23",
- "last_write_ts": 1794223389,
+ "last_write": "2026-11-09 12:35",
+ "last_write_ts": 1794224119,
  "odds_api": {
   "remaining": "485",
   "used": "15",
