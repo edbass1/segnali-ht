@@ -27,36 +27,6 @@
   }
  },
  "done": {
-  "5967142:favht": {
-   "t": 1794062981,
-   "r": "prematch 2,05 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5125683:favht": {
-   "t": 1794062982,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5125678:favht": {
-   "t": 1794062983,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5125678:lay_sfav": {
-   "t": 1794062983,
-   "r": "prematch favorita 2,20 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5125680:favht": {
-   "t": 1794062983,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5125680:lay_sfav": {
-   "t": 1794062983,
-   "r": "prematch favorita 1,65 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5749741:favht": {
    "t": 1794063218,
    "r": "non è 0-0",
@@ -1654,16 +1624,6 @@
   }
  },
  "prematch": {
-  "5887675": {
-   "home": 2.35,
-   "draw": 3.4,
-   "away": 2.75,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1793976416,
-   "home_name": "Famalicão",
-   "away_name": "Arouca",
-   "league_id": 61
-  },
   "5190802": {
    "home": 2.9,
    "draw": 3.1,
@@ -4237,12 +4197,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-09 15:38",
+ "last_scan": "2026-11-09 15:50",
  "requests_last": 1,
- "last_write": "2026-11-09 15:38",
- "last_write_ts": 1794235134,
+ "last_write": "2026-11-09 15:50",
+ "last_write_ts": 1794235854,
  "odds_api": {
   "remaining": "485",
   "used": "15",
