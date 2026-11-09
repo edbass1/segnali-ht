@@ -1774,66 +1774,6 @@
   }
  },
  "prematch": {
-  "5803308": {
-   "home": 2.45,
-   "draw": 3.0,
-   "away": 3.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793970018,
-   "home_name": "Boulogne",
-   "away_name": "Annecy FC",
-   "league_id": 110
-  },
-  "5803310": {
-   "home": 2.63,
-   "draw": 3.1,
-   "away": 2.4,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1793970019,
-   "home_name": "Dijon",
-   "away_name": "Red Star",
-   "league_id": 110
-  },
-  "5803311": {
-   "home": 2.6,
-   "draw": 3.3,
-   "away": 2.3,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1793970020,
-   "home_name": "Dunkerque",
-   "away_name": "Guingamp",
-   "league_id": 110
-  },
-  "5803312": {
-   "home": 4.0,
-   "draw": 3.4,
-   "away": 1.8,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1793970020,
-   "home_name": "Grenoble",
-   "away_name": "Reims",
-   "league_id": 110
-  },
-  "5803313": {
-   "home": 1.85,
-   "draw": 3.65,
-   "away": 4.0,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793970021,
-   "home_name": "Montpellier",
-   "away_name": "Metz",
-   "league_id": 110
-  },
-  "5803314": {
-   "home": 1.5,
-   "draw": 3.8,
-   "away": 5.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793970022,
-   "home_name": "Nancy",
-   "away_name": "Sochaux",
-   "league_id": 110
-  },
   "5881218": {
    "home": 2.3,
    "draw": 3.5,
@@ -4507,12 +4447,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
+ "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-09 13:51",
+ "last_scan": "2026-11-09 14:03",
  "requests_last": 1,
- "last_write": "2026-11-09 13:51",
- "last_write_ts": 1794228687,
+ "last_write": "2026-11-09 14:03",
+ "last_write_ts": 1794229407,
  "odds_api": {
   "remaining": "485",
   "used": "15",
