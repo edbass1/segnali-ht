@@ -27,11 +27,6 @@
   }
  },
  "done": {
-  "5795511:favht": {
-   "t": 1794057919,
-   "r": "prematch 2,60 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
   "5905976:favht": {
    "t": 1794059357,
    "r": "non è 0-0",
@@ -1744,36 +1739,6 @@
   }
  },
  "prematch": {
-  "5881218": {
-   "home": 2.3,
-   "draw": 3.5,
-   "away": 3.1,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1793971846,
-   "home_name": "Hamburger SV",
-   "away_name": "Borussia Mönchengladbach",
-   "league_id": 54
-  },
-  "5804039": {
-   "home": 1.8,
-   "draw": 3.85,
-   "away": 4.0,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793971847,
-   "home_name": "Wisła Kraków",
-   "away_name": "Cracovia",
-   "league_id": 196
-  },
-  "5967139": {
-   "home": 2.8,
-   "draw": 3.3,
-   "away": 2.4,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1793971847,
-   "home_name": "Ascoli",
-   "away_name": "Palermo",
-   "league_id": 86
-  },
   "5802989": {
    "home": 2.2,
    "draw": 3.7,
@@ -4417,12 +4382,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
+ "live_count": 8,
  "candidates_last": 0,
- "last_scan": "2026-11-09 14:23",
+ "last_scan": "2026-11-09 14:42",
  "requests_last": 1,
- "last_write": "2026-11-09 14:23",
- "last_write_ts": 1794230607,
+ "last_write": "2026-11-09 14:42",
+ "last_write_ts": 1794231766,
  "odds_api": {
   "remaining": "485",
   "used": "15",
