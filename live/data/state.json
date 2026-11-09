@@ -1911,6 +1911,11 @@
    "t": 1794181818,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "1000013267:lay_sfav": {
+   "t": 1794184211,
+   "r": "fuori finestra",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -4725,10 +4730,10 @@
  },
  "live_count": 10,
  "candidates_last": 1,
- "last_scan": "2026-11-09 01:26",
+ "last_scan": "2026-11-09 01:30",
  "requests_last": 8,
- "last_write": "2026-11-09 01:26",
- "last_write_ts": 1794183971,
+ "last_write": "2026-11-09 01:30",
+ "last_write_ts": 1794184211,
  "odds_api": {
   "remaining": "485",
   "used": "15",
