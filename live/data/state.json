@@ -1679,16 +1679,6 @@
   }
  },
  "prematch": {
-  "5795508": {
-   "home": 1.62,
-   "draw": 3.8,
-   "away": 5.0,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793973766,
-   "home_name": "Everton",
-   "away_name": "Coventry City",
-   "league_id": 47
-  },
   "5868128": {
    "home": 1.83,
    "draw": 3.3,
@@ -4294,10 +4284,10 @@
  },
  "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-09 14:58",
+ "last_scan": "2026-11-09 15:02",
  "requests_last": 1,
- "last_write": "2026-11-09 14:58",
- "last_write_ts": 1794232726,
+ "last_write": "2026-11-09 15:02",
+ "last_write_ts": 1794232966,
  "odds_api": {
   "remaining": "485",
   "used": "15",
