@@ -1794,16 +1794,6 @@
   }
  },
  "prematch": {
-  "5846020": {
-   "home": 1.15,
-   "draw": 6.9,
-   "away": 13.3,
-   "source": "fotmob:Ladbrokes_UK",
-   "ts": 1793968336,
-   "home_name": "Rapid Wien",
-   "away_name": "Wolfsberger AC",
-   "league_id": 38
-  },
   "5803308": {
    "home": 2.45,
    "draw": 3.0,
@@ -4537,12 +4527,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 2,
+ "live_count": 6,
  "candidates_last": 0,
- "last_scan": "2026-11-09 13:11",
+ "last_scan": "2026-11-09 13:35",
  "requests_last": 1,
- "last_write": "2026-11-09 13:11",
- "last_write_ts": 1794226279,
+ "last_write": "2026-11-09 13:35",
+ "last_write_ts": 1794227727,
  "odds_api": {
   "remaining": "485",
   "used": "15",
