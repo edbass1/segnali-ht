@@ -1679,26 +1679,6 @@
   }
  },
  "prematch": {
-  "5868128": {
-   "home": 1.83,
-   "draw": 3.3,
-   "away": 4.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1793973767,
-   "home_name": "Sevilla",
-   "away_name": "Deportivo Alavés",
-   "league_id": 87
-  },
-  "5836927": {
-   "home": 2.45,
-   "draw": 3.45,
-   "away": 2.7,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1793973768,
-   "home_name": "Derby County",
-   "away_name": "Bolton Wanderers",
-   "league_id": 48
-  },
   "5887675": {
    "home": 2.35,
    "draw": 3.4,
@@ -4284,10 +4264,10 @@
  },
  "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-09 15:02",
+ "last_scan": "2026-11-09 15:06",
  "requests_last": 1,
- "last_write": "2026-11-09 15:02",
- "last_write_ts": 1794232966,
+ "last_write": "2026-11-09 15:06",
+ "last_write_ts": 1794233206,
  "odds_api": {
   "remaining": "485",
   "used": "15",
