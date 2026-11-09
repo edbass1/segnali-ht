@@ -27,11 +27,6 @@
   }
  },
  "done": {
-  "5804033:favht": {
-   "t": 1794053351,
-   "r": "prematch 1,70 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
   "5881723:favht": {
    "t": 1794055752,
    "r": "prematch 1,70 fuori range 1,25-1,60",
@@ -4542,12 +4537,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 1,
+ "live_count": 2,
  "candidates_last": 0,
- "last_scan": "2026-11-09 13:03",
- "requests_last": 2,
- "last_write": "2026-11-09 13:03",
- "last_write_ts": 1794225800,
+ "last_scan": "2026-11-09 13:11",
+ "requests_last": 1,
+ "last_write": "2026-11-09 13:11",
+ "last_write_ts": 1794226279,
  "odds_api": {
   "remaining": "485",
   "used": "15",
