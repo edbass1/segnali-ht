@@ -4731,12 +4731,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
- "candidates_last": 1,
- "last_scan": "2026-11-09 04:02",
- "requests_last": 13,
- "last_write": "2026-11-09 04:02",
- "last_write_ts": 1794193360,
+ "live_count": 1,
+ "candidates_last": 0,
+ "last_scan": "2026-11-09 04:34",
+ "requests_last": 2,
+ "last_write": "2026-11-09 04:34",
+ "last_write_ts": 1794195273,
  "odds_api": {
   "remaining": "485",
   "used": "15",
