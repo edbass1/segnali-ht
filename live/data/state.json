@@ -949,16 +949,6 @@
   }
  },
  "prematch": {
-  "6503952": {
-   "home": 2.2,
-   "draw": 3.4,
-   "away": 3.2,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1794015155,
-   "home_name": "Gimcheon Sangmu",
-   "away_name": "FC Anyang",
-   "league_id": 9080
-  },
   "1000019627": {
    "unavailable": true,
    "ts": 1794016126,
@@ -3402,10 +3392,10 @@
  },
  "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-10 02:30",
+ "last_scan": "2026-11-10 02:34",
  "requests_last": 2,
- "last_write": "2026-11-10 02:30",
- "last_write_ts": 1794274255,
+ "last_write": "2026-11-10 02:34",
+ "last_write_ts": 1794274495,
  "odds_api": {
   "remaining": "485",
   "used": "15",
