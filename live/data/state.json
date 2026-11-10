@@ -859,106 +859,6 @@
   }
  },
  "prematch": {
-  "5749741": {
-   "home": 2.9,
-   "draw": 3.75,
-   "away": 2.2,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1794038426,
-   "home_name": "Cagliari",
-   "away_name": "Frosinone",
-   "league_id": 55
-  },
-  "5749748": {
-   "home": 1.75,
-   "draw": 3.6,
-   "away": 4.5,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1794038427,
-   "home_name": "Torino",
-   "away_name": "Lecce",
-   "league_id": 55
-  },
-  "5967147": {
-   "home": 2.1,
-   "draw": 3.2,
-   "away": 3.4,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1794038427,
-   "home_name": "Padova",
-   "away_name": "Empoli",
-   "league_id": 86
-  },
-  "5967142": {
-   "home": 2.05,
-   "draw": 3.4,
-   "away": 3.3,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1794038428,
-   "home_name": "Cesena",
-   "away_name": "Catanzaro",
-   "league_id": 86
-  },
-  "5967144": {
-   "home": 1.73,
-   "draw": 3.4,
-   "away": 4.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1794038429,
-   "home_name": "Juve Stabia",
-   "away_name": "Arezzo",
-   "league_id": 86
-  },
-  "5967148": {
-   "home": 1.53,
-   "draw": 3.75,
-   "away": 6.0,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1794038429,
-   "home_name": "Pisa",
-   "away_name": "Südtirol",
-   "league_id": 86
-  },
-  "5125683": {
-   "home": 10.0,
-   "draw": 5.0,
-   "away": 1.25,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1794038430,
-   "home_name": "GIF Sundsvall",
-   "away_name": "Varbergs BoIS FC",
-   "league_id": 168
-  },
-  "5125678": {
-   "home": 2.2,
-   "draw": 3.3,
-   "away": 2.9,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1794038431,
-   "home_name": "Helsingborg",
-   "away_name": "Falkenbergs FF",
-   "league_id": 168
-  },
-  "5125684": {
-   "home": 3.6,
-   "draw": 3.8,
-   "away": 1.8,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1794038432,
-   "home_name": "IFK Värnamo",
-   "away_name": "IFK Norrköping",
-   "league_id": 168
-  },
-  "5125677": {
-   "home": 2.15,
-   "draw": 3.5,
-   "away": 2.9,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1794038432,
-   "home_name": "IK Brage",
-   "away_name": "Norrby",
-   "league_id": 168
-  },
   "5125679": {
    "home": 2.88,
    "draw": 3.7,
@@ -3042,10 +2942,10 @@
  },
  "live_count": 0,
  "candidates_last": 0,
- "last_scan": "2026-11-10 08:49",
+ "last_scan": "2026-11-10 09:01",
  "requests_last": 1,
- "last_write": "2026-11-10 08:49",
- "last_write_ts": 1794296942,
+ "last_write": "2026-11-10 09:01",
+ "last_write_ts": 1794297662,
  "odds_api": {
   "remaining": "485",
   "used": "15",
