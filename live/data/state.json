@@ -28,11 +28,6 @@
  },
  "done": {},
  "prematch": {
-  "1000013261": {
-   "unavailable": true,
-   "ts": 1794155116,
-   "source": "none"
-  },
   "1000013260": {
    "unavailable": true,
    "ts": 1794163780,
@@ -127,10 +122,10 @@
  },
  "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-11 17:22",
+ "last_scan": "2026-11-11 17:26",
  "requests_last": 1,
- "last_write": "2026-11-11 17:22",
- "last_write_ts": 1794414149,
+ "last_write": "2026-11-11 17:26",
+ "last_write_ts": 1794414389,
  "odds_api": {
   "remaining": "485",
   "used": "15",
