@@ -34,15 +34,6 @@
   }
  },
  "prematch": {
-  "1000014638": {
-   "home": 3.6,
-   "draw": 3.7,
-   "away": 1.9,
-   "source": "betexplorer:bet365.us",
-   "ts": 1794104123,
-   "event_id": "Agsy2CLs",
-   "league_id": 230
-  },
   "5904797": {
    "home": 1.79,
    "draw": 3.3,
@@ -1073,12 +1064,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-11 03:03",
+ "last_scan": "2026-11-11 03:15",
  "requests_last": 2,
- "last_write": "2026-11-11 03:03",
- "last_write_ts": 1794362616,
+ "last_write": "2026-11-11 03:15",
+ "last_write_ts": 1794363337,
  "odds_api": {
   "remaining": "485",
   "used": "15",
