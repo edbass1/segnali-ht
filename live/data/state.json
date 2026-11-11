@@ -34,16 +34,6 @@
   }
  },
  "prematch": {
-  "5803649": {
-   "home": 1.95,
-   "draw": 3.4,
-   "away": 3.65,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1794103392,
-   "home_name": "JEF United Chiba",
-   "away_name": "Mito Hollyhock",
-   "league_id": 223
-  },
   "1000014638": {
    "home": 3.6,
    "draw": 3.7,
@@ -1085,10 +1075,10 @@
  },
  "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-11 02:51",
+ "last_scan": "2026-11-11 03:03",
  "requests_last": 2,
- "last_write": "2026-11-11 02:51",
- "last_write_ts": 1794361895,
+ "last_write": "2026-11-11 03:03",
+ "last_write_ts": 1794362616,
  "odds_api": {
   "remaining": "485",
   "used": "15",
