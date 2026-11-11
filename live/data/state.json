@@ -34,26 +34,6 @@
   }
  },
  "prematch": {
-  "6503837": {
-   "home": 2.35,
-   "draw": 3.15,
-   "away": 3.0,
-   "source": "fotmob:Ladbrokes_UK",
-   "ts": 1794101470,
-   "home_name": "Gangwon FC",
-   "away_name": "Jeonbuk Hyundai Motors FC",
-   "league_id": 9080
-  },
-  "6503953": {
-   "home": 2.9,
-   "draw": 3.25,
-   "away": 2.3,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1794101471,
-   "home_name": "Bucheon FC 1995",
-   "away_name": "Pohang Steelers",
-   "league_id": 9080
-  },
   "1000014639": {
    "home": 1.66,
    "draw": 4.0,
@@ -1121,12 +1101,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-11 02:23",
+ "last_scan": "2026-11-11 02:31",
  "requests_last": 2,
- "last_write": "2026-11-11 02:23",
- "last_write_ts": 1794360215,
+ "last_write": "2026-11-11 02:31",
+ "last_write_ts": 1794360695,
  "odds_api": {
   "remaining": "485",
   "used": "15",
