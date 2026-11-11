@@ -28,26 +28,6 @@
  },
  "done": {},
  "prematch": {
-  "5190803": {
-   "home": 1.66,
-   "draw": 3.7,
-   "away": 5.0,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1794154632,
-   "home_name": "Ceará",
-   "away_name": "América-MG",
-   "league_id": 8814
-  },
-  "5190804": {
-   "home": 1.1,
-   "draw": 8.5,
-   "away": 19.0,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1794154632,
-   "home_name": "Goiás",
-   "away_name": "Ponte Preta",
-   "league_id": 8814
-  },
   "1000013265": {
    "unavailable": true,
    "ts": 1794154879,
@@ -152,10 +132,10 @@
  },
  "live_count": 4,
  "candidates_last": 0,
- "last_scan": "2026-11-11 17:02",
- "requests_last": 2,
- "last_write": "2026-11-11 17:02",
- "last_write_ts": 1794412950,
+ "last_scan": "2026-11-11 17:18",
+ "requests_last": 1,
+ "last_write": "2026-11-11 17:18",
+ "last_write_ts": 1794413909,
  "odds_api": {
   "remaining": "485",
   "used": "15",
