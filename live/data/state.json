@@ -73,6 +73,16 @@
    "home_name": "São Bernardo",
    "away_name": "Athletic Club MG",
    "league_id": 8814
+  },
+  "5868541": {
+   "home": 2.25,
+   "draw": 3.1,
+   "away": 3.3,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794597131,
+   "home_name": "Leganés",
+   "away_name": "Burgos CF",
+   "league_id": 140
   }
  },
  "odds_check": {},
@@ -109,12 +119,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 4,
+ "live_count": 21,
  "candidates_last": 0,
- "last_scan": "2026-11-13 13:28",
- "requests_last": 1,
- "last_write": "2026-11-13 13:28",
- "last_write_ts": 1794572907,
+ "last_scan": "2026-11-13 20:12",
+ "requests_last": 3,
+ "last_write": "2026-11-13 20:12",
+ "last_write_ts": 1794597131,
  "odds_api": {
   "remaining": "485",
   "used": "15",
