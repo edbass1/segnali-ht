@@ -83,6 +83,16 @@
    "home_name": "Exeter City",
    "away_name": "Cheltenham Town",
    "league_id": 109
+  },
+  "5868546": {
+   "home": 2.85,
+   "draw": 3.5,
+   "away": 2.25,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794639668,
+   "home_name": "Real Valladolid",
+   "away_name": "Castellón",
+   "league_id": 140
   }
  },
  "odds_check": {},
@@ -119,12 +129,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
+ "live_count": 5,
  "candidates_last": 0,
- "last_scan": "2026-11-14 07:57",
- "requests_last": 1,
- "last_write": "2026-11-14 07:57",
- "last_write_ts": 1794639426,
+ "last_scan": "2026-11-14 08:01",
+ "requests_last": 2,
+ "last_write": "2026-11-14 08:01",
+ "last_write_ts": 1794639668,
  "odds_api": {
   "remaining": "485",
   "used": "15",
