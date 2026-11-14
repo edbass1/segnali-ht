@@ -338,6 +338,16 @@
    "home_name": "Sport Recife",
    "away_name": "Goiás",
    "league_id": 8814
+  },
+  "5868543": {
+   "home": 2.4,
+   "draw": 3.0,
+   "away": 2.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794664860,
+   "home_name": "Real Oviedo",
+   "away_name": "Girona",
+   "league_id": 140
   }
  },
  "odds_check": {},
@@ -374,12 +384,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 48,
- "candidates_last": 1,
- "last_scan": "2026-11-14 14:57",
+ "live_count": 49,
+ "candidates_last": 0,
+ "last_scan": "2026-11-14 15:01",
  "requests_last": 2,
- "last_write": "2026-11-14 14:57",
- "last_write_ts": 1794664621,
+ "last_write": "2026-11-14 15:01",
+ "last_write_ts": 1794664860,
  "odds_api": {
   "remaining": "485",
   "used": "15",
