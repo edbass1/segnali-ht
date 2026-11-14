@@ -223,6 +223,116 @@
    "home_name": "Shrewsbury Town",
    "away_name": "Oldham Athletic",
    "league_id": 109
+  },
+  "5838037": {
+   "home": 3.5,
+   "draw": 3.7,
+   "away": 1.86,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794664380,
+   "home_name": "Swindon Town",
+   "away_name": "Grimsby Town",
+   "league_id": 109
+  },
+  "5868537": {
+   "home": 1.76,
+   "draw": 3.7,
+   "away": 4.1,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794664381,
+   "home_name": "Almería",
+   "away_name": "FC Andorra",
+   "league_id": 140
+  },
+  "5868542": {
+   "home": 1.76,
+   "draw": 3.8,
+   "away": 4.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794664382,
+   "home_name": "Mallorca",
+   "away_name": "Córdoba",
+   "league_id": 140
+  },
+  "5838031": {
+   "home": 1.86,
+   "draw": 3.4,
+   "away": 3.8,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1794664382,
+   "home_name": "Fleetwood Town",
+   "away_name": "Tranmere Rovers",
+   "league_id": 109
+  },
+  "5190811": {
+   "home": 2.85,
+   "draw": 3.55,
+   "away": 2.25,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1794664383,
+   "home_name": "América-MG",
+   "away_name": "Avaí",
+   "league_id": 8814
+  },
+  "5190814": {
+   "home": 1.36,
+   "draw": 4.5,
+   "away": 7.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794664383,
+   "home_name": "Atlético-GO",
+   "away_name": "Cuiabá",
+   "league_id": 8814
+  },
+  "5190817": {
+   "home": 1.39,
+   "draw": 4.33,
+   "away": 7.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1794664384,
+   "home_name": "CRB",
+   "away_name": "Ceará",
+   "league_id": 8814
+  },
+  "5190815": {
+   "home": 2.8,
+   "draw": 3.0,
+   "away": 2.45,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1794664384,
+   "home_name": "Criciúma",
+   "away_name": "Novorizontino",
+   "league_id": 8814
+  },
+  "5190813": {
+   "home": 2.3,
+   "draw": 3.4,
+   "away": 2.88,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794664385,
+   "home_name": "Fortaleza",
+   "away_name": "Vila Nova",
+   "league_id": 8814
+  },
+  "5190818": {
+   "home": 1.36,
+   "draw": 4.2,
+   "away": 7.0,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794664385,
+   "home_name": "Juventude",
+   "away_name": "Botafogo SP",
+   "league_id": 8814
+  },
+  "5190816": {
+   "home": 2.8,
+   "draw": 3.5,
+   "away": 2.3,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794664386,
+   "home_name": "Sport Recife",
+   "away_name": "Goiás",
+   "league_id": 8814
   }
  },
  "odds_check": {},
@@ -259,12 +369,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 66,
- "candidates_last": 1,
- "last_scan": "2026-11-14 14:49",
- "requests_last": 14,
- "last_write": "2026-11-14 14:49",
- "last_write_ts": 1794664147,
+ "live_count": 58,
+ "candidates_last": 0,
+ "last_scan": "2026-11-14 14:53",
+ "requests_last": 12,
+ "last_write": "2026-11-14 14:53",
+ "last_write_ts": 1794664386,
  "odds_api": {
   "remaining": "485",
   "used": "15",
