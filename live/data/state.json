@@ -109,12 +109,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 6,
+ "live_count": 5,
  "candidates_last": 0,
- "last_scan": "2026-11-14 02:00",
+ "last_scan": "2026-11-14 02:04",
  "requests_last": 2,
- "last_write": "2026-11-14 02:00",
- "last_write_ts": 1794618001,
+ "last_write": "2026-11-14 02:04",
+ "last_write_ts": 1794618240,
  "odds_api": {
   "remaining": "485",
   "used": "15",
