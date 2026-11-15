@@ -1,10 +1,5 @@
 {
  "sent": {
-  "5739540:favht": {
-   "t": 1793541027,
-   "time": "2026-11-01 14:50",
-   "strategy": "favht"
-  },
   "1000019633:favht": {
    "t": 1793904416,
    "time": "2026-11-05 19:46",
@@ -71,6 +66,16 @@
    "t": 1794696467,
    "r": "prematch 2,10 fuori range 1,25-1,60",
    "strategy": "favht"
+  },
+  "5868540:favht": {
+   "t": 1794760114,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5868540:lay_sfav": {
+   "t": 1794760114,
+   "r": "prematch favorita 1,83 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -403,6 +408,26 @@
    "home_name": "Granada",
    "away_name": "Las Palmas",
    "league_id": 140
+  },
+  "5868538": {
+   "home": 1.44,
+   "draw": 4.0,
+   "away": 5.75,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1794760113,
+   "home_name": "Eibar",
+   "away_name": "Cádiz",
+   "league_id": 140
+  },
+  "5868539": {
+   "home": 2.4,
+   "draw": 2.75,
+   "away": 3.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1794760114,
+   "home_name": "Eldense",
+   "away_name": "Sabadell",
+   "league_id": 140
   }
  },
  "odds_check": {},
@@ -439,12 +464,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 2,
- "candidates_last": 0,
- "last_scan": "2026-11-15 11:15",
- "requests_last": 1,
- "last_write": "2026-11-15 11:15",
- "last_write_ts": 1794737700,
+ "live_count": 49,
+ "candidates_last": 1,
+ "last_scan": "2026-11-15 17:28",
+ "requests_last": 4,
+ "last_write": "2026-11-15 17:28",
+ "last_write_ts": 1794760114,
  "odds_api": {
   "remaining": "485",
   "used": "15",
