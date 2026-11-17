@@ -396,10 +396,10 @@
  },
  "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-17 02:43",
+ "last_scan": "2026-11-17 02:47",
  "requests_last": 2,
- "last_write": "2026-11-17 02:43",
- "last_write_ts": 1794879808,
+ "last_write": "2026-11-17 02:47",
+ "last_write_ts": 1794880047,
  "odds_api": {
   "remaining": "485",
   "used": "15",
