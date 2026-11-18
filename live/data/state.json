@@ -47,6 +47,26 @@
    "home_name": "Remo",
    "away_name": "Chapecoense",
    "league_id": 268
+  },
+  "5103709": {
+   "home": 2.55,
+   "draw": 3.45,
+   "away": 2.6,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1795023006,
+   "home_name": "Cruzeiro",
+   "away_name": "Palmeiras",
+   "league_id": 268
+  },
+  "5103704": {
+   "home": 1.17,
+   "draw": 7.0,
+   "away": 13.0,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795023007,
+   "home_name": "Flamengo",
+   "away_name": "Athletico Paranaense",
+   "league_id": 268
   }
  },
  "odds_check": {},
@@ -85,10 +105,10 @@
  },
  "live_count": 5,
  "candidates_last": 0,
- "last_scan": "2026-11-18 18:26",
- "requests_last": 2,
- "last_write": "2026-11-18 18:26",
- "last_write_ts": 1795022765,
+ "last_scan": "2026-11-18 18:30",
+ "requests_last": 4,
+ "last_write": "2026-11-18 18:30",
+ "last_write_ts": 1795023007,
  "odds_api": {
   "remaining": "485",
   "used": "15",
