@@ -67,6 +67,26 @@
    "home_name": "Flamengo",
    "away_name": "Athletico Paranaense",
    "league_id": 268
+  },
+  "5103707": {
+   "home": 1.62,
+   "draw": 3.75,
+   "away": 5.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795044258,
+   "home_name": "Corinthians",
+   "away_name": "Botafogo",
+   "league_id": 268
+  },
+  "5103710": {
+   "home": 2.3,
+   "draw": 3.3,
+   "away": 2.63,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795044259,
+   "home_name": "Grêmio",
+   "away_name": "Bahia",
+   "league_id": 268
   }
  },
  "odds_check": {},
@@ -103,12 +123,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 9,
+ "live_count": 3,
  "candidates_last": 0,
- "last_scan": "2026-11-18 19:06",
- "requests_last": 2,
- "last_write": "2026-11-18 19:06",
- "last_write_ts": 1795025167,
+ "last_scan": "2026-11-19 00:24",
+ "requests_last": 4,
+ "last_write": "2026-11-19 00:24",
+ "last_write_ts": 1795044259,
  "odds_api": {
   "remaining": "485",
   "used": "15",
