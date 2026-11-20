@@ -396,6 +396,16 @@
    "unavailable": true,
    "ts": 1795200748,
    "source": "none"
+  },
+  "1000014643": {
+   "home": 2.45,
+   "draw": 3.6,
+   "away": 2.55,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795201221,
+   "home_name": "Puebla",
+   "away_name": "Atlético de San Luis",
+   "league_id": 230
   }
  },
  "odds_check": {},
@@ -432,12 +442,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 34,
+ "live_count": 33,
  "candidates_last": 2,
- "last_scan": "2026-11-20 19:56",
- "requests_last": 9,
- "last_write": "2026-11-20 19:56",
- "last_write_ts": 1795200982,
+ "last_scan": "2026-11-20 20:00",
+ "requests_last": 10,
+ "last_write": "2026-11-20 20:00",
+ "last_write_ts": 1795201222,
  "odds_api": {
   "remaining": "485",
   "used": "15",
