@@ -113,6 +113,16 @@
    "home_name": "São Paulo",
    "away_name": "Fluminense",
    "league_id": 268
+  },
+  "5847235": {
+   "home": 2.3,
+   "draw": 3.47,
+   "away": 3.43,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1795170756,
+   "home_name": "FC Rostov",
+   "away_name": "Krylya Sovetov Samara",
+   "league_id": 63
   }
  },
  "odds_check": {},
@@ -149,12 +159,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 7,
+ "live_count": 8,
  "candidates_last": 0,
- "last_scan": "2026-11-20 11:28",
- "requests_last": 1,
- "last_write": "2026-11-20 11:28",
- "last_write_ts": 1795170515,
+ "last_scan": "2026-11-20 11:32",
+ "requests_last": 3,
+ "last_write": "2026-11-20 11:32",
+ "last_write_ts": 1795170756,
  "odds_api": {
   "remaining": "485",
   "used": "15",
