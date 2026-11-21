@@ -106,6 +106,91 @@
    "t": 1795249020,
    "r": "prematch favorita 2,10 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5881225:favht": {
+   "t": 1795274978,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5881228:favht": {
+   "t": 1795274983,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5881228:lay_sfav": {
+   "t": 1795274983,
+   "r": "quote prematch pari, nessun favorito",
+   "strategy": "lay_sfav"
+  },
+  "5881229:favht": {
+   "t": 1795274988,
+   "r": "prematch 2,05 fuori range 1,25-1,60",
+   "strategy": "favht"
+  },
+  "5847238:favht": {
+   "t": 1795275002,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5847238:lay_sfav": {
+   "t": 1795275002,
+   "r": "prematch favorita 1,58 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5749753:favht": {
+   "t": 1795275003,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000024309:favht": {
+   "t": 1795275014,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000024309:lay_sfav": {
+   "t": 1795275014,
+   "r": "prematch favorita 1,62 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5967152:favht": {
+   "t": 1795275014,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5967152:lay_sfav": {
+   "t": 1795275014,
+   "r": "prematch favorita 2,10 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5967155:favht": {
+   "t": 1795275015,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5967155:lay_sfav": {
+   "t": 1795275015,
+   "r": "prematch favorita 1,60 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5967156:favht": {
+   "t": 1795275015,
+   "r": "fuori finestra",
+   "strategy": "favht"
+  },
+  "5967156:lay_sfav": {
+   "t": 1795275015,
+   "r": "fuori finestra",
+   "strategy": "lay_sfav"
+  },
+  "5967157:favht": {
+   "t": 1795275016,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5967157:lay_sfav": {
+   "t": 1795275016,
+   "r": "prematch favorita 2,10 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -914,6 +999,176 @@
    "home_name": "Südtirol",
    "away_name": "Cremonese",
    "league_id": 86
+  },
+  "5905978": {
+   "home": 1.95,
+   "draw": 3.6,
+   "away": 3.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795274961,
+   "home_name": "Alemannia Aachen",
+   "away_name": "Waldhof Mannheim",
+   "league_id": 208
+  },
+  "5781805": {
+   "home": 4.2,
+   "draw": 4.1,
+   "away": 1.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795274962,
+   "home_name": "NEC Nijmegen",
+   "away_name": "PSV Eindhoven",
+   "league_id": 57
+  },
+  "5846026": {
+   "home": 1.3,
+   "draw": 5.25,
+   "away": 7.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795274962,
+   "home_name": "LASK",
+   "away_name": "Hartberg",
+   "league_id": 38
+  },
+  "5846027": {
+   "home": 1.81,
+   "draw": 3.8,
+   "away": 3.75,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795274963,
+   "home_name": "WSG Tirol",
+   "away_name": "Austria Lustenau",
+   "league_id": 38
+  },
+  "5904810": {
+   "home": 5.0,
+   "draw": 4.0,
+   "away": 1.6,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795274963,
+   "home_name": "Kocaelispor",
+   "away_name": "Fenerbahçe",
+   "league_id": 71
+  },
+  "5802996": {
+   "home": 6.0,
+   "draw": 5.0,
+   "away": 1.44,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795274964,
+   "home_name": "Nice",
+   "away_name": "Paris Saint-Germain",
+   "league_id": 53
+  },
+  "5967153": {
+   "home": 3.7,
+   "draw": 3.5,
+   "away": 1.8,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795274965,
+   "home_name": "Catanzaro",
+   "away_name": "Palermo",
+   "league_id": 86
+  },
+  "5804048": {
+   "home": 5.0,
+   "draw": 3.7,
+   "away": 1.57,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795274965,
+   "home_name": "Zagłębie Lubin",
+   "away_name": "Górnik Zabrze",
+   "league_id": 196
+  },
+  "5107663": {
+   "home": 2.35,
+   "draw": 3.3,
+   "away": 2.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795274966,
+   "home_name": "GAIS",
+   "away_name": "Västerås SK",
+   "league_id": 67
+  },
+  "5847232": {
+   "home": 1.75,
+   "draw": 4.35,
+   "away": 4.66,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1795274967,
+   "home_name": "CSKA Moscow",
+   "away_name": "FK Akhmat",
+   "league_id": 63
+  },
+  "5749758": {
+   "home": 12.0,
+   "draw": 6.25,
+   "away": 1.22,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795274968,
+   "home_name": "Parma",
+   "away_name": "Roma",
+   "league_id": 55
+  },
+  "5105050": {
+   "home": 1.47,
+   "draw": 4.75,
+   "away": 5.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795274968,
+   "home_name": "Vålerenga",
+   "away_name": "Start",
+   "league_id": 59
+  },
+  "5881225": {
+   "home": 1.3,
+   "draw": 6.5,
+   "away": 7.5,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795274978,
+   "event_id": "SSCCdgUi",
+   "league_id": 54
+  },
+  "5881227": {
+   "unavailable": true,
+   "ts": 1795274979,
+   "source": "none"
+  },
+  "5881228": {
+   "home": 2.5,
+   "draw": 4.0,
+   "away": 2.5,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795274983,
+   "event_id": "zgGKfXb4",
+   "league_id": 54
+  },
+  "5881229": {
+   "home": 3.5,
+   "draw": 3.5,
+   "away": 2.05,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795274988,
+   "event_id": "G6zXl2Sr",
+   "league_id": 54
+  },
+  "5847238": {
+   "home": 5.2,
+   "draw": 3.8,
+   "away": 1.58,
+   "source": "betexplorer:stake.com",
+   "ts": 1795275002,
+   "event_id": "SOrnnTAE",
+   "league_id": 63
+  },
+  "1000024309": {
+   "home": 1.62,
+   "draw": 3.6,
+   "away": 5.0,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795275014,
+   "event_id": "OAvEu92t",
+   "league_id": 86
   }
  },
  "odds_check": {},
@@ -950,12 +1205,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 7,
- "candidates_last": 1,
- "last_scan": "2026-11-21 09:17",
- "requests_last": 12,
- "last_write": "2026-11-21 09:17",
- "last_write_ts": 1795249020,
+ "live_count": 217,
+ "candidates_last": 11,
+ "last_scan": "2026-11-21 16:30",
+ "requests_last": 48,
+ "last_write": "2026-11-21 16:30",
+ "last_write_ts": 1795275016,
  "odds_api": {
   "remaining": "485",
   "used": "15",
