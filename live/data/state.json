@@ -1389,6 +1389,106 @@
    "home_name": "Lens",
    "away_name": "Toulouse",
    "league_id": 53
+  },
+  "5802992": {
+   "home": 2.38,
+   "draw": 3.25,
+   "away": 3.25,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795275683,
+   "home_name": "Lille",
+   "away_name": "Lyon",
+   "league_id": 53
+  },
+  "5802995": {
+   "home": 1.4,
+   "draw": 4.75,
+   "away": 8.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795275683,
+   "home_name": "Monaco",
+   "away_name": "Auxerre",
+   "league_id": 53
+  },
+  "5802998": {
+   "home": 2.15,
+   "draw": 3.6,
+   "away": 3.0,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795275684,
+   "home_name": "Strasbourg",
+   "away_name": "Brest",
+   "league_id": 53
+  },
+  "5868139": {
+   "home": 1.15,
+   "draw": 8.5,
+   "away": 17.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795275684,
+   "home_name": "Real Madrid",
+   "away_name": "Celta Vigo",
+   "league_id": 87
+  },
+  "5781808": {
+   "home": 2.8,
+   "draw": 3.8,
+   "away": 2.3,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795275685,
+   "home_name": "FC Groningen",
+   "away_name": "SC Heerenveen",
+   "league_id": 57
+  },
+  "5781807": {
+   "home": 2.05,
+   "draw": 3.75,
+   "away": 3.2,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1795275685,
+   "home_name": "Telstar",
+   "away_name": "PEC Zwolle",
+   "league_id": 57
+  },
+  "5793981": {
+   "home": 5.25,
+   "draw": 4.33,
+   "away": 1.53,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795275686,
+   "home_name": "Motherwell",
+   "away_name": "Rangers",
+   "league_id": 64
+  },
+  "5868557": {
+   "home": 3.25,
+   "draw": 3.0,
+   "away": 2.32,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795275687,
+   "home_name": "Tenerife",
+   "away_name": "Mallorca",
+   "league_id": 140
+  },
+  "5103722": {
+   "home": 1.44,
+   "draw": 4.5,
+   "away": 6.0,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795275689,
+   "home_name": "Bahia",
+   "away_name": "Coritiba",
+   "league_id": 268
+  },
+  "1000013273": {
+   "home": 3.6,
+   "draw": 3.6,
+   "away": 1.81,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795275690,
+   "home_name": "O'Higgins",
+   "away_name": "Universidad de Chile",
+   "league_id": 273
   }
  },
  "odds_check": {},
@@ -1425,12 +1525,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 225,
+ "live_count": 222,
  "candidates_last": 2,
- "last_scan": "2026-11-21 16:37",
- "requests_last": 19,
- "last_write": "2026-11-21 16:37",
- "last_write_ts": 1795275449,
+ "last_scan": "2026-11-21 16:41",
+ "requests_last": 23,
+ "last_write": "2026-11-21 16:41",
+ "last_write_ts": 1795275691,
  "odds_api": {
   "remaining": "485",
   "used": "15",
