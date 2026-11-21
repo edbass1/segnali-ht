@@ -191,6 +191,11 @@
    "t": 1795275016,
    "r": "prematch favorita 2,10 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5881231:favht": {
+   "t": 1795275966,
+   "r": "non è 0-0",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -1489,6 +1494,15 @@
    "home_name": "O'Higgins",
    "away_name": "Universidad de Chile",
    "league_id": 273
+  },
+  "5881231": {
+   "home": 6.0,
+   "draw": 5.0,
+   "away": 1.45,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795275966,
+   "event_id": "Cxt0z3Dk",
+   "league_id": 54
   }
  },
  "odds_check": {},
@@ -1525,12 +1539,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 222,
- "candidates_last": 2,
- "last_scan": "2026-11-21 16:41",
- "requests_last": 23,
- "last_write": "2026-11-21 16:41",
- "last_write_ts": 1795275691,
+ "live_count": 219,
+ "candidates_last": 3,
+ "last_scan": "2026-11-21 16:46",
+ "requests_last": 17,
+ "last_write": "2026-11-21 16:46",
+ "last_write_ts": 1795275966,
  "odds_api": {
   "remaining": "485",
   "used": "15",
