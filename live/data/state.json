@@ -586,6 +586,26 @@
    "t": 1795363167,
    "r": "prematch 2,35 fuori range 1,25-1,60",
    "strategy": "favht"
+  },
+  "5868137:favht": {
+   "t": 1795363644,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5868137:lay_sfav": {
+   "t": 1795363644,
+   "r": "prematch favorita 2,05 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5868556:favht": {
+   "t": 1795363651,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5868556:lay_sfav": {
+   "t": 1795363651,
+   "r": "prematch favorita 2,15 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -2759,6 +2779,84 @@
    "home_name": "Athletico Paranaense",
    "away_name": "Remo",
    "league_id": 268
+  },
+  "5749751": {
+   "home": 5.5,
+   "draw": 4.6,
+   "away": 1.55,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795363625,
+   "home_name": "Atalanta",
+   "away_name": "Inter",
+   "league_id": 55
+  },
+  "5802994": {
+   "home": 1.4,
+   "draw": 4.75,
+   "away": 7.5,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795363626,
+   "home_name": "Marseille",
+   "away_name": "Le Mans",
+   "league_id": 53
+  },
+  "5868134": {
+   "home": 6.25,
+   "draw": 3.9,
+   "away": 1.55,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795363628,
+   "home_name": "Getafe",
+   "away_name": "Atlético Madrid",
+   "league_id": 87
+  },
+  "5868548": {
+   "home": 2.0,
+   "draw": 3.0,
+   "away": 3.75,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795363629,
+   "home_name": "Burgos CF",
+   "away_name": "Albacete",
+   "league_id": 140
+  },
+  "1000013268": {
+   "home": 2.15,
+   "draw": 3.5,
+   "away": 3.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795363630,
+   "home_name": "Colo Colo",
+   "away_name": "Universidad Católica",
+   "league_id": 273
+  },
+  "5103714": {
+   "home": 1.5,
+   "draw": 3.8,
+   "away": 5.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795363631,
+   "home_name": "Fluminense",
+   "away_name": "Mirassol",
+   "league_id": 268
+  },
+  "5868137": {
+   "home": 3.2,
+   "draw": 3.9,
+   "away": 2.05,
+   "source": "betexplorer:bet365",
+   "ts": 1795363644,
+   "event_id": "QJ4RzMV0",
+   "league_id": 87
+  },
+  "5868556": {
+   "home": 2.15,
+   "draw": 3.4,
+   "away": 3.2,
+   "source": "betexplorer:bet365",
+   "ts": 1795363651,
+   "event_id": "OOsgtqj4",
+   "league_id": 140
   }
  },
  "odds_check": {
@@ -2801,12 +2899,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 77,
- "candidates_last": 3,
- "last_scan": "2026-11-22 17:03",
- "requests_last": 20,
- "last_write": "2026-11-22 17:03",
- "last_write_ts": 1795363396,
+ "live_count": 81,
+ "candidates_last": 5,
+ "last_scan": "2026-11-22 17:07",
+ "requests_last": 29,
+ "last_write": "2026-11-22 17:07",
+ "last_write_ts": 1795363653,
  "odds_api": {
   "remaining": "481",
   "used": "19",
