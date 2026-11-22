@@ -640,6 +640,16 @@
    "t": 1795366268,
    "r": "internazionale",
    "strategy": "lay_sfav"
+  },
+  "1000013268:favht": {
+   "t": 1795384437,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "1000013268:lay_sfav": {
+   "t": 1795384437,
+   "r": "prematch favorita 2,15 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -2998,12 +3008,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 17,
- "candidates_last": 0,
- "last_scan": "2026-11-22 22:49",
- "requests_last": 12,
- "last_write": "2026-11-22 22:49",
- "last_write_ts": 1795384195,
+ "live_count": 16,
+ "candidates_last": 1,
+ "last_scan": "2026-11-22 22:53",
+ "requests_last": 13,
+ "last_write": "2026-11-22 22:53",
+ "last_write_ts": 1795384437,
  "odds_api": {
   "remaining": "479",
   "used": "21",
