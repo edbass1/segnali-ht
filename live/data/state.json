@@ -643,36 +643,6 @@
   }
  },
  "prematch": {
-  "5103705": {
-   "home": 1.5,
-   "draw": 4.2,
-   "away": 5.8,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795124671,
-   "home_name": "Vasco da Gama",
-   "away_name": "Internacional",
-   "league_id": 268
-  },
-  "5103712": {
-   "home": 2.45,
-   "draw": 3.4,
-   "away": 2.7,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795124672,
-   "home_name": "Vitória",
-   "away_name": "RB Bragantino",
-   "league_id": 268
-  },
-  "5103706": {
-   "home": 2.4,
-   "draw": 3.1,
-   "away": 3.1,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795124672,
-   "home_name": "São Paulo",
-   "away_name": "Fluminense",
-   "league_id": 268
-  },
   "5847235": {
    "home": 2.3,
    "draw": 3.47,
@@ -3028,12 +2998,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 18,
+ "live_count": 19,
  "candidates_last": 0,
- "last_scan": "2026-11-22 22:41",
+ "last_scan": "2026-11-22 22:45",
  "requests_last": 12,
- "last_write": "2026-11-22 22:41",
- "last_write_ts": 1795383715,
+ "last_write": "2026-11-22 22:45",
+ "last_write_ts": 1795383956,
  "odds_api": {
   "remaining": "479",
   "used": "21",
