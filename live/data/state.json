@@ -3013,11 +3013,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 6,
- "candidates_last": 1,
- "last_scan": "2026-11-23 02:57",
- "requests_last": 10,
- "last_write": "2026-11-23 02:57",
- "last_write_ts": 1795399073,
+ "candidates_last": 0,
+ "last_scan": "2026-11-23 03:01",
+ "requests_last": 2,
+ "last_write": "2026-11-23 03:01",
+ "last_write_ts": 1795399306,
  "odds_api": {
   "remaining": "479",
   "used": "21",
