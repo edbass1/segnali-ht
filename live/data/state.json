@@ -613,16 +613,6 @@
   }
  },
  "prematch": {
-  "5804042": {
-   "home": 2.6,
-   "draw": 3.5,
-   "away": 2.4,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795172435,
-   "home_name": "Piast Gliwice",
-   "away_name": "Korona Kielce",
-   "league_id": 196
-  },
   "5803317": {
    "home": 2.25,
    "draw": 3.1,
@@ -2903,6 +2893,16 @@
    "home_name": "Asteras Tripolis",
    "away_name": "Aris Thessaloniki",
    "league_id": 135
+  },
+  "5904805": {
+   "home": 1.83,
+   "draw": 3.5,
+   "away": 3.4,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795431834,
+   "home_name": "Başakşehir",
+   "away_name": "Çorum FK",
+   "league_id": 71
   }
  },
  "odds_check": {
@@ -2950,12 +2950,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 0,
+ "live_count": 1,
  "candidates_last": 0,
- "last_scan": "2026-11-23 11:59",
- "requests_last": 1,
- "last_write": "2026-11-23 11:59",
- "last_write_ts": 1795431594,
+ "last_scan": "2026-11-23 12:03",
+ "requests_last": 2,
+ "last_write": "2026-11-23 12:03",
+ "last_write_ts": 1795431834,
  "odds_api": {
   "remaining": "479",
   "used": "21",
