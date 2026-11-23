@@ -1,41 +1,6 @@
 {
  "sent": {},
  "done": {
-  "1000017583:favht": {
-   "t": 1795245914,
-   "r": "prematch 2,35 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5803658:favht": {
-   "t": 1795245914,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5803658:lay_sfav": {
-   "t": 1795245914,
-   "r": "prematch favorita 1,62 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5803662:favht": {
-   "t": 1795245915,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5803662:lay_sfav": {
-   "t": 1795245915,
-   "r": "prematch favorita 1,75 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5803659:favht": {
-   "t": 1795247816,
-   "r": "prematch 2,10 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5803659:lay_sfav": {
-   "t": 1795249020,
-   "r": "prematch favorita 2,10 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
   "5881225:favht": {
    "t": 1795274978,
    "r": "non è 0-0",
@@ -2965,6 +2930,16 @@
    "ts": 1795399073,
    "event_id": "YejDLHu3",
    "league_id": 112
+  },
+  "5943295": {
+   "home": 3.3,
+   "draw": 2.8,
+   "away": 2.1,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795429435,
+   "home_name": "Asteras Tripolis",
+   "away_name": "Aris Thessaloniki",
+   "league_id": 135
   }
  },
  "odds_check": {
@@ -3012,12 +2987,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 5,
+ "live_count": 0,
  "candidates_last": 0,
- "last_scan": "2026-11-23 03:49",
+ "last_scan": "2026-11-23 11:23",
  "requests_last": 2,
- "last_write": "2026-11-23 03:49",
- "last_write_ts": 1795402186,
+ "last_write": "2026-11-23 11:23",
+ "last_write_ts": 1795429435,
  "odds_api": {
   "remaining": "479",
   "used": "21",
