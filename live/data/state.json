@@ -613,15 +613,6 @@
   }
  },
  "prematch": {
-  "5803661": {
-   "home": 1.46,
-   "draw": 4.33,
-   "away": 6.25,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795172200,
-   "event_id": "GMlXnanI",
-   "league_id": 223
-  },
   "5804042": {
    "home": 2.6,
    "draw": 3.5,
@@ -2961,10 +2952,10 @@
  },
  "live_count": 0,
  "candidates_last": 0,
- "last_scan": "2026-11-23 11:55",
+ "last_scan": "2026-11-23 11:59",
  "requests_last": 1,
- "last_write": "2026-11-23 11:55",
- "last_write_ts": 1795431354,
+ "last_write": "2026-11-23 11:59",
+ "last_write_ts": 1795431594,
  "odds_api": {
   "remaining": "479",
   "used": "21",
