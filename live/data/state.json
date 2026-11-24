@@ -1,121 +1,6 @@
 {
  "sent": {},
  "done": {
-  "5881224:favht": {
-   "t": 1795363158,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5881224:lay_sfav": {
-   "t": 1795363158,
-   "r": "prematch favorita 2,30 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5943300:favht": {
-   "t": 1795363167,
-   "r": "prematch 2,35 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5868137:favht": {
-   "t": 1795363644,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5868137:lay_sfav": {
-   "t": 1795363644,
-   "r": "prematch favorita 2,05 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5868556:favht": {
-   "t": 1795363651,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5868556:lay_sfav": {
-   "t": 1795363651,
-   "r": "prematch favorita 2,15 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5905984:favht": {
-   "t": 1795364350,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5905984:lay_sfav": {
-   "t": 1795364350,
-   "r": "prematch favorita 2,35 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5107667:favht": {
-   "t": 1795364357,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5804298:favht": {
-   "t": 1795364364,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5804298:lay_sfav": {
-   "t": 1795364364,
-   "r": "prematch favorita 2,10 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5804299:favht": {
-   "t": 1795364368,
-   "r": "prematch 1,71 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5107667:lay_sfav": {
-   "t": 1795364593,
-   "r": "prematch favorita 1,96 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5739548:favht": {
-   "t": 1795364596,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5943299:favht": {
-   "t": 1795365074,
-   "r": "prematch 1,15 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5846024:favht": {
-   "t": 1795366264,
-   "r": "prematch 1,66 fuori range 1,25-1,60",
-   "strategy": "favht"
-  },
-  "5105054:favht": {
-   "t": 1795366265,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5105054:lay_sfav": {
-   "t": 1795366265,
-   "r": "prematch favorita 2,30 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5847237:favht": {
-   "t": 1795366267,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
-  "5847237:lay_sfav": {
-   "t": 1795366267,
-   "r": "prematch favorita 2,32 sopra 1,45",
-   "strategy": "lay_sfav"
-  },
-  "5904803:favht": {
-   "t": 1795366268,
-   "r": "internazionale",
-   "strategy": "favht"
-  },
-  "5904803:lay_sfav": {
-   "t": 1795366268,
-   "r": "internazionale",
-   "strategy": "lay_sfav"
-  },
   "1000013268:favht": {
    "t": 1795384437,
    "r": "non è 0-0",
@@ -138,1146 +23,6 @@
   }
  },
  "prematch": {
-  "6503839": {
-   "home": 2.4,
-   "draw": 3.1,
-   "away": 2.8,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795245895,
-   "home_name": "Gangwon FC",
-   "away_name": "Daejeon Hana Citizen",
-   "league_id": 9080
-  },
-  "6503840": {
-   "home": 2.75,
-   "draw": 3.3,
-   "away": 2.3,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795245896,
-   "home_name": "Incheon United",
-   "away_name": "Ulsan HD FC",
-   "league_id": 9080
-  },
-  "5847236": {
-   "home": 2.81,
-   "draw": 3.3,
-   "away": 2.81,
-   "source": "fotmob:1xBet_Spain",
-   "ts": 1795245900,
-   "home_name": "FC Orenburg",
-   "away_name": "Baltika",
-   "league_id": 63
-  },
-  "5904807": {
-   "home": 2.3,
-   "draw": 3.5,
-   "away": 2.8,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795245901,
-   "home_name": "Gençlerbirliği",
-   "away_name": "Gaziantep FK",
-   "league_id": 71
-  },
-  "5881729": {
-   "home": 1.67,
-   "draw": 3.75,
-   "away": 3.9,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795245902,
-   "home_name": "Hannover 96",
-   "away_name": "Greuther Fürth",
-   "league_id": 146
-  },
-  "5881732": {
-   "home": 1.8,
-   "draw": 3.9,
-   "away": 3.9,
-   "source": "fotmob:Ladbrokes_UK",
-   "ts": 1795245902,
-   "home_name": "1. FC Nürnberg",
-   "away_name": "Eintracht Braunschweig",
-   "league_id": 146
-  },
-  "5881734": {
-   "home": 1.57,
-   "draw": 4.2,
-   "away": 4.75,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795245903,
-   "home_name": "Wolfsburg",
-   "away_name": "Holstein Kiel",
-   "league_id": 146
-  },
-  "5847231": {
-   "home": 2.11,
-   "draw": 3.54,
-   "away": 3.85,
-   "source": "fotmob:1xBet_Spain",
-   "ts": 1795245904,
-   "home_name": "Akron Togliatti",
-   "away_name": "Fakel",
-   "league_id": 63
-  },
-  "5795522": {
-   "home": 1.4,
-   "draw": 5.35,
-   "away": 7.75,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795245905,
-   "home_name": "Manchester City",
-   "away_name": "Fulham",
-   "league_id": 47
-  },
-  "5836938": {
-   "home": 2.57,
-   "draw": 3.5,
-   "away": 2.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795245906,
-   "home_name": "Millwall",
-   "away_name": "Queens Park Rangers",
-   "league_id": 48
-  },
-  "5836939": {
-   "home": 1.8,
-   "draw": 4.05,
-   "away": 3.9,
-   "source": "fotmob:Ladbrokes_UK",
-   "ts": 1795245906,
-   "home_name": "Norwich City",
-   "away_name": "Cardiff City",
-   "league_id": 48
-  },
-  "1000017583": {
-   "home": 2.65,
-   "draw": 3.75,
-   "away": 2.35,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795245914,
-   "event_id": "f3UcRiKi",
-   "league_id": 113
-  },
-  "5836941": {
-   "home": 1.3,
-   "draw": 5.5,
-   "away": 8.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795246137,
-   "home_name": "Southampton",
-   "away_name": "Derby County",
-   "league_id": 48
-  },
-  "5837268": {
-   "home": 2.1,
-   "draw": 3.7,
-   "away": 3.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795246138,
-   "home_name": "Blackpool",
-   "away_name": "Wigan Athletic",
-   "league_id": 108
-  },
-  "5837278": {
-   "home": 1.35,
-   "draw": 4.75,
-   "away": 8.0,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795246139,
-   "home_name": "Reading",
-   "away_name": "Bromley",
-   "league_id": 108
-  },
-  "5838044": {
-   "home": 2.55,
-   "draw": 3.4,
-   "away": 2.55,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795246140,
-   "home_name": "Gillingham",
-   "away_name": "Crewe Alexandra",
-   "league_id": 109
-  },
-  "5838046": {
-   "home": 1.85,
-   "draw": 3.7,
-   "away": 4.05,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795246140,
-   "home_name": "Newport County",
-   "away_name": "Swindon Town",
-   "league_id": 109
-  },
-  "5868131": {
-   "home": 2.3,
-   "draw": 3.25,
-   "away": 3.25,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795246141,
-   "home_name": "Deportivo Alavés",
-   "away_name": "Deportivo A Coruña",
-   "league_id": 87
-  },
-  "5905980": {
-   "home": 1.53,
-   "draw": 3.9,
-   "away": 4.75,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795246142,
-   "home_name": "Fortuna Düsseldorf",
-   "away_name": "Sonnenhof Großaspach",
-   "league_id": 208
-  },
-  "5905981": {
-   "home": 2.38,
-   "draw": 3.4,
-   "away": 2.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795246142,
-   "home_name": "Fortuna Köln",
-   "away_name": "Meppen",
-   "league_id": 208
-  },
-  "5905983": {
-   "home": 1.62,
-   "draw": 3.9,
-   "away": 4.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795246144,
-   "home_name": "Jahn Regensburg",
-   "away_name": "Würzburger Kickers",
-   "league_id": 208
-  },
-  "5905987": {
-   "home": 3.5,
-   "draw": 4.0,
-   "away": 1.73,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795246145,
-   "home_name": "SC Verl",
-   "away_name": "RW Essen",
-   "league_id": 208
-  },
-  "5105052": {
-   "home": 3.7,
-   "draw": 3.8,
-   "away": 1.75,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795246146,
-   "home_name": "Tromsø",
-   "away_name": "Viking",
-   "league_id": 59
-  },
-  "5803319": {
-   "home": 3.0,
-   "draw": 3.4,
-   "away": 2.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795246377,
-   "home_name": "Laval",
-   "away_name": "Montpellier",
-   "league_id": 110
-  },
-  "5868555": {
-   "home": 2.2,
-   "draw": 2.8,
-   "away": 3.3,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795246377,
-   "home_name": "Sabadell",
-   "away_name": "Granada",
-   "league_id": 140
-  },
-  "5904806": {
-   "home": 1.8,
-   "draw": 3.5,
-   "away": 3.6,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795246378,
-   "home_name": "Amed Sportif",
-   "away_name": "Rizespor",
-   "league_id": 71
-  },
-  "5904809": {
-   "home": 1.13,
-   "draw": 7.0,
-   "away": 11.0,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795246379,
-   "home_name": "Galatasaray",
-   "away_name": "Samsunspor",
-   "league_id": 71
-  },
-  "5804040": {
-   "home": 2.55,
-   "draw": 3.4,
-   "away": 2.45,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795247337,
-   "home_name": "Cracovia",
-   "away_name": "Jagiellonia Białystok",
-   "league_id": 196
-  },
-  "5749753": {
-   "home": 1.25,
-   "draw": 6.15,
-   "away": 11.2,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795248057,
-   "home_name": "Como",
-   "away_name": "Cagliari",
-   "league_id": 55
-  },
-  "5749755": {
-   "home": 1.44,
-   "draw": 4.75,
-   "away": 6.5,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795248058,
-   "home_name": "Lazio",
-   "away_name": "Lecce",
-   "league_id": 55
-  },
-  "5107661": {
-   "home": 2.0,
-   "draw": 3.8,
-   "away": 2.88,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795248059,
-   "home_name": "AIK",
-   "away_name": "Degerfors",
-   "league_id": 67
-  },
-  "5107666": {
-   "home": 3.3,
-   "draw": 3.4,
-   "away": 2.1,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795248060,
-   "home_name": "Mjällby",
-   "away_name": "Malmö FF",
-   "league_id": 67
-  },
-  "5967152": {
-   "home": 2.1,
-   "draw": 2.9,
-   "away": 3.3,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795248063,
-   "home_name": "Carrarese",
-   "away_name": "Virtus Entella",
-   "league_id": 86
-  },
-  "5967155": {
-   "home": 1.6,
-   "draw": 3.8,
-   "away": 5.0,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795248064,
-   "home_name": "Modena",
-   "away_name": "Juve Stabia",
-   "league_id": 86
-  },
-  "5967156": {
-   "home": 2.65,
-   "draw": 3.2,
-   "away": 2.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795248064,
-   "home_name": "Sampdoria",
-   "away_name": "Benevento",
-   "league_id": 86
-  },
-  "5967157": {
-   "home": 3.5,
-   "draw": 3.1,
-   "away": 2.1,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795248065,
-   "home_name": "Südtirol",
-   "away_name": "Cremonese",
-   "league_id": 86
-  },
-  "5905978": {
-   "home": 1.95,
-   "draw": 3.6,
-   "away": 3.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795274961,
-   "home_name": "Alemannia Aachen",
-   "away_name": "Waldhof Mannheim",
-   "league_id": 208
-  },
-  "5781805": {
-   "home": 4.2,
-   "draw": 4.1,
-   "away": 1.6,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795274962,
-   "home_name": "NEC Nijmegen",
-   "away_name": "PSV Eindhoven",
-   "league_id": 57
-  },
-  "5846026": {
-   "home": 1.3,
-   "draw": 5.25,
-   "away": 7.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795274962,
-   "home_name": "LASK",
-   "away_name": "Hartberg",
-   "league_id": 38
-  },
-  "5846027": {
-   "home": 1.81,
-   "draw": 3.8,
-   "away": 3.75,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795274963,
-   "home_name": "WSG Tirol",
-   "away_name": "Austria Lustenau",
-   "league_id": 38
-  },
-  "5904810": {
-   "home": 5.0,
-   "draw": 4.0,
-   "away": 1.6,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795274963,
-   "home_name": "Kocaelispor",
-   "away_name": "Fenerbahçe",
-   "league_id": 71
-  },
-  "5802996": {
-   "home": 6.0,
-   "draw": 5.0,
-   "away": 1.44,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795274964,
-   "home_name": "Nice",
-   "away_name": "Paris Saint-Germain",
-   "league_id": 53
-  },
-  "5967153": {
-   "home": 3.7,
-   "draw": 3.5,
-   "away": 1.8,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795274965,
-   "home_name": "Catanzaro",
-   "away_name": "Palermo",
-   "league_id": 86
-  },
-  "5804048": {
-   "home": 5.0,
-   "draw": 3.7,
-   "away": 1.57,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795274965,
-   "home_name": "Zagłębie Lubin",
-   "away_name": "Górnik Zabrze",
-   "league_id": 196
-  },
-  "5107663": {
-   "home": 2.35,
-   "draw": 3.3,
-   "away": 2.75,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795274966,
-   "home_name": "GAIS",
-   "away_name": "Västerås SK",
-   "league_id": 67
-  },
-  "5847232": {
-   "home": 1.75,
-   "draw": 4.35,
-   "away": 4.66,
-   "source": "fotmob:1xBet_Spain",
-   "ts": 1795274967,
-   "home_name": "CSKA Moscow",
-   "away_name": "FK Akhmat",
-   "league_id": 63
-  },
-  "5749758": {
-   "home": 12.0,
-   "draw": 6.25,
-   "away": 1.22,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795274968,
-   "home_name": "Parma",
-   "away_name": "Roma",
-   "league_id": 55
-  },
-  "5105050": {
-   "home": 1.47,
-   "draw": 4.75,
-   "away": 5.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795274968,
-   "home_name": "Vålerenga",
-   "away_name": "Start",
-   "league_id": 59
-  },
-  "5881225": {
-   "home": 1.3,
-   "draw": 6.5,
-   "away": 7.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795274978,
-   "event_id": "SSCCdgUi",
-   "league_id": 54
-  },
-  "5881227": {
-   "unavailable": true,
-   "ts": 1795274979,
-   "source": "none"
-  },
-  "5881228": {
-   "home": 2.5,
-   "draw": 4.0,
-   "away": 2.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795274983,
-   "event_id": "zgGKfXb4",
-   "league_id": 54
-  },
-  "5881229": {
-   "home": 3.5,
-   "draw": 3.5,
-   "away": 2.05,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795274988,
-   "event_id": "G6zXl2Sr",
-   "league_id": 54
-  },
-  "5847238": {
-   "home": 5.2,
-   "draw": 3.8,
-   "away": 1.58,
-   "source": "betexplorer:stake.com",
-   "ts": 1795275002,
-   "event_id": "SOrnnTAE",
-   "league_id": 63
-  },
-  "1000024309": {
-   "home": 1.62,
-   "draw": 3.6,
-   "away": 5.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795275014,
-   "event_id": "OAvEu92t",
-   "league_id": 86
-  },
-  "5804300": {
-   "home": 1.33,
-   "draw": 5.5,
-   "away": 7.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275201,
-   "home_name": "Lugano",
-   "away_name": "Grasshopper",
-   "league_id": 69
-  },
-  "5804302": {
-   "home": 1.3,
-   "draw": 6.0,
-   "away": 7.0,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795275201,
-   "home_name": "Young Boys",
-   "away_name": "Thun",
-   "league_id": 69
-  },
-  "5811813": {
-   "home": 1.36,
-   "draw": 4.5,
-   "away": 6.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795275202,
-   "home_name": "Genk",
-   "away_name": "RAAL La Louvière",
-   "league_id": 40
-  },
-  "5795523": {
-   "home": 6.0,
-   "draw": 4.0,
-   "away": 1.55,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275203,
-   "home_name": "Newcastle United",
-   "away_name": "Arsenal",
-   "league_id": 47
-  },
-  "5868140": {
-   "home": 2.88,
-   "draw": 3.4,
-   "away": 2.45,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275203,
-   "home_name": "Sevilla",
-   "away_name": "Real Betis",
-   "league_id": 87
-  },
-  "5943296": {
-   "home": 8.0,
-   "draw": 5.0,
-   "away": 1.25,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275204,
-   "home_name": "Kalamata",
-   "away_name": "AEK Athens",
-   "league_id": 135
-  },
-  "5881230": {
-   "home": 4.0,
-   "draw": 3.9,
-   "away": 1.83,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795275204,
-   "home_name": "Schalke 04",
-   "away_name": "VfB Stuttgart",
-   "league_id": 54
-  },
-  "5868549": {
-   "home": 1.35,
-   "draw": 5.0,
-   "away": 7.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275205,
-   "home_name": "Castellón",
-   "away_name": "Eldense",
-   "league_id": 140
-  },
-  "5781811": {
-   "home": 1.87,
-   "draw": 4.0,
-   "away": 3.5,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275205,
-   "home_name": "FC Utrecht",
-   "away_name": "Cambuur",
-   "league_id": 57
-  },
-  "5781806": {
-   "home": 1.2,
-   "draw": 7.5,
-   "away": 10.0,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275206,
-   "home_name": "Feyenoord",
-   "away_name": "Excelsior",
-   "league_id": 57
-  },
-  "5793977": {
-   "home": 3.2,
-   "draw": 3.7,
-   "away": 2.1,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275207,
-   "home_name": "Dundee FC",
-   "away_name": "Heart of Midlothian",
-   "league_id": 64
-  },
-  "5846025": {
-   "home": 7.5,
-   "draw": 4.33,
-   "away": 1.39,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275442,
-   "home_name": "Grazer AK",
-   "away_name": "Rapid Wien",
-   "league_id": 38
-  },
-  "5967154": {
-   "home": 3.75,
-   "draw": 3.4,
-   "away": 1.8,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795275443,
-   "home_name": "Empoli",
-   "away_name": "Pisa",
-   "league_id": 86
-  },
-  "5803324": {
-   "home": 3.3,
-   "draw": 3.3,
-   "away": 2.05,
-   "source": "fotmob:Paddy Power_UK",
-   "ts": 1795275443,
-   "home_name": "Reims",
-   "away_name": "Saint-Étienne",
-   "league_id": 110
-  },
-  "5804044": {
-   "home": 2.88,
-   "draw": 3.6,
-   "away": 2.2,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275444,
-   "home_name": "Radomiak Radom",
-   "away_name": "Wisła Kraków",
-   "league_id": 196
-  },
-  "5881733": {
-   "home": 2.05,
-   "draw": 3.5,
-   "away": 3.35,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795275445,
-   "home_name": "St. Pauli",
-   "away_name": "Bochum",
-   "league_id": 146
-  },
-  "5804301": {
-   "home": 1.62,
-   "draw": 4.1,
-   "away": 4.5,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275445,
-   "home_name": "Sion",
-   "away_name": "Servette",
-   "league_id": 69
-  },
-  "5103717": {
-   "home": 3.45,
-   "draw": 3.45,
-   "away": 2.0,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795275446,
-   "home_name": "Palmeiras",
-   "away_name": "Flamengo",
-   "league_id": 268
-  },
-  "5749757": {
-   "home": 1.44,
-   "draw": 4.5,
-   "away": 6.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795275446,
-   "home_name": "Napoli",
-   "away_name": "Torino",
-   "league_id": 55
-  },
-  "5811815": {
-   "home": 6.25,
-   "draw": 4.75,
-   "away": 1.38,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275447,
-   "home_name": "KV Mechelen",
-   "away_name": "Club Brugge",
-   "league_id": 40
-  },
-  "5811817": {
-   "home": 2.25,
-   "draw": 3.25,
-   "away": 2.7,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795275448,
-   "home_name": "Zulte Waregem",
-   "away_name": "Royal Antwerp",
-   "league_id": 40
-  },
-  "5802991": {
-   "home": 2.1,
-   "draw": 3.6,
-   "away": 3.3,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275448,
-   "home_name": "Lens",
-   "away_name": "Toulouse",
-   "league_id": 53
-  },
-  "5802992": {
-   "home": 2.38,
-   "draw": 3.25,
-   "away": 3.25,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275683,
-   "home_name": "Lille",
-   "away_name": "Lyon",
-   "league_id": 53
-  },
-  "5802995": {
-   "home": 1.4,
-   "draw": 4.75,
-   "away": 8.0,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275683,
-   "home_name": "Monaco",
-   "away_name": "Auxerre",
-   "league_id": 53
-  },
-  "5802998": {
-   "home": 2.15,
-   "draw": 3.6,
-   "away": 3.0,
-   "source": "fotmob:Sky Bet_UK",
-   "ts": 1795275684,
-   "home_name": "Strasbourg",
-   "away_name": "Brest",
-   "league_id": 53
-  },
-  "5868139": {
-   "home": 1.15,
-   "draw": 8.5,
-   "away": 17.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275684,
-   "home_name": "Real Madrid",
-   "away_name": "Celta Vigo",
-   "league_id": 87
-  },
-  "5781808": {
-   "home": 2.8,
-   "draw": 3.8,
-   "away": 2.3,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795275685,
-   "home_name": "FC Groningen",
-   "away_name": "SC Heerenveen",
-   "league_id": 57
-  },
-  "5781807": {
-   "home": 2.05,
-   "draw": 3.75,
-   "away": 3.2,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795275685,
-   "home_name": "Telstar",
-   "away_name": "PEC Zwolle",
-   "league_id": 57
-  },
-  "5793981": {
-   "home": 5.25,
-   "draw": 4.33,
-   "away": 1.53,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275686,
-   "home_name": "Motherwell",
-   "away_name": "Rangers",
-   "league_id": 64
-  },
-  "5868557": {
-   "home": 3.25,
-   "draw": 3.0,
-   "away": 2.32,
-   "source": "fotmob:Bet365_UK affiliate",
-   "ts": 1795275687,
-   "home_name": "Tenerife",
-   "away_name": "Mallorca",
-   "league_id": 140
-  },
-  "5103722": {
-   "home": 1.44,
-   "draw": 4.5,
-   "away": 6.0,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795275689,
-   "home_name": "Bahia",
-   "away_name": "Coritiba",
-   "league_id": 268
-  },
-  "1000013273": {
-   "home": 3.6,
-   "draw": 3.6,
-   "away": 1.81,
-   "source": "fotmob:Bet365_UK CPM",
-   "ts": 1795275690,
-   "home_name": "O'Higgins",
-   "away_name": "Universidad de Chile",
-   "league_id": 273
-  },
-  "5881231": {
-   "home": 6.0,
-   "draw": 5.0,
-   "away": 1.45,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795275966,
-   "event_id": "Cxt0z3Dk",
-   "league_id": 54
-  },
-  "5836936": {
-   "home": 2.75,
-   "draw": 3.2,
-   "away": 2.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276206,
-   "event_id": "rolIjmHG",
-   "league_id": 48
-  },
-  "5836937": {
-   "home": 1.33,
-   "draw": 5.0,
-   "away": 7.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276227,
-   "event_id": "rT6S6W9b",
-   "league_id": 48
-  },
-  "5836940": {
-   "unavailable": true,
-   "ts": 1795276228,
-   "source": "none"
-  },
-  "5836942": {
-   "home": 2.7,
-   "draw": 3.3,
-   "away": 2.6,
-   "source": "betexplorer:betmgm.us",
-   "ts": 1795276232,
-   "event_id": "QZt0LVOi",
-   "league_id": 48
-  },
-  "5836944": {
-   "home": 1.22,
-   "draw": 6.25,
-   "away": 10.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276255,
-   "event_id": "Yap8J9g4",
-   "league_id": 48
-  },
-  "5836945": {
-   "home": 1.19,
-   "draw": 6.5,
-   "away": 11.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276273,
-   "event_id": "Q72FHmOG",
-   "league_id": 48
-  },
-  "5105049": {
-   "unavailable": true,
-   "ts": 1795276286,
-   "source": "none"
-  },
-  "5837269": {
-   "home": 1.62,
-   "draw": 3.75,
-   "away": 5.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276290,
-   "event_id": "KOIVW3Hq",
-   "league_id": 108
-  },
-  "5837271": {
-   "unavailable": true,
-   "ts": 1795276291,
-   "source": "none"
-  },
-  "5837272": {
-   "home": 1.96,
-   "draw": 3.75,
-   "away": 3.3,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276306,
-   "event_id": "S8CXjP8F",
-   "league_id": 108
-  },
-  "5837273": {
-   "home": 1.62,
-   "draw": 3.8,
-   "away": 4.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276309,
-   "event_id": "Y5Fuk3wS",
-   "league_id": 108
-  },
-  "5837274": {
-   "unavailable": true,
-   "ts": 1795276310,
-   "source": "none"
-  },
-  "5837275": {
-   "home": 1.9,
-   "draw": 3.4,
-   "away": 3.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276312,
-   "event_id": "x24JsLV1",
-   "league_id": 108
-  },
-  "5837276": {
-   "unavailable": true,
-   "ts": 1795276313,
-   "source": "none"
-  },
-  "5837277": {
-   "home": 1.86,
-   "draw": 3.7,
-   "away": 3.7,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276327,
-   "event_id": "xMfD32hL",
-   "league_id": 108
-  },
-  "5838039": {
-   "home": 3.7,
-   "draw": 3.6,
-   "away": 1.86,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276356,
-   "event_id": "pYz5y7zA",
-   "league_id": 109
-  },
-  "5838041": {
-   "home": 3.1,
-   "draw": 3.3,
-   "away": 2.2,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276373,
-   "event_id": "Op1pHxke",
-   "league_id": 109
-  },
-  "5838042": {
-   "home": 1.62,
-   "draw": 3.9,
-   "away": 4.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276375,
-   "event_id": "dCEiFGJ7",
-   "league_id": 109
-  },
-  "5838043": {
-   "home": 3.4,
-   "draw": 3.6,
-   "away": 2.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276389,
-   "event_id": "OI6wwKBE",
-   "league_id": 109
-  },
-  "5838045": {
-   "home": 1.53,
-   "draw": 4.33,
-   "away": 4.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276391,
-   "event_id": "SEeHVy4l",
-   "league_id": 109
-  },
-  "5838047": {
-   "home": 1.71,
-   "draw": 3.6,
-   "away": 4.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276405,
-   "event_id": "YBbPTFY0",
-   "league_id": 109
-  },
-  "5838048": {
-   "home": 1.86,
-   "draw": 3.5,
-   "away": 3.8,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276407,
-   "event_id": "6PdXRg3D",
-   "league_id": 109
-  },
-  "5838050": {
-   "home": 1.66,
-   "draw": 4.0,
-   "away": 4.33,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276409,
-   "event_id": "4EukpyJs",
-   "league_id": 109
-  },
-  "5795515": {
-   "home": 2.1,
-   "draw": 3.3,
-   "away": 3.6,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276422,
-   "event_id": "YH1oNO7k",
-   "league_id": 47
-  },
-  "5795516": {
-   "home": 1.7,
-   "draw": 3.9,
-   "away": 4.75,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276425,
-   "event_id": "6VagL2x2",
-   "league_id": 47
-  },
-  "5795524": {
-   "home": 1.45,
-   "draw": 4.75,
-   "away": 6.25,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276429,
-   "event_id": "0lPbl16l",
-   "league_id": 47
-  },
-  "5793978": {
-   "home": 1.86,
-   "draw": 3.75,
-   "away": 3.7,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276433,
-   "event_id": "j58I3Mwp",
-   "league_id": 64
-  },
-  "5793979": {
-   "unavailable": true,
-   "ts": 1795276435,
-   "source": "none"
-  },
-  "5793980": {
-   "home": 2.35,
-   "draw": 3.5,
-   "away": 2.7,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276440,
-   "event_id": "UFgCP303",
-   "league_id": 64
-  },
-  "5793976": {
-   "home": 1.15,
-   "draw": 7.5,
-   "away": 11.0,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795276460,
-   "event_id": "CdEvB4oA",
-   "league_id": 64
-  },
-  "5868138": {
-   "home": 2.0,
-   "draw": 3.4,
-   "away": 3.8,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795277177,
-   "event_id": "Yq8ZYa0D",
-   "league_id": 87
-  },
-  "5838040": {
-   "home": 1.9,
-   "draw": 3.4,
-   "away": 3.7,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795277430,
-   "event_id": "jX2xJbKr",
-   "league_id": 109
-  },
-  "5811812": {
-   "home": 1.95,
-   "draw": 3.4,
-   "away": 3.5,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795277912,
-   "event_id": "MXWPYY3L",
-   "league_id": 40
-  },
-  "5795518": {
-   "home": 1.95,
-   "draw": 3.7,
-   "away": 3.7,
-   "source": "betexplorer:bet365.us",
-   "ts": 1795277934,
-   "event_id": "KhjmspaL",
-   "league_id": 47
-  },
   "1000014647": {
    "home": 2.5,
    "draw": 4.0,
@@ -2148,15 +893,119 @@
    "home_name": "Santos",
    "away_name": "Grêmio",
    "league_id": 268
+  },
+  "5967163": {
+   "home": 1.96,
+   "draw": 3.4,
+   "away": 3.6,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795539822,
+   "home_name": "Juve Stabia",
+   "away_name": "Catanzaro",
+   "league_id": 86
+  },
+  "5967159": {
+   "home": 1.39,
+   "draw": 4.33,
+   "away": 7.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795539823,
+   "home_name": "Benevento",
+   "away_name": "Empoli",
+   "league_id": 86
+  },
+  "5967160": {
+   "home": 2.7,
+   "draw": 3.0,
+   "away": 2.63,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795539823,
+   "home_name": "Cesena",
+   "away_name": "Ascoli",
+   "league_id": 86
+  },
+  "5967167": {
+   "home": 1.4,
+   "draw": 4.3,
+   "away": 6.95,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1795539824,
+   "home_name": "Palermo",
+   "away_name": "Südtirol",
+   "league_id": 86
+  },
+  "5967162": {
+   "home": 3.75,
+   "draw": 3.0,
+   "away": 2.1,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795539827,
+   "home_name": "Virtus Entella",
+   "away_name": "Hellas Verona",
+   "league_id": 86
+  },
+  "5793966": {
+   "home": 1.5,
+   "draw": 4.45,
+   "away": 5.5,
+   "source": "fotmob:Ladbrokes_UK",
+   "ts": 1795539828,
+   "home_name": "Hibernian",
+   "away_name": "Dundee FC",
+   "league_id": 64
+  },
+  "5836946": {
+   "home": 2.35,
+   "draw": 3.1,
+   "away": 3.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795539829,
+   "home_name": "Bristol City",
+   "away_name": "Wrexham",
+   "league_id": 48
+  },
+  "5836947": {
+   "home": 1.44,
+   "draw": 4.75,
+   "away": 6.0,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795539830,
+   "home_name": "Cardiff City",
+   "away_name": "Preston North End",
+   "league_id": 48
+  },
+  "5836948": {
+   "home": 3.0,
+   "draw": 3.2,
+   "away": 2.35,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795539830,
+   "home_name": "Charlton Athletic",
+   "away_name": "Lincoln City",
+   "league_id": 48
+  },
+  "5836949": {
+   "home": 1.35,
+   "draw": 5.0,
+   "away": 7.65,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1795539831,
+   "home_name": "Middlesbrough",
+   "away_name": "Swansea City",
+   "league_id": 48
+  },
+  "5836950": {
+   "home": 2.05,
+   "draw": 3.7,
+   "away": 3.4,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795539831,
+   "home_name": "Norwich City",
+   "away_name": "Queens Park Rangers",
+   "league_id": 48
   }
  },
- "odds_check": {
-  "5781809:favht": {
-   "t": 1795365308,
-   "minute": 45,
-   "price": 2.0
-  }
- },
+ "odds_check": {},
  "rules": {
   "SOT_MIN": 3,
   "SOT_MARGIN": 2,
@@ -2190,12 +1039,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 0,
+ "live_count": 8,
  "candidates_last": 0,
- "last_scan": "2026-11-24 07:49",
- "requests_last": 1,
- "last_write": "2026-11-24 07:49",
- "last_write_ts": 1795502968,
+ "last_scan": "2026-11-24 18:03",
+ "requests_last": 18,
+ "last_write": "2026-11-24 18:03",
+ "last_write_ts": 1795539832,
  "odds_api": {
   "remaining": "479",
   "used": "21",
