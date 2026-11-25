@@ -5,6 +5,16 @@
    "t": 1795636322,
    "r": "non è 0-0",
    "strategy": "favht"
+  },
+  "5967165:lay_sfav": {
+   "t": 1795636799,
+   "r": "prematch favorita 1,56 sopra 1,45",
+   "strategy": "lay_sfav"
+  },
+  "5967168:favht": {
+   "t": 1795636802,
+   "r": "prematch 2,45 fuori range 1,25-1,60",
+   "strategy": "favht"
   }
  },
  "prematch": {
@@ -446,6 +456,24 @@
    "home_name": "Toluca",
    "away_name": "Atlas",
    "league_id": 230
+  },
+  "5967165": {
+   "home": 1.56,
+   "draw": 3.9,
+   "away": 5.5,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795636799,
+   "event_id": "IBSnsMwo",
+   "league_id": 86
+  },
+  "5967168": {
+   "home": 2.45,
+   "draw": 3.1,
+   "away": 2.8,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795636802,
+   "event_id": "bVspYr1U",
+   "league_id": 86
   }
  },
  "odds_check": {},
@@ -482,12 +510,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 18,
+ "live_count": 17,
  "candidates_last": 2,
- "last_scan": "2026-11-25 20:56",
- "requests_last": 15,
- "last_write": "2026-11-25 20:56",
- "last_write_ts": 1795636567,
+ "last_scan": "2026-11-25 21:00",
+ "requests_last": 14,
+ "last_write": "2026-11-25 21:00",
+ "last_write_ts": 1795636802,
  "odds_api": {
   "remaining": "479",
   "used": "21",
