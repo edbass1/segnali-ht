@@ -489,6 +489,56 @@
    "home_name": "Macarthur FC",
    "away_name": "Melbourne City FC",
    "league_id": 113
+  },
+  "5804054": {
+   "home": 1.75,
+   "draw": 3.9,
+   "away": 3.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795780104,
+   "home_name": "Raków Częstochowa",
+   "away_name": "Piast Gliwice",
+   "league_id": 196
+  },
+  "5904814": {
+   "home": 2.65,
+   "draw": 3.0,
+   "away": 2.65,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795780105,
+   "home_name": "Alanyaspor",
+   "away_name": "Konyaspor",
+   "league_id": 71
+  },
+  "5904815": {
+   "home": 1.95,
+   "draw": 3.7,
+   "away": 3.45,
+   "source": "fotmob:Ladbrokes_UK",
+   "ts": 1795780105,
+   "home_name": "Rizespor",
+   "away_name": "Kasımpaşa",
+   "league_id": 71
+  },
+  "5881735": {
+   "home": 1.62,
+   "draw": 3.8,
+   "away": 4.75,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795780107,
+   "home_name": "Bochum",
+   "away_name": "Darmstadt",
+   "league_id": 146
+  },
+  "5881738": {
+   "home": 2.1,
+   "draw": 3.9,
+   "away": 2.88,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795780108,
+   "home_name": "FC Heidenheim",
+   "away_name": "1. FC Nürnberg",
+   "league_id": 146
   }
  },
  "odds_check": {},
@@ -525,12 +575,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 2,
+ "live_count": 11,
  "candidates_last": 0,
- "last_scan": "2026-11-27 04:49",
- "requests_last": 2,
- "last_write": "2026-11-27 04:49",
- "last_write_ts": 1795751356,
+ "last_scan": "2026-11-27 12:48",
+ "requests_last": 21,
+ "last_write": "2026-11-27 12:48",
+ "last_write_ts": 1795780110,
  "odds_api": {
   "remaining": "479",
   "used": "21",
