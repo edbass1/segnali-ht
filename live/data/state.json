@@ -559,6 +559,16 @@
    "home_name": "Sønderjyske",
    "away_name": "Brøndby IF",
    "league_id": 46
+  },
+  "5846031": {
+   "home": 3.35,
+   "draw": 3.25,
+   "away": 2.15,
+   "source": "fotmob:Ladbrokes_UK",
+   "ts": 1795782742,
+   "home_name": "Grazer AK",
+   "away_name": "Altach",
+   "league_id": 38
   }
  },
  "odds_check": {},
@@ -595,12 +605,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 18,
+ "live_count": 19,
  "candidates_last": 0,
- "last_scan": "2026-11-27 13:28",
- "requests_last": 11,
- "last_write": "2026-11-27 13:28",
- "last_write_ts": 1795782504,
+ "last_scan": "2026-11-27 13:32",
+ "requests_last": 12,
+ "last_write": "2026-11-27 13:32",
+ "last_write_ts": 1795782742,
  "odds_api": {
   "remaining": "479",
   "used": "21",
