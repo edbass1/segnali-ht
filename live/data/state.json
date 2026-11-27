@@ -63,36 +63,6 @@
   }
  },
  "prematch": {
-  "5103720": {
-   "home": 1.57,
-   "draw": 3.75,
-   "away": 5.5,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795471644,
-   "home_name": "Internacional",
-   "away_name": "Vitória",
-   "league_id": 268
-  },
-  "5103715": {
-   "home": 2.25,
-   "draw": 3.3,
-   "away": 3.05,
-   "source": "fotmob:Betfred_United Kingdom",
-   "ts": 1795471645,
-   "home_name": "Botafogo",
-   "away_name": "São Paulo",
-   "league_id": 268
-  },
-  "5103716": {
-   "home": 1.62,
-   "draw": 4.2,
-   "away": 4.75,
-   "source": "fotmob:Betfair UK Sportsbook_UK",
-   "ts": 1795471646,
-   "home_name": "Santos",
-   "away_name": "Grêmio",
-   "league_id": 268
-  },
   "5967163": {
    "home": 1.96,
    "draw": 3.4,
@@ -509,6 +479,16 @@
    "home_name": "León",
    "away_name": "Cruz Azul",
    "league_id": 230
+  },
+  "1000017586": {
+   "home": 3.25,
+   "draw": 3.7,
+   "away": 2.01,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795748238,
+   "home_name": "Macarthur FC",
+   "away_name": "Melbourne City FC",
+   "league_id": 113
   }
  },
  "odds_check": {},
@@ -545,12 +525,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 19,
+ "live_count": 2,
  "candidates_last": 0,
- "last_scan": "2026-11-26 22:11",
+ "last_scan": "2026-11-27 03:57",
  "requests_last": 3,
- "last_write": "2026-11-26 22:11",
- "last_write_ts": 1795727475,
+ "last_write": "2026-11-27 03:57",
+ "last_write_ts": 1795748238,
  "odds_api": {
   "remaining": "479",
   "used": "21",
