@@ -441,11 +441,11 @@
   "ODDS_RECHECK_MIN": 10
  },
  "live_count": 42,
- "candidates_last": 3,
- "last_scan": "2026-11-27 21:41",
- "requests_last": 11,
- "last_write": "2026-11-27 21:41",
- "last_write_ts": 1795812072,
+ "candidates_last": 1,
+ "last_scan": "2026-11-27 21:45",
+ "requests_last": 3,
+ "last_write": "2026-11-27 21:45",
+ "last_write_ts": 1795812302,
  "odds_api": {
   "remaining": "479",
   "used": "21",
