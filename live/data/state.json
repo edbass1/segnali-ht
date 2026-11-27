@@ -80,6 +80,16 @@
    "t": 1795812560,
    "r": "prematch favorita 2,40 sopra 1,45",
    "strategy": "lay_sfav"
+  },
+  "5887685:favht": {
+   "t": 1795813508,
+   "r": "non è 0-0",
+   "strategy": "favht"
+  },
+  "5887685:lay_sfav": {
+   "t": 1795813508,
+   "r": "prematch favorita 2,00 sopra 1,45",
+   "strategy": "lay_sfav"
   }
  },
  "prematch": {
@@ -456,6 +466,15 @@
    "ts": 1795812560,
    "event_id": "lnwD2iRb",
    "league_id": 47
+  },
+  "5887685": {
+   "home": 2.0,
+   "draw": 3.3,
+   "away": 3.7,
+   "source": "betexplorer:bet365.us",
+   "ts": 1795813508,
+   "event_id": "lObmkyA5",
+   "league_id": 61
   }
  },
  "odds_check": {},
@@ -492,12 +511,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 33,
+ "live_count": 31,
  "candidates_last": 1,
- "last_scan": "2026-11-27 22:01",
- "requests_last": 3,
- "last_write": "2026-11-27 22:01",
- "last_write_ts": 1795813262,
+ "last_scan": "2026-11-27 22:05",
+ "requests_last": 9,
+ "last_write": "2026-11-27 22:05",
+ "last_write_ts": 1795813508,
  "odds_api": {
   "remaining": "479",
   "used": "21",
