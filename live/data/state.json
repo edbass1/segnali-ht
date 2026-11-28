@@ -1,11 +1,6 @@
 {
  "sent": {},
  "done": {
-  "1000022854:favht": {
-   "t": 1795660146,
-   "r": "non è 0-0",
-   "strategy": "favht"
-  },
   "5837281:favht": {
    "t": 1795726278,
    "r": "non è 0-0",
@@ -475,6 +470,106 @@
    "ts": 1795813508,
    "event_id": "lObmkyA5",
    "league_id": 61
+  },
+  "5803678": {
+   "home": 2.3,
+   "draw": 3.25,
+   "away": 2.63,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795834151,
+   "home_name": "Kyoto Sanga FC",
+   "away_name": "Cerezo Osaka",
+   "league_id": 223
+  },
+  "5803682": {
+   "home": 4.0,
+   "draw": 3.5,
+   "away": 1.87,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795834152,
+   "home_name": "Shimizu S-Pulse",
+   "away_name": "Urawa Red Diamonds",
+   "league_id": 223
+  },
+  "6503841": {
+   "home": 2.5,
+   "draw": 3.4,
+   "away": 2.55,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795834152,
+   "home_name": "FC Seoul",
+   "away_name": "Daejeon Hana Citizen",
+   "league_id": 9080
+  },
+  "6503957": {
+   "home": 2.15,
+   "draw": 3.25,
+   "away": 2.8,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795834153,
+   "home_name": "FC Anyang",
+   "away_name": "Jeju SK",
+   "league_id": 9080
+  },
+  "5803675": {
+   "home": 1.71,
+   "draw": 3.75,
+   "away": 4.5,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795834154,
+   "home_name": "Kashima Antlers",
+   "away_name": "Fagiano Okayama FC",
+   "league_id": 223
+  },
+  "5803683": {
+   "home": 1.62,
+   "draw": 4.1,
+   "away": 4.75,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795834154,
+   "home_name": "Vissel Kobe",
+   "away_name": "JEF United Chiba",
+   "league_id": 223
+  },
+  "5803676": {
+   "home": 2.8,
+   "draw": 3.6,
+   "away": 2.25,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795834155,
+   "home_name": "Kashiwa Reysol",
+   "away_name": "Sanfrecce Hiroshima",
+   "league_id": 223
+  },
+  "6503958": {
+   "home": 2.7,
+   "draw": 3.3,
+   "away": 2.38,
+   "source": "fotmob:Bet365_UK CPM",
+   "ts": 1795834156,
+   "home_name": "Bucheon FC 1995",
+   "away_name": "Gimcheon Sangmu",
+   "league_id": 9080
+  },
+  "6503959": {
+   "home": 1.9,
+   "draw": 3.4,
+   "away": 3.75,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795834156,
+   "home_name": "Pohang Steelers",
+   "away_name": "Gwangju FC",
+   "league_id": 9080
+  },
+  "1000017587": {
+   "home": 3.6,
+   "draw": 3.7,
+   "away": 1.91,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795834157,
+   "home_name": "Central Coast Mariners",
+   "away_name": "Auckland FC",
+   "league_id": 113
   }
  },
  "odds_check": {},
@@ -511,12 +606,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 29,
+ "live_count": 7,
  "candidates_last": 0,
- "last_scan": "2026-11-27 22:13",
- "requests_last": 2,
- "last_write": "2026-11-27 22:13",
- "last_write_ts": 1795813981,
+ "last_scan": "2026-11-28 03:49",
+ "requests_last": 12,
+ "last_write": "2026-11-28 03:49",
+ "last_write_ts": 1795834157,
  "odds_api": {
   "remaining": "479",
   "used": "21",
