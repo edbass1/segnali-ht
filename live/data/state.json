@@ -610,6 +610,116 @@
    "home_name": "Exeter City",
    "away_name": "Crawley Town",
    "league_id": 109
+  },
+  "5868141": {
+   "home": 1.6,
+   "draw": 4.2,
+   "away": 5.25,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795863666,
+   "home_name": "Real Betis",
+   "away_name": "Rayo Vallecano",
+   "league_id": 87
+  },
+  "5905992": {
+   "home": 2.1,
+   "draw": 3.4,
+   "away": 2.9,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795863667,
+   "home_name": "Preussen Münster",
+   "away_name": "SC Verl",
+   "league_id": 208
+  },
+  "5905994": {
+   "home": 2.38,
+   "draw": 3.5,
+   "away": 2.4,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795863667,
+   "home_name": "Saarbrücken",
+   "away_name": "Alemannia Aachen",
+   "league_id": 208
+  },
+  "5905997": {
+   "home": 3.4,
+   "draw": 3.5,
+   "away": 1.85,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795863668,
+   "home_name": "Würzburger Kickers",
+   "away_name": "Fortuna Düsseldorf",
+   "league_id": 208
+  },
+  "5868565": {
+   "home": 2.2,
+   "draw": 3.2,
+   "away": 2.88,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795863669,
+   "home_name": "Las Palmas",
+   "away_name": "FC Andorra",
+   "league_id": 140
+  },
+  "5904820": {
+   "home": 1.8,
+   "draw": 3.3,
+   "away": 3.8,
+   "source": "fotmob:Sky Bet_UK",
+   "ts": 1795863670,
+   "home_name": "Samsunspor",
+   "away_name": "Gençlerbirliği",
+   "league_id": 71
+  },
+  "5847240": {
+   "home": 3.21,
+   "draw": 3.84,
+   "away": 2.26,
+   "source": "fotmob:1xBet_Spain",
+   "ts": 1795863671,
+   "home_name": "CSKA Moscow",
+   "away_name": "Zenit St. Petersburg",
+   "league_id": 63
+  },
+  "5804056": {
+   "home": 1.95,
+   "draw": 3.4,
+   "away": 3.8,
+   "source": "fotmob:Betfair UK Sportsbook_UK",
+   "ts": 1795863672,
+   "home_name": "Widzew Łódź",
+   "away_name": "Zagłębie Lubin",
+   "league_id": 196
+  },
+  "5749763": {
+   "home": 1.4,
+   "draw": 5.0,
+   "away": 6.5,
+   "source": "fotmob:Paddy Power_UK",
+   "ts": 1795863672,
+   "home_name": "Frosinone",
+   "away_name": "Parma",
+   "league_id": 55
+  },
+  "5967170": {
+   "home": 1.68,
+   "draw": 3.6,
+   "away": 5.0,
+   "source": "fotmob:Bet365_UK affiliate",
+   "ts": 1795863673,
+   "home_name": "Ascoli",
+   "away_name": "Virtus Entella",
+   "league_id": 86
+  },
+  "5967171": {
+   "home": 2.05,
+   "draw": 3.1,
+   "away": 3.9,
+   "source": "fotmob:Betfred_United Kingdom",
+   "ts": 1795863674,
+   "home_name": "Carrarese",
+   "away_name": "Juve Stabia",
+   "league_id": 86
   }
  },
  "odds_check": {},
@@ -646,12 +756,12 @@
   "LOW_QUOTA_ACTION": "alert",
   "ODDS_RECHECK_MIN": 10
  },
- "live_count": 11,
+ "live_count": 18,
  "candidates_last": 0,
- "last_scan": "2026-11-28 11:57",
+ "last_scan": "2026-11-28 12:01",
  "requests_last": 18,
- "last_write": "2026-11-28 11:57",
- "last_write_ts": 1795863437,
+ "last_write": "2026-11-28 12:01",
+ "last_write_ts": 1795863674,
  "odds_api": {
   "remaining": "479",
   "used": "21",
